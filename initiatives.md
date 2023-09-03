@@ -1,6 +1,6 @@
 ---
 layout: page
-title : State Council
+title : Initiatives
 ---
 ### Education/outreach/community engagement
 
