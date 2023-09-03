@@ -8,7 +8,7 @@ layout: home
 ![logo](logo.png)
 
 
-## Welcome to NM DarkSky
+## Welcome to New Mexico DarkSky
 
 Founded in June 2023, we are a state chapter of [DarkSky International](https://darksky.org).
 All members of DarkSky International in the state of New Mexico are chapter members. The
