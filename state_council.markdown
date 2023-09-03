@@ -6,17 +6,17 @@ layout: page
 title : State Council
 ---
 
-John Briggs
+**John Briggs**
 
-Jamey Eriksen
+**Jamey Eriksen**
 
-Galen Gisler
+**Galen Gisler**
 
-Michael Hensley
+**Michael Hensley**
 
-Jon Holtzman
+**Jon Holtzman**
 
-![image](holtz.jpg){: style="float: left ; width: 20%"}
+![image](holtz.jpg){: style="float: left ; width: 20% ; padding: 15px"}
  Jon Holtzman is a professional astronomer and educator. He is currently a full 
  Professor of Astronomy at New Mexico State University, where he has worked
  since 1995. His research interests have led to significant involvement with 
@@ -28,10 +28,11 @@ Jon Holtzman
  As an outdoor enthusiast, he finds respite from looking at the dark nighttime
  sky, and wants to ensure that all people have the opportunity to do the same.
 
-Nick Knorr
+**Nick Knorr**
 
-![image](marisela.jpeg){: style="float: left ; width: 20%"}
-Marisela La Grave
+**Marisela La Grave**
+
+![image](marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 In advance I'd like to share what I'm up to and make sure there is not a conflict of interest.
 Currently working with other key collaborators on projects related to the Dark Sky Environmental Preservation in New Mexico,
 specifically on the Dark Sky Land Astronomical corridor - Hwy 60 (Bortle Class 1) 
@@ -57,15 +58,14 @@ And here is my Biography (mostly related to Transmedia Projects)
 Marisela La Grave (Bio)
 [https://www.magneticlaboratoriumtm.com/biography.html](https://www.magneticlaboratoriumtm.com/biography.html)
 
+**Peter Lipscomb**
 
-Peter Lipscomb
+**Amalio Madueño**
 
-Amalio Madueño
+**Gary Starkweather**
 
-Gary Starkweather
+**Sheila Sullivan**
 
-Sheila Sullivan
-
-Derek Wallentinsen
+**Derek Wallentinsen**
 
 
