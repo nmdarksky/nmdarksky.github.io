@@ -1,0 +1,47 @@
+---
+layout: page
+title : State Council
+---
+### Education/outreach/community engagement
+
+Committee:
+
+Goals:
+
+Actions:
+
+### Tourism/economic development
+
+Committee:
+
+Goals:
+
+Actions:
+
+
+### Ordinances/monitoring
+
+Committee:
+
+Goals:
+
+Actions:
+
+
+### Ecological impacts/mitigation
+
+Committee:
+
+Goals:
+
+Actions:
+
+
+### Expansion/establishment of dark sky places
+
+Committee:
+
+Goals:
+
+Actions:
+
