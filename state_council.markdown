@@ -61,5 +61,25 @@ And here is my [biography](https://www.magneticlaboratoriumtm.com/biography.html
 **Sheila Sullivan**
 
 **Derek Wallentinsen**
+![image](wallentinsen.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+Derek Wallentinsen is an independent educator who has been deeply involved in
+astronomy outreach and dark skies preservation throughout his life. He is a NASA
+JPL Solar System Ambassador, NASA ASP Eclipse Ambassador and AUI Astronomy
+in Chile Educator Ambassador, sharing astronomy knowledge with broadly diverse
+groups of the public. He has lived in NM since 1958 and has been active in private
+and public dark-sky vocations. An early activist for dark skies, Derek drafted a
+night-sky friendly municipal lighting ordinance in the 1970s. During his time as a
+National Park Service ranger, Derek was instrumental in the certification of
+several national parks as International Dark Sky Parks (including Dinosaur
+National Monument and El Morro National Monument) and was the recipient of
+three STAR awards. He currently is an AstroVIP at several national parks,
+monitoring their dark skies and creating various outreach programs and videos.
+He formerly worked at the telescope company Celestron and originated the
+company’s online knowledgebase.  
+Wallentinsen has a Master of Science degree in Astrophysics. In addition to
+telescopes, night and day skies, he enjoys desert hiking, geology and birds from
+his home base in Albuquerque, New Mexico.  
+“I want to see New Mexico’s Dark Sky International chapter broaden out to reach
+beyond astronomy to biology, human health and cultural impacts.”
 
 
