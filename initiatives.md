@@ -4,7 +4,7 @@ title : Initiatives
 ---
 ### Education/outreach/community engagement
 
-Committee:
+Committee: Derek Wallentinsen
 
 Goals:
 
@@ -30,7 +30,7 @@ Actions:
 
 ### Ecological impacts/mitigation
 
-Committee:
+Committee: Derek Wallentinsen
 
 Goals:
 
