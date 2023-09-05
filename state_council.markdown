@@ -45,6 +45,7 @@ La Grave studied Film at Tisch School, New York University (New York) - Universi
 **Sheila Sullivan**
 
 **Derek Wallentinsen**
+
 ![image](wallentinsen.jpg){: style="float: left ; width: 20% ; padding: 15px"}
 Derek Wallentinsen is an independent educator who has been deeply involved in
 astronomy outreach and dark skies preservation throughout his life. He is a NASA
