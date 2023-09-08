@@ -4,7 +4,7 @@ title : Initiatives
 ---
 ### Education/outreach/community engagement
 
-Committee: Derek Wallentinsen
+Committee: Derek Wallentinsen, Galen Gisler
 
 Goals:
 
@@ -21,7 +21,7 @@ Actions:
 
 ### Ordinances/monitoring
 
-Committee:
+Committee: Gary Starkweather, Galen Gisler
 
 Goals:
 
