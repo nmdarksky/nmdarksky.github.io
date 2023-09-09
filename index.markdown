@@ -20,6 +20,10 @@ through community engagement, advocacy, and conservation*
 
 [State Council](state_council) 
 
+[State members (restricted)](https://app.box.com/folder/211347332732)
+
+[Stakeholders/interested parties (restricted)](https://app.box.com/file/1176385402360)
+
 [Draft bylaws](bylaws.pdf)  (not yet adopted)
 
 [Initiatives](initiatives) : main areas of effort; goals and actions
