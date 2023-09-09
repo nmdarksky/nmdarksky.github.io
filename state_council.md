@@ -10,7 +10,11 @@ title : State Council
 
 **Jamey Eriksen**
 
+[long bio](bios#Eriksen)
+
 **Galen Gisler**
+
+[long bio](bios#Gisler)
 
 **Michael Hensley**
 
@@ -27,6 +31,8 @@ Tortugas Mountain Observatory outside of Las Cruces.
 As an outdoor enthusiast, he finds respite from looking at the dark nighttime
 sky, and wants to ensure that all people have the opportunity to do the same.
 
+[long bio](bios#Holtzman)
+
 **Nick Knorr**
 
 **Marisela La Grave**
@@ -41,6 +47,8 @@ La Grave studied Film at Tisch School, New York University (New York) - Universi
 **Amalio Madueño**
 
 **Gary Starkweather**
+
+[long bio](bios#Starkweather)
 
 **Sheila Sullivan**
 

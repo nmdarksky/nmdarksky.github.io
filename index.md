@@ -20,14 +20,18 @@ through community engagement, advocacy, and conservation*
 
 [State Council](state_council) 
 
-[State members (restricted)](https://app.box.com/folder/211347332732)
+[State members (Box Drive restricted)](https://app.box.com/folder/211347332732)
 
-[Stakeholders/interested parties (restricted)](https://app.box.com/file/1176385402360)
+[Stakeholders/interested parties (Box Drive restricted)](https://app.box.com/file/1176385402360)
 
 [Draft bylaws](bylaws.pdf)  (not yet adopted)
 
 [Initiatives](initiatives) : main areas of effort; goals and actions
 
+[New Mexico skies](nm)
+
+[Dark sky places (Box Drive restricted)](https://app.box.com/file/1176385402360)
+
 [Generic business card](card.pdf)
 
-[Box drive file location](https://app.box.com/folder/197128831422)
+[Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
