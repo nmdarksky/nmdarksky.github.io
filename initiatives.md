@@ -19,7 +19,7 @@ Goals:
 Actions:
 
 
-### Ordinances/monitoring
+### [Ordinances/monitoring](ordinances)
 
 Committee: Gary Starkweather, Galen Gisler
 
