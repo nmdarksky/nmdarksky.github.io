@@ -24,7 +24,7 @@ through community engagement, advocacy, and conservation*
 
 [Stakeholders/interested parties (Box Drive restricted)](https://app.box.com/file/1176385402360)
 
-[Draft bylaws](bylaws.pdf)  (not yet adopted)
+[Draft bylaws](bylaws.pdf)  (not yet adopted) [minor revisions](By-Laws - Clean Draft - 9.10.23.pdf)
 
 [Initiatives](initiatives) : main areas of effort; goals and actions
 
