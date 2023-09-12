@@ -5,10 +5,13 @@ innavbar : false
 
 ---
 
+[link to external site with links to ordinances](http://www.darkskynm.org/lightinglaws.html)
+
 From Gary Starkweather:
 
-1. 
-I'm interested in being on the Committee for County and Municipal Outdoor Lighting Ordinances, "Committee," and if agreeable to the Committee Members and NMDS Board, being Chair of that Committee. 
+1.  I'm interested in being on the Committee for County and Municipal
+Outdoor Lighting Ordinances, "Committee," and if agreeable to the
+Committee Members and NMDS Board, being Chair of that Committee.
 
 2. Objectives and Purpose 
 
@@ -56,5 +59,4 @@ The Committee shall also have the duty of helping NMDS address any
 NMDS objectives, interests of the Board, or assistance to other
 NMDS Committees, that would further the initiatives of NMDS.
 
-Respectfully submitted
 
