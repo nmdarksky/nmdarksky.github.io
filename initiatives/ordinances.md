@@ -1,8 +1,7 @@
 ---
 layout: page
-title : Ordinances
 innavbar : false
-
+exclude: true
 ---
 
 [link to external site with links to ordinances](http://www.darkskynm.org/lightinglaws.html)
