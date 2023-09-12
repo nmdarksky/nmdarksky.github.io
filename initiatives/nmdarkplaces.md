@@ -23,3 +23,5 @@ and Declared NM Dark Sky locations (courtesy Derek Wallentinsen):
 <img src="ADO-42.jpg" width="53%"> 
 
 [Interactive map at lighttrends.lightpollutionmap.info](https://lighttrends.lightpollutionmap.info/#zoom=5&lon=-104.56607&lat=34.07112)
+
+[New Mexico True web site](https://www.newmexico.org/darkskies/)

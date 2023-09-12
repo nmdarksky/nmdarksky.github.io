@@ -12,3 +12,5 @@ layout: page
 
 #### Resources
 
+[New Mexico True web site](https://www.newmexico.org/darkskies/)
+
