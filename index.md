@@ -18,20 +18,18 @@ Vision: *To promote stewardship and preservation of the night sky and to protect
 nighttime environment, communities and wildlife from the harmful effects of light pollution, 
 through community engagement, advocacy, and conservation*
 
-[State Council](state_council) 
+People 
+- [State Council](state_council) 
+- [State members (Box Drive restricted)](https://app.box.com/folder/211347332732)
+- [Stakeholders/interested parties (Box Drive restricted)](https://app.box.com/file/1176385402360)
 
-[State members (Box Drive restricted)](https://app.box.com/folder/211347332732)
+Organization
+- [Draft bylaws](bylaws.pdf)  (not yet adopted),  [minor revisions](By-Laws - Clean Draft - 9.10.23.pdf)
+- [Initiatives](initiatives) : main areas of effort; goals and actions
+- [Generic business card](card.pdf)
+- [Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
+ 
+New Mexico
+- [New Mexico skies](nm)
+- [Dark sky places (Box Drive restricted)](https://app.box.com/file/1176385402360)
 
-[Stakeholders/interested parties (Box Drive restricted)](https://app.box.com/file/1176385402360)
-
-[Draft bylaws](bylaws.pdf)  (not yet adopted) [minor revisions](By-Laws - Clean Draft - 9.10.23.pdf)
-
-[Initiatives](initiatives) : main areas of effort; goals and actions
-
-[New Mexico skies](nm)
-
-[Dark sky places (Box Drive restricted)](https://app.box.com/file/1176385402360)
-
-[Generic business card](card.pdf)
-
-[Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
