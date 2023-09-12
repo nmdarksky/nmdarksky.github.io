@@ -1,8 +1,16 @@
 ---
 layout: page
-innavbar : false
-exclude: true
 ---
+
+![logo](../logo.png)
+
+### Ordinances / monitoring
+
+Goals :
+
+Actions :
+
+Resources:
 
 [link to external site with links to ordinances](http://www.darkskynm.org/lightinglaws.html)
 

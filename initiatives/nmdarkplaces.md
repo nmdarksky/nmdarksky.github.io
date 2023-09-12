@@ -1,10 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
-title : New Mexico skies
 ---
+
+![logo](../logo.png)
+
+## New Mexico dark sky places
+
+Goals :
+
+Actions :
+
+Resources :
 
 NM night sky brightness map c. 2015 (from [https://www.lightpollutionmap.info/](https://www.lightpollutionmap.info/))
 and Declared NM Dark Sky locations (courtesy Derek Wallentinsen):
