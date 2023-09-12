@@ -6,7 +6,9 @@ layout: page
 
 ## Economic development and tourise
 
-Goals :
+#### Goals 
 
-Actions :
+#### Actions 
+
+#### Resources
 

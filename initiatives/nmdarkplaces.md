@@ -6,11 +6,15 @@ layout: page
 
 ## New Mexico dark sky places
 
-Goals :
+#### Committee
 
-Actions :
+Marisela La Grave, 
 
-Resources :
+#### Goals 
+
+#### Actions 
+
+#### Resources 
 
 NM night sky brightness map c. 2015 (from [https://www.lightpollutionmap.info/](https://www.lightpollutionmap.info/))
 and Declared NM Dark Sky locations (courtesy Derek Wallentinsen):

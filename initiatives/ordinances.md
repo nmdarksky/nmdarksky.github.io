@@ -6,11 +6,15 @@ layout: page
 
 ### Ordinances / monitoring
 
-Goals :
+#### Committee
 
-Actions :
+Gary Starkweather, Galen Gisler
 
-Resources:
+#### Goals 
+
+#### Actions 
+
+#### Resources
 
 [link to external site with links to ordinances](http://www.darkskynm.org/lightinglaws.html)
 

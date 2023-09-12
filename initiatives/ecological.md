@@ -6,7 +6,13 @@ layout: page
 
 ## Ecological impact and mitigation
 
-Goals :
+#### Committee
 
-Actions :
+Derek Wallentinsen,
+
+#### Goals 
+
+#### Actions 
+
+#### Resources
 

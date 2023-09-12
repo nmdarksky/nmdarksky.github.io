@@ -6,6 +6,12 @@ layout: page
 
 ## Education, outreach, and community engagement
 
-Goals :
+#### Committee
 
-Actions :
+Derek Wallentinsen, Galen Gisler
+
+#### Goals 
+
+#### Actions 
+
+#### Resources

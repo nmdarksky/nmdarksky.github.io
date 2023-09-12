@@ -2,46 +2,14 @@
 layout: page
 title : Initiatives
 ---
-### Education/outreach/community engagement
 
-Committee: Derek Wallentinsen, Galen Gisler
+### [Education/outreach/community engagement](initiatives/education)
 
-Goals:
+### [Tourism/economic development](initiatives/economic)
 
-Actions:
+### [Ordinances/monitoring](initiatives/ordinances)
 
-### Tourism/economic development
+### [Ecological impacts/mitigation](initiatives/ecological)
 
-Committee:
-
-Goals:
-
-Actions:
-
-
-### [Ordinances/monitoring](ordinances)
-
-Committee: Gary Starkweather, Galen Gisler
-
-Goals:
-
-Actions:
-
-
-### Ecological impacts/mitigation
-
-Committee: Derek Wallentinsen
-
-Goals:
-
-Actions:
-
-
-### Expansion/establishment of dark sky places
-
-Committee:
-
-Goals:
-
-Actions:
+### [Expansion/preservation of dark sky places](initiatives/nmdarkplaces)
 
