@@ -18,7 +18,7 @@ Gary Starkweather, Galen Gisler
 
 [link to external site with links to ordinances](http://www.darkskynm.org/lightinglaws.html)
 
-[NM Night Sky Protection Act](https://nmonesource.com/nmos/nmsa/en/item/4415/index.do#!fragment/zoupio-_Toc139034192/BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoAvbRABwEtsBaAfX2zgEYBmATgAYuAFg48ATAEoANMmylCEAIqJCuAJ7QA5BskRCYXAiUr1WnXoMgAynlIAhdQCUAogBknANQCCAOQDCTyVIwACNoUnZxcSA)
+[NM Night Sky Protection Act](https://nmonesource.com/nmos/nmsa/en/item/4415/index.do#!fragment/zoupio-_Toc139034192/BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoAvbRABwEtsBaAfX2zgEYBmATgAYuAFg48ATAEoANMmylCEAIqJCuAJ7QA5BskRCYXAiUr1WnXoMgAynlIAhdQCUAogBknANQCCAOQDCTyVIwACNoUnZxcSA){:target="_blank"} 
 
 From Gary Starkweather:
 
