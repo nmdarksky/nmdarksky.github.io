@@ -4,7 +4,11 @@ layout: page
 
 ![logo](../logo.png)
 
-## Economic development and tourise
+## Economic development and tourism
+
+#### Committee
+
+Sheila Sullivan
 
 #### Goals 
 

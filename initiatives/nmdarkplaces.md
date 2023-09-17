@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Marisela La Grave, 
+Marisela La Grave,  Michael Hensley, Jamey Eriksen, Derek Wallentinsen
 
 #### Goals 
 

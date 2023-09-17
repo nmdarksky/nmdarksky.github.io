@@ -8,7 +8,8 @@ layout: page
 
 #### Committee
 
-Gary Starkweather, Galen Gisler
+Gary Starkweather, Galen Gisler, Michael Hensley, Jamey Eriksen, Nick Knorr, Derek Wallentinsen, (Roy Troxel)
+
 
 #### Goals 
 
