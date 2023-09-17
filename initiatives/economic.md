@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Sheila Sullivan
+Sheila Sullivan, Marisela La Grave
 
 #### Goals 
 
