@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Marisela La Grave,  Michael Hensley, Jamey Eriksen, Derek Wallentinsen
+Marisela La Grave,  Michael Hensley, Jamey Eriksen, Derek Wallentinsen, (Antoine Ribaut)
 
 #### Goals 
 

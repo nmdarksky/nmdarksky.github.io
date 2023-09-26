@@ -8,6 +8,25 @@ title : State Council
 
 **John Briggs**
 
+John W. Briggs has lived and worked at far-ranging observatories
+in various technical capacities, including Mount Wilson, Yerkes,
+National Solar, Maria Mitchell, Venezuelan National, Chamberlin,
+Van Vleck, and South Pole Station.  He came to New Mexico with his
+family in 1997 to assist in the final commissioning of the Sloan
+Digital Sky Survey at Apache Point.  In the 1980s he was an assistant
+editor at Sky & Telescope magazine and built Bogsucker Observatory
+in Massachusetts.  He is a member of many astronomical organizations
+including the Springfield Telescope Makers responsible for the
+annual Stellafane Convention in Vermont, and he has served on the
+board of the century-old American Association of Variable Star
+Observers.  His principal activity now involves the Astronomical
+Lyceum, an informal museum, library, laboratory, and lecture hall
+devoted to historical astronomy and its preservation, and his role
+as secretary of the new Alliance of Historic Observatories.  He is
+an adjunct in Physics at NMT in Socorro, and he has participated
+in IDA meetings as early as the 1990s.
+
+
 **Jamey Eriksen**
 
 [long bio](bios/bios#Eriksen)
