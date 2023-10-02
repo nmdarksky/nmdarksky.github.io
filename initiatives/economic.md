@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Sheila Sullivan, Marisela La Grave, (Antoine Ribaut)
+Sheila Sullivan, Marisela La Grave, Peter Lipscomb, (Antoine Ribaut)
 
 #### Goals 
 

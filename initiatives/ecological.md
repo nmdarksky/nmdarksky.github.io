@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Derek Wallentinsen, Marisela La Grave
+Derek Wallentinsen, Marisela La Grave, Peter Lipscomb, Jon Holtzman
 
 #### Goals 
 
