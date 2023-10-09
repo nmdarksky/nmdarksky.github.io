@@ -14,7 +14,7 @@ years.
 Initial/current council consists of : John Briggs, Jamey Eriksen,  Galen
 Gisler (treasurer), Michael Hensley, Jon Holtzman (chair),
 Nick Knorr (secretary), Marisela La Grave, Peter Lipscomb (vice chair),
-Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen. :w
+Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen.
 
 
 Michael Rymer represents Dark Sky International at our Council
