@@ -6,6 +6,19 @@ layout: page
 title : State Council
 ---
 
+The State Council is responsible for the overall management of the 
+chapter. Current (fall 2023) members were determined by participation
+in the founding of the chapter, but will be elected in subsequent
+years. 
+
+Current council consists of : John Briggs, Jamey Eriksen,  Galen
+Gisler (treasurer), Michael Hensley, Jon Holtzman (chair),
+Nick Knorr (secretary), Marisela La Grave, Peter Lipscomb (vice chair),
+Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen
+
+Michael Rymer represents Dark Sky International at our Council
+meetings.
+
 **John Briggs**
 
 John W. Briggs has lived and worked at far-ranging observatories
@@ -102,8 +115,6 @@ strategies for the Dark Sky New Mexico Chapter.
 
 
 **Peter Lipscomb**
-
-**Amalio Madueño**
 
 **Gary Starkweather**
 
