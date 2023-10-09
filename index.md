@@ -29,7 +29,9 @@ Organization
 - [Economic development and tourism](initiatives/economic)
 - [Education, outreach, and community engagement](initiatives/education)
 
-Resources
+External resources
+
+Organization resources
 - [Generic business card](card.pdf)
 - [Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
 - [State members (Box Drive restricted)](https://app.box.com/folder/211347332732)
