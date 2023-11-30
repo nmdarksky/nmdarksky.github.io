@@ -18,6 +18,8 @@ Vision: *To promote stewardship and preservation of the night sky and to protect
 nighttime environment, communities and wildlife from the harmful effects of light pollution, 
 through community engagement, advocacy, and conservation*
 
+Join us by becoming a [DarkSky International member!](https://darksky.org/ways-to-give/)
+
 Organization
 - [State Council](state_council) 
 - [Draft bylaws](By-Laws - Clean Draft - 9.10.23.pdf)  (not yet adopted)
