@@ -38,4 +38,8 @@ Organization resources
 - [Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
 - [State members (Box Drive restricted)](https://app.box.com/folder/211347332732)
 - [Stakeholders/interested parties (Box Drive restricted)](https://app.box.com/file/1176385402360)
- 
+
+![image](images/elmorro.jpeg)
+<center>
+<img src="images/elmorro.jpeg" alt="elmorro" width="200"/> 
+/center>
