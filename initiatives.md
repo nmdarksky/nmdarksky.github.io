@@ -13,3 +13,5 @@ title : Initiatives
 
 ### [Expansion/preservation of dark sky places](initiatives/nmdarkplaces)
 
+
+![image](elmorro.jpeg)
