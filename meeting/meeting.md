@@ -16,5 +16,5 @@ About 60 people attended, mostly in-person, with a few online.
 #### [Agenda](agenda.html)
 
 #### Presentations
-  - [Morning](morning.pdf)
-  - [Afternoon](afternoon.pdf)
+  - [Morning](Morning.pdf)
+  - [Afternoon](Afternoon.pdf)
