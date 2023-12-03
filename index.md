@@ -27,12 +27,15 @@ Organization
 - [State Council](state_council) 
 - [Draft bylaws](By-Laws - Clean Draft - 9.10.23.pdf)  (not yet adopted)
 
+[December 2023 stakeholder meeting](meeting/meeting)
+
 [Initiatives](initiatives)
 - [New Mexico dark sky places](initiatives/nmdarkplaces)
 - [Ordinances and monitoring](initiatives/ordinances)
 - [Ecological impacts and mitigation](initiatives/ecological)
 - [Economic development and tourism](initiatives/economic)
 - [Education, outreach, and community engagement](initiatives/education)
+
 
 External resources
 
