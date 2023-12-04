@@ -16,7 +16,7 @@ Derek Wallentinsen, Marisela La Grave, Peter Lipscomb, Jon Holtzman
 
 #### Resources
 
-[BirdCast: bird migration data in real time](https://birdcast.info/)
-[DarkSky : Impact on human health](https://darksky.org/news/ama-report-affirms-human-health-impacts-from-leds/)
-[Impact on human health](https://www.mariomottamd.com/street-lighting/)
+- [BirdCast: bird migration data in real time](https://birdcast.info/)
+- [DarkSky : Impact on human health](https://darksky.org/news/ama-report-affirms-human-health-impacts-from-leds/)
+- [Impact on human health](https://www.mariomottamd.com/street-lighting/)
 

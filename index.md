@@ -29,15 +29,16 @@ Organization
 
 [December 2023 stakeholder meeting](meeting/meeting)
 
-[Initiatives](initiatives)
+Initiatives
 - [New Mexico dark sky places](initiatives/nmdarkplaces)
 - [Ordinances and monitoring](initiatives/ordinances)
 - [Ecological impacts and mitigation](initiatives/ecological)
 - [Economic development and tourism](initiatives/economic)
 - [Education, outreach, and community engagement](initiatives/education)
 
-
 External resources
+- [DarkSky international](http://darksky.org)
+- [Illuminating Engineering Society](https://www.ies.org/)
 
 Organization resources
 - [Generic business card](card.pdf)
