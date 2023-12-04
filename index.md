@@ -8,7 +8,7 @@ layout: home
 ![logo](logo.png)
 
 <center>
-<img src="images/elmorro.jpeg" alt="elmorro" width="50%"/> 
+<img src="images/elmorro.jpeg" alt="elmorro" width="65%"/> 
 </center>
 
 ## Welcome to New Mexico DarkSky
@@ -21,7 +21,8 @@ Vision: *To promote stewardship and preservation of the night sky and to protect
 nighttime environment, communities and wildlife from the harmful effects of light pollution, 
 through community engagement, advocacy, and conservation*
 
-Join us by becoming a [DarkSky International member!](https://darksky.org/ways-to-give/)
+[<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
+<br>[<B>Donate</b>](https://act.darksky.org/newmexicodarksky) directly to the New Mexico chapter!
 
 Organization
 - [State Council](state_council) 
