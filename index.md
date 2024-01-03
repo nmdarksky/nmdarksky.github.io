@@ -26,7 +26,7 @@ through community engagement, advocacy, and conservation*
 
 Organization
 - [State Council](state_council) 
-- [Draft bylaws](By-Laws - Clean Draft - 9.10.23.pdf)  (not yet adopted)
+- [Draft bylaws](By-Laws - Updated Draft - 12.12.23.pdf)  (not yet adopted)
 
 [December 2023 stakeholder meeting](meeting/meeting)
 
