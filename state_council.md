@@ -47,6 +47,21 @@ in IDA meetings as early as the 1990s.
 
 **Galen Gisler**
 
+Galen Gisler was born under the starry skies of eastern New Mexico
+and discovered a passion for astronomy. With a Bachelor’s degree
+in physics and astronomy from Yale University and a Ph.D. in
+astrophysics from the University of Cambridge, Galen went on to
+postdoctoral positions at the Leiden University Observatory and
+Kitt Peak National Observatory. He spent two years at the National
+Radio Astronomy Observatory, then worked for 25-years at the Los
+Alamos National Laboratory and 7 years at the University of Oslo
+in Norway, returning to Los Alamos to retire. Galen’s scientific
+research has included extragalactic jets, particle beams, plasmas,
+astronomical transients, adaptive processing, and hydrocode simulations
+of impact processes, tsunamis, and explosive volcanism. In retirement,
+he has contributed to astronomy outreach and education, encouraging
+people to get outdoors and enjoy the wonders of the night sky.
+
 [long bio](bios/bios#Gisler)
 
 **Michael Hensley**
