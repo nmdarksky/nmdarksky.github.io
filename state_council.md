@@ -40,6 +40,7 @@ as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
 
+**Trish Cutler**
 
 **Jamey Eriksen**
 
@@ -64,6 +65,8 @@ people to get outdoors and enjoy the wonders of the night sky.
 
 [long bio](bios/bios#Gisler)
 
+**Mark Goodman**
+
 **Michael Hensley**
 
 **Jon Holtzman**
@@ -80,6 +83,8 @@ As an outdoor enthusiast, he finds respite from looking at the dark nighttime
 sky, and wants to ensure that all people have the opportunity to do the same.
 
 [long bio](bios/bios#Holtzman)
+
+**Joseph Karnes**
 
 **Nick Knorr**
 
@@ -129,8 +134,9 @@ Film & Environmental Project based in New Mexico. She is currently
 responsible for communication design, outreach advocacy campaign
 strategies for the Dark Sky New Mexico Chapter.
 
-
 **Peter Lipscomb**
+
+**Jim Price**
 
 **Gary Starkweather**
 
