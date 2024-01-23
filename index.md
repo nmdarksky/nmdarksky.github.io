@@ -37,6 +37,8 @@ Initiatives
 - [Economic development and tourism](initiatives/economic)
 - [Education, outreach, and community engagement](initiatives/education)
 
+Press
+- [articles related to NM State Chapter](press/press)
 External resources
 - [DarkSky international](http://darksky.org)
 - [Illuminating Engineering Society](https://www.ies.org/)
