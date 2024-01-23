@@ -44,7 +44,7 @@ Press
 Resources
 - [general information on dark skies](resources/info)
 - [information on ordinances](resources/ordinance)
-- [information on dark-sky friendly products(resources/products)
+- [information on dark-sky friendly products](resources/products)
 
 External resources
 - [DarkSky international](http://darksky.org)
