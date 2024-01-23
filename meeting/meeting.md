@@ -1,6 +1,5 @@
 ---
 layout: page
-title : Meeting
 ---
 
 The NM DarkSky chapter, in collaboration with DarkSky International, hosted a 

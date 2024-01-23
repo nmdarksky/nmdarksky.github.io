@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title : Press
 ---
 
 Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/opinion/commentary/more-work-ahead-to-protect-new-mexico-night-skies/article_c5460402-b57f-11ee-9719-77f823589fea.html)

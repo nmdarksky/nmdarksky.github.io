@@ -1,6 +1,5 @@
 ---
 layout: page
-title : Ordinances
 ---
 
 - [DarkSky International information on lighting ordinances](https://darksky.org/resources/guides-and-how-tos/lighting-ordinances/)
