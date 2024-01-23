@@ -138,6 +138,21 @@ strategies for the Dark Sky New Mexico Chapter.
 
 **Jim Price**
 
+Jim Price is practically a native New Mexican. He has lived in
+Albuquerque since most of what is now developed was dirt. Jim worked
+for a lighting company and then started his own. He has sold lighting
+ranging from miniature lighting for microscopes to parking lot
+lighting for every type of business. Jim realized the need for
+shielded lighting when shopping malls and other businesses around
+Albuquerque with parking lots enlisted him to help them be better
+neighbors. He realized then that lighting can be made more comfortable
+and effective through proper aiming and shielding. He has adopted
+a less is more philosophy with lighting. For example, less glare
+means more visual acuity. Less stark contrast means more awareness
+of surroundings. He truly believes that taking the “less” approach
+leads to “more” satisfying results.
+
+
 **Gary Starkweather**
 
 [long bio](bios/bios#Starkweather)
