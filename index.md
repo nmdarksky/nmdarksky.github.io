@@ -38,7 +38,9 @@ Initiatives
 - [Education, outreach, and community engagement](initiatives/education)
 
 Press
-- [articles related to NM State Chapter](press/press)
+- [articles related to NM State Chapter](press/chapter)
+- [articles related to dark skies in general(press/other)
+
 External resources
 - [DarkSky international](http://darksky.org)
 - [Illuminating Engineering Society](https://www.ies.org/)
