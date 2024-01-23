@@ -6,7 +6,7 @@ layout: page
 title : Press
 ---
 
-Santa Fe New Mexican [Galen Gisler article] (https://www.santafenewmexican.com/opinion/commentary/more-work-ahead-to-protect-new-mexico-night-skies/article_c5460402-b57f-11ee-9719-77f823589fea.html)
+Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/opinion/commentary/more-work-ahead-to-protect-new-mexico-night-skies/article_c5460402-b57f-11ee-9719-77f823589fea.html)
 
 [El Defensor Chieftain article on 2023 stakeholder workshop](https://dchieftain.com/briggs-significant-economic-value-to-our-dark-skies/)
 

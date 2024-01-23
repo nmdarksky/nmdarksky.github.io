@@ -39,7 +39,7 @@ Initiatives
 
 Press
 - [articles related to NM State Chapter](press/chapter)
-- [articles related to dark skies in general(press/other)
+- [articles related to dark skies in general](press/other)
 
 External resources
 - [DarkSky international](http://darksky.org)
