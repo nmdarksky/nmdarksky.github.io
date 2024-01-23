@@ -44,6 +44,15 @@ in IDA meetings as early as the 1990s.
 
 **Jamey Eriksen**
 
+![image](bios/eriksen.png){: style="float: left ; width: 20% ; padding: 15px"}
+Jamey Eriksen is currently working full time as the Director of Operations at Apache Point
+Observatory in Sunspot, NM. He has been at APO since 2020, he was previously at Palomar
+Observatory in Southern California working for CalTech. At APO he has started to build
+connections and meet others working on Astronomy in New Mexico, be it to preserve the great
+dark skies we have, or find people to help further public education about work done at APO.
+When he is not at work, he and his family explore the US in their RV by visiting National Parks or
+Monuments along with any roadside attraction that is discovered along the path.
+
 [long bio](bios/bios#Eriksen)
 
 **Galen Gisler**

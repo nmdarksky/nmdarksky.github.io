@@ -7,78 +7,55 @@ layout: page
 
 ### <a id="Eriksen"></a>Jamey Eriksen
 
-I was born in northern California and raised in the rainy Willamette
-Valley in Oregon. A small town called Cottage Grove was my home Hll
-college at the University of Oregon in Eugene, OR. At the U of O,
-I studied Physics and Political Science. My love for Astronomy started
-in college when I was lucky enough to be a work study student for
-a new Astronomer hired into the Physics department. The handful of
-trips to the small observatory in eastern Oregon, Pine Mountain
-Observatory ran by the U of O, really ignited my passion.
+I was born in northern California and raised in the rainy Willamette Valley in Oregon. A small
+town called Cottage Grove was my home till college at the University of Oregon in Eugene, OR.
+At the U of O, I studied Physics and Political Science. My love for Astronomy started in college
+when I was lucky enough to be a work study student for a new Astronomer hired into the
+Physics department. The handful of trips to the small observatory in eastern Oregon, Pine
+Mountain Observatory ran by the U of O, really ignited my passion.
 
-After graduaHng from the U of O, I attended graduate school at San
-Diego State University where I pursued a Masters in Astronomy. My
-area of focus was on instrumentation. At SDSU I worked on building
-CCD and IR camera control systems and fully integrated detector and
-control systems. Once I graduated with my Masters degree, I conHnued
-to work at SDSU building astronomical camera systems for observatories
-around the world. Was even lucky enough to go to some of those
-observatories and help with installation of the camera systems.
+After graduating from the U of O, I attended graduate school at San Diego State University
+where I pursued a Masters in Astronomy. My area of focus was on instrumentation. At SDSU I
+worked on building CCD and IR camera control systems and fully integrated detector and control
+systems. Once I graduated with my Masters degree, I continued to work at SDSU building
+astronomical camera systems for observatories around the world. Was even lucky enough to go
+to some of those observatories and help with installation of the camera systems.
+Eventually, I left SDSU for a position at the Canada-France-Hawaii Telescope (CFHT) that is
+located on Mauna Kea in Hawaii. A few years later, and after having a bit of island fever, I
+returned to the mainland to work on testing and designing CCDs at a company in Oregon
+(some of you may remember SITe CCDs). Then in the continuing evolution of my astronomy
+path, I moved onto Ball Aerospace and worked on star trackers and payload camera systems for
+a couple different spacecraft.
 
-Eventually, I left SDSU for a position at the Canada-France-Hawaii
-Telescope (CFHT) that is located on Mauna Kea in Hawaii. A few years
-later, and after having a bit of island fever, I returned to the
-mainland to work on testing and designing CCD’s at a company in
-Oregon (some of you may remember SITe CCD’s). Then in the continuing
-evolution of my astronomy path, I moved onto Ball Aerospace and
-worked on star trackers and payload camera systems for a couple
-diﬀerent spacecraft.
+After Ball Aerospace, I took a break and went into the private sector for a non astronomy job,
+which taught me that I wanted to be back in astronomy. The return to astronomy was a
+position at Palomar Observatory working for CalTech. While at Palomar, I worked my way up to
+be the head of the Electrical Engineering group.
 
-After Ball Aerospace, I took a break and went into the private sector
-for a non astronomy job, which taught me that I wanted to be back
-in astronomy. The return to astronomy was a position at Palomar
-Observatory working for CalTech. While at Palomar, I worked my way
-up to be the head of the Electrical Engineering group.
+Eventually, as I grew tired of the sun and great weather in southern California, I accepted the
+role of Director of Operations at Apache Point Observatory in New Mexico. My family and I
+have only been in New Mexico for 3.5m years, so we are far from the multi generation families,
+or life long residents some of the members of our chapter are.
 
-Eventually, as I grew tired of the sun and great weather in southern
-California, I accepted the role of Director of Operations at Apache
-Point Observatory in New Mexico. My family and I have only been in
-New Mexico for 3.5m years, so we are far from the multi generation
-families, or life long residents some of the members of our chapter
-are.
+Here at APO, in addition to my role as Director of Operations, I am working on expanding the
+public outreach and education that is done in Sunspot NM. Here in Sunspot, there is the night
+time observatory (APO) as well as the day time observatory (Sunspot Solar Observatory, SSO).
+The public outreach and Visitor Center at SSO sees over 1000 people per month where they can
+go on a tour of the solar telescope as well as learn about various astronomy topics in the visitor
+center museum area.
 
-Here at APO, in addition to my role as Director of Operations, I
-am working on expanding the public outreach and educaHon that is
-done in Sunspot NM. Here in Sunspot, there is the night time
-observatory (APO) as well as the day time observatory (Sunspot Solar
-Observatory, SSO). The public outreach and Visitor Center at SSO
-sees over 1000 people per month where they can go on a tour of the
-solar telescope as well as learn about various astronomy topics in
-the visitor center museum area.
+Like Galen, I was similarly approached by Michael Rymer to help with establishing the New
+Mexico Chapter of DarkSky International and that is why I am here. I feel that everyone
+interested or working in Astronomy in New Mexico should be embraced and welcomed into the
+chapter. I don’t feel that being a long time resident or a new resident changes your passion or
+devotion to keeping the night skies dark, or the radio frequencies quiet here in New Mexico, or
+in the border cities. It will be necessary for our Chapter to work with El Paso and Juarez on dark
+sky preservation!
 
-Like Galen, I was similarly approached by Michael Rymer to help
-with establishing the New Mexico Chapter of DarkSky InternaHonal
-and that is why I am here. I feel that everyone interested or working
-in Astronomy in New Mexico should be embraced and welcomed into the
-chapter. I don’t feel that being a long time resident or a new
-resident changes your passion or devotion to keeping the night skies
-dark, or the radio frequencies quiet here in New Mexico, or in the
-border cities. It will be necessary for our Chapter to work with
-El Paso and Juarez on dark sky preservation!
-
-With my role at APO and SSO, I feel I can contribute, and I am
-interested in helping on the side for gathering data for current
-light pollution, and trends over the years. I am also intrigued by
-the state level policies and how things are done in the roundhouse,
-which I would like to help with as well.
-
-My issue is the “time” to do this. I have 3 children, from 6 to 18
-yrs old. We homeschool our girls and life is “full” a lot of the
-Hme. The 6pm meeting times are not good for me at all, that is right
-in the middle of family time in the evenings. An earlier time would
-be easier for me to ensure I am always in attendance, however I
-know I am just one of many in the chapter, and I will adjust my
-commitments to the Chapter based on what I can or can’t do.
+With my role at APO and SSO, I feel I can contribute, and I am interested in helping on the side
+for gathering data for current light pollution, and trends over the years. I am also intrigued by
+the state level policies and how things are done in the roundhouse, which I would like to help
+with as well.
 
 ### <a id="Gisler"></a>Galen Gisler
 
