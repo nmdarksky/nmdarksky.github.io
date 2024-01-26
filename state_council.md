@@ -100,7 +100,7 @@ sky, and wants to ensure that all people have the opportunity to do the same.
 **Marisela La Grave**
 
 ![image](bios/marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
-Marisela La Grave (b. Caracas) New York - New Mexico Intermedia
+Marisela La Grave (b. Caracas) New York - New Mexico based Intermedia
 environmental artist, director, producer, film maker, photographer
 and creator of collaborative projects that explore the nature of
 perception, phenomenology, consciousness and temporality. Her
