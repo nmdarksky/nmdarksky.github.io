@@ -10,6 +10,9 @@ effect change on the issue.
 
 About 60 people attended, mostly in-person, with a few online. 
 
+A [summary of the meeting](Summary.pdf) was subsequently assembled including
+some post-meeting feedback from attendees.
+
 <center>
 <img src="photo.jpeg" alt="meeting photo" width="100%"/>
 </center>
