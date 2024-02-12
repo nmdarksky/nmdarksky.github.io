@@ -6,6 +6,8 @@ layout: page
 
 ### New Mexico ordinances
 
+Links to various ordinances around the state, compiled by Galen Gisler
+
 - [Alamogordo](Alamogordo.pdf)
 - [Albuquerque](Albuquerque.pdf)
 - [Angel Fire](Angel Fire.pdf)
