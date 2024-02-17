@@ -23,6 +23,7 @@ Gary Starkweather, Galen Gisler, Michael Hensley, Jamey Eriksen, Nick Knorr, Der
 - [listing of state ordinances on light pollution](https://www.ncsl.org/environment-and-natural-resources/states-shut-out-light-pollution)
 - [Salt Lake City Street Lighting Master Plan](https://www.slc.gov/utilities/wp-content/uploads/sites/22/2021/03/SLC-Lighting-MP_vs.10.pdf)
 - [DarkSky Model Lighting Ordinance](https://darksky.org/resources/guides-and-how-tos/model-lighting-ordinances/)
+- [General Code: dark sky preservation](https://www.generalcode.com/blog/dark-sky-preservation-and-light-pollution-legislation/)
 
 
 
