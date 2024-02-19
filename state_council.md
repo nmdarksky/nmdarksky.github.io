@@ -165,7 +165,7 @@ leads to “more” satisfying results.
 
 **Gary Starkweather**
 
-![image](bios/starkeweather.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+![image](bios/starkweather.jpg){: style="float: left ; width: 20% ; padding: 15px"}
 My name is Gary Starkweather and I’m a Dark Sky International (DSI) member and a
 council member of New Mexico DarkSky (NMDS). Let me briefly explain why DSI and
 NMDS membership is of particular interest to me. After retiring in 2007, I chose to
