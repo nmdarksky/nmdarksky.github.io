@@ -42,13 +42,11 @@ Press
 - [articles related to dark skies in general](press/other)
 
 Resources
+- [DarkSky international](http://darksky.org)
+- [Illuminating Engineering Society](https://www.ies.org/)
 - [general information on dark skies](resources/info)
 - [information on ordinances](resources/ordinances)
 - [information on dark-sky friendly products](resources/products)
-
-External resources
-- [DarkSky international](http://darksky.org)
-- [Illuminating Engineering Society](https://www.ies.org/)
 
 Organization resources
 - [Generic business card](card.pdf)

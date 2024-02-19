@@ -165,6 +165,36 @@ leads to “more” satisfying results.
 
 **Gary Starkweather**
 
+![image](bios/starkeweather.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+My name is Gary Starkweather and I’m a Dark Sky International (DSI) member and a
+council member of New Mexico DarkSky (NMDS). Let me briefly explain why DSI and
+NMDS membership is of particular interest to me. After retiring in 2007, I chose to
+continue my interest in astronomy and amateur astrophotography as a hobby.  In 2012,
+after looking for a place with dark skies, I moved to an astronomy community in Luna
+County, New Mexico at New Mexico Astronomy Village (NMAV) near Deming, NM.
+NMAV had very dark skies and the State of New Mexico had a Dark Sky Protection Act
+which I reasonably believed would protect the naturally dark skies of New Mexico.
+
+In 2015, I moved into a new house at NMAV and by 2023, I completed construction of
+three observatories. During the years of construction I realized that I was wrong about
+the state’s Dark Sky Protection Act actually protecting the naturally dark skies. The Act
+turned out to do virtually nothing to protect the sky. Local counties and towns wouldn’t
+enforce the state’s outdoor lighting regulations; they simply ignored the Dark Sky
+Protection Act as if it didn’t exist. 
+
+My wife and I invested our life savings moving to New Mexico where we could enjoy
+dark skies. We were disappointed because locals were content with ruining the night
+skies, and the rate of loss was accelerating. Our story is not unique. There is a large
+community of professional and amateur astronomers in New Mexico that are also
+watching the rapid destruction of our naturally dark skies. We are looking for ways to
+stop the loss of our dark skies and reverse some of the damage that has already
+happened. 
+
+Retirement shouldn’t be about spending time protecting retirement investments from
+destruction by others, yet, here we are. That is why I have joined the New Mexico
+DarkSky team, in hopes that this alliance, along with other like minded, people will be
+able to make a difference in protecting naturally dark skies.
+
 [long bio](bios/bios#Starkweather)
 
 **Sheila Sullivan**
