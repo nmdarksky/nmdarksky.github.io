@@ -119,6 +119,19 @@ sky, and wants to ensure that all people have the opportunity to do the same.
 
 **Nick Knorr**
 
+![image](bios/knorr.png){: style="float: left ; width: 20% ; padding: 15px"}
+Nick Knorr is a happily retired banker, living in Santa Fe.  He is
+an avid hiker and backpacker.  He believes that connection with the
+natural order, which is ever diminishing, is an essential touchstone
+of human existence.  That order is nowhere more apparent than in
+the night sky to those who are not blinded by light.  He cannot
+forget visiting the Hayden Planetarium as a boy and discovering the
+vastness of the universe.  Although he abandoned astronomy for other
+pursuits, he remains fascinated by the scientific exploration of
+the universe through space and time.
+
+
+
 **Marisela La Grave**
 
 ![image](bios/marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
