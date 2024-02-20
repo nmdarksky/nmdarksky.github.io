@@ -100,6 +100,9 @@ people to get outdoors and enjoy the wonders of the night sky.
 
 **Michael Hensley**
 
+Michael Hensley lives in Animas NM where he is the "chief wrangler"
+for Dark Sky New Mexico.
+
 **Jon Holtzman**
 
 ![image](bios/holtz.jpg){: style="float: left ; width: 20% ; padding: 15px"}
@@ -131,7 +134,6 @@ pursuits, he remains fascinated by the scientific exploration of
 the universe through space and time.
 
 
-
 **Marisela La Grave**
 
 ![image](bios/marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
@@ -158,6 +160,9 @@ on Dark Sky Land, a project related to Night Sky-Wildlife preservation
 in New Mexico.
 
 **Peter Lipscomb**
+
+Peter has been involved in dark sky issues for many years. He
+currently works for NM State Parks.
 
 **Jim Price**
 
@@ -211,6 +216,9 @@ able to make a difference in protecting naturally dark skies.
 [long bio](bios/bios#Starkweather)
 
 **Sheila Sullivan**
+
+Sheila Sullivan lives in Santa Fe and has been active in dark sky and other
+issues for many years.
 
 **Derek Wallentinsen**  
 
