@@ -7,7 +7,7 @@ title : State Council
 ---
 
 The State Council is responsible for the management of the activities
-of the chapter. Current (fall 2023) members were determined by participation
+of the chapter. Current (February 2024) members were determined by participation
 in the founding of the chapter, but will be elected in subsequent
 years. 
 
