@@ -11,10 +11,10 @@ of the chapter. Current (fall 2023) members were determined by participation
 in the founding of the chapter, but will be elected in subsequent
 years. 
 
-Initial/current council consists of : John Briggs, Jamey Eriksen,  Galen
-Gisler (treasurer), Michael Hensley, Jon Holtzman (chair),
-Nick Knorr (secretary), Marisela La Grave, Peter Lipscomb (vice chair),
-Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen.
+Initial/current council consists of : John Briggs, Trish Cutler, Jamey Eriksen,  Galen
+Gisler (treasurer), Mark Goodman, Michael Hensley, Jon Holtzman (chair),
+Joseph Karnes, Nick Knorr (secretary), Marisela La Grave, Peter Lipscomb (vice chair),
+Jim Price, Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen.
 
 
 Michael Rymer represents Dark Sky International at our Council
