@@ -213,8 +213,6 @@ destruction by others, yet, here we are. That is why I have joined the New Mexic
 DarkSky team, in hopes that this alliance, along with other like minded, people will be
 able to make a difference in protecting naturally dark skies.
 
-[long bio](bios/bios#Starkweather)
-
 **Sheila Sullivan**
 
 Sheila Sullivan lives in Santa Fe and has been active in dark sky and other
