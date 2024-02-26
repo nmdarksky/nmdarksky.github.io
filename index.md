@@ -23,7 +23,7 @@ through community engagement, advocacy, and conservation*
 
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
 <br>[<B>Donate</b>](https://act.darksky.org/newmexicodarksky) directly to the New Mexico chapter!
-<br>[<B>Email</b>] us at <a href="mailto:newmexico@darksky.org"> newmexico@darksky.org
+<br><B>Email</b> us at <a href="mailto:newmexico@darksky.org"> newmexico@darksky.org
 
 Organization
 - [State Council](state_council) 
