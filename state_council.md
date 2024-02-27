@@ -97,11 +97,26 @@ people to get outdoors and enjoy the wonders of the night sky.
 [long bio](bios/bios#Gisler)
 
 **Mark Goodman**
+![image](bios/goodman.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 
 **Michael Hensley**
 
-Michael Hensley lives in Animas NM where he is the "chief wrangler"
-for Dark Sky New Mexico.
+Michael Hensley is a Founder of Dark Sky New Mexico, a remote
+telescope hosting facility in Animas NM.  He retired from New Mexico
+Tech where he was Director of Strategic Research Initiatives.  As
+such, he was responsible for securing major contract funding from
+foundations, corporations, and federal agencies.
+
+Hensley was  previously a Professor of Urban Affairs and Planning at
+Virginia Tech and served as a White House Community Builder Fellow
+during the Clinton Administration.
+
+Hensley is a fourth generation New Mexican and spends his time “…
+enjoying the night skies in dark, quiet, and peaceful Animas” as well
+as overseeing his  family’s diverse business operations. He obtained
+his Ed.D. in technology education from Virginia Tech and did post
+doctoral studies at the John F. Kennedy School of Government at
+Harvard University.
 
 **Jon Holtzman**
 
