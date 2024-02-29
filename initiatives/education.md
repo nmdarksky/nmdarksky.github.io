@@ -15,3 +15,5 @@ Derek Wallentinsen, Galen Gisler, Marisela La Grave, Peter Lipscomb, John Briggs
 #### Actions 
 
 #### Resources
+
+[DarkSky International outreach materials](https://darksky.org/resources/public-outreach-materials/)
