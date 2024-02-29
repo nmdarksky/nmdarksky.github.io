@@ -19,6 +19,8 @@ layout: page
 
 - [Dark Sky Colorado](https://darkskycolorado.org/)
 
+- [Dark Sky Texas](https://darkskytexas.org/)
+
 - [Arizona Astronomy Consortium](https://azastronomy.org/dark-skies-initiatives/)
 
 - [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/)
