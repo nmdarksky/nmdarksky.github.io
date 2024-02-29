@@ -17,9 +17,11 @@ layout: home
 
 ## Welcome to New Mexico DarkSky
 
-*To promote stewardship and preservation of the night sky and to protect the 
-nighttime environment, communities and wildlife from the harmful effects of light pollution, 
-through community engagement, advocacy, and conservation*
+*New Mexico DarkSky seeks to restore and preserve New Mexico’s
+heritage of brilliant, star- filled skies and dark nighttime
+environments. We endeavor to eliminate light pollution throughout
+the State and protect all communities from its harmful effects,
+through advocacy, outreach, education, and conservation.*
 
 Founded in June 2023, we are a state chapter of [DarkSky International](https://darksky.org).
 All members of DarkSky International in the state of New Mexico are chapter members. The
