@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Sheila Sullivan, Marisela La Grave, Peter Lipscomb, (Antoine Ribaut)
+Michael Hensley, Jim Price, John Briggs, Jon Holtzman
 
 #### Goals 
 

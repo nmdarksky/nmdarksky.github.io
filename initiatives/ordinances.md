@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Gary Starkweather, Galen Gisler, Michael Hensley, Jamey Eriksen, Nick Knorr, Derek Wallentinsen, Peter Lipscomb, Jon Holtzman, (Antoine Ribaut, Roy Troxel)
+Gary Starkweather, Galen Gisler, Michael Hensley, Jamey Eriksen, Nick Knorr, Derek Wallentinsen, Peter Lipscomb
 
 
 #### Goals 

@@ -15,7 +15,7 @@ layout: page
 
 - [Dark Sky Land](https://www.darkskyland.us/)
 
-- [Dark Skies of the Wet Mountain Valley](https://www.darkskiescolorado.org/)A
+- [Dark Skies of the Wet Mountain Valley](https://www.darkskiescolorado.org/)
 
 - [Dark Sky Colorado](https://darkskycolorado.org/)
 
