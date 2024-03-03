@@ -99,6 +99,9 @@ people to get outdoors and enjoy the wonders of the night sky.
 **Mark Goodman**
 ![image](bios/goodman.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 
+Mark Goodman is from Albuquerque and serves as the president of The
+Albuquerque Astronomical Society.
+
 **Michael Hensley**
 
 Michael Hensley is a Founder of Dark Sky New Mexico, a remote
