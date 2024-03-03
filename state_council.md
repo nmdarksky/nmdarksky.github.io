@@ -232,7 +232,7 @@ able to make a difference in protecting naturally dark skies.
 
 **Sheila Sullivan**
 
-![image](bios/sullivan.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+![image](bios/sullivan.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 Sheila Sullivan, artist, activist, documentarian. Born and raised
 in New Jersey where (oddly enough), nighttime star-gazing was a
 family pastime, led by a scientist/uncle who encouraged interest
