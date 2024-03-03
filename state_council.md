@@ -232,8 +232,46 @@ able to make a difference in protecting naturally dark skies.
 
 **Sheila Sullivan**
 
-Sheila Sullivan lives in Santa Fe and has been active in dark sky and other
-issues for many years.
+![image](bios/sullivan.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+Sheila Sullivan, artist, activist, documentarian. Born and raised
+in New Jersey where (oddly enough), nighttime star-gazing was a
+family pastime, led by a scientist/uncle who encouraged interest
+in all aspects of the natural world.
+
+After a family move to the mid-west, I studied art at Indiana
+University and John Heron School of Art, then relocated to San
+Francisco and art studies at University of California. Tumultuous
+times in San Francisco drew me into activism, first as a SNCC
+(Student Nonviolent Coordinating Committee) worker, then as community
+activist and documentarian, working to counter societal inequities,
+while filming social/civic breakdown/confrontation/upheaval. Following
+a move to the mid-west, documentary filming gave way to expression
+through “Protest Art”, and more activism.
+
+A move to the Colorado mountains and brilliant dark skies, then
+finally to New Mexico, brought me home to Santa Fe and the arts
+community. With fellow artists, we were founding members of the
+Orchestra of Santa Fe, (forerunner of the Santa Fe Symphony), and
+Advocates for Contemporary Arts - promoting and supporting contemporary
+art, and celebrating the arts with creation of the annual Beaux
+Arts Ball. I was a recipient of “A Gift of Time”, the Donald Anderson
+“Roswell Artist-in-Residence”, grant program. My works are in
+private, public, corporate collections and museums. I returned to
+documentary film work with several years on the “Honoring Our Elders”
+film project of the Picuris/Peñasco Community Coalition.
+
+In early years, as assistant director of the city’s first contemporary
+art gallery, and over the decades, I began to notice our beautiful,
+small-town, dark night sky atmosphere gradually giving way to
+over-lighting and the eventual loss of connection to place that a
+dark night sky brings. After lobbying for, and passage of, The New
+Mexico Night Sky Protection Act”, I created and established “The
+New Mexico Night Sky Office” dedicated to bringing awareness,
+education, ordinance development and preservation of New Mexico’s
+night sky. My program ran for a number of years, which brings me
+to the present and the first year of our work establishing the New
+Mexico Chapter of DarkSky International.
+
 
 **Derek Wallentinsen**  
 
