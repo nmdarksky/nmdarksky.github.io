@@ -184,9 +184,9 @@ efforts for two decades. First in 2004, as a volunteer supporting
 Chaco Culture National Historical Park and its astronomy program
 during a memorable Mars opposition summer. Next as Director of the
 New Mexico Heritage Preservation Alliance Night Sky Program (NMHPA)
-where he produced the Alliance’s Night Sky Conference at Taos, NM
-2007. He actively backed efforts to strengthen enforcement language
-in the New Mexico Night Sky Protection Act in 2007 and 2009. Attended
+where he produced the Alliance’s Night Sky Conference at Taos, NM in 2007. 
+He actively backed efforts to strengthen enforcement language
+in the New Mexico Night Sky Protection Act in 2007 and 2009. He attended
 legislative committee meetings, directly engaged with key legislators,
 created lobby fliers and information sheets, rallied statewide
 contacts for support emails and phone calls to committee members
