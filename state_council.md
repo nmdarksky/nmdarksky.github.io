@@ -178,8 +178,52 @@ in New Mexico.
 
 **Peter Lipscomb**
 
-Peter has been involved in dark sky issues for many years. He
-currently works for NM State Parks.
+![image](bios/lipscomb.jpg){: style="float: left ; width: 20% ; padding: 15px"}
+Peter has been involved in dark sky preservation and education
+efforts for two decades. First in 2004, as a volunteer supporting
+Chaco Culture National Historical Park and its astronomy program
+during a memorable Mars opposition summer. Next as Director of the
+New Mexico Heritage Preservation Alliance Night Sky Program (NMHPA)
+where he produced the Alliance’s Night Sky Conference at Taos, NM
+2007. He actively backed efforts to strengthen enforcement language
+in the New Mexico Night Sky Protection Act in 2007 and 2009. Attended
+legislative committee meetings, directly engaged with key legislators,
+created lobby fliers and information sheets, rallied statewide
+contacts for support emails and phone calls to committee members
+for upcoming sessions.
+
+He completed five contract cycles with New Mexico State Parks (NMSPD)
+as “Reach for the Stars” program contractor, providing public
+programs at parks statewide, curriculum development, maintenance
+of astronomy equipment and facilities, and training for volunteers
+and staff. He authored the nomination packet for designation of
+Clayton Lake State Park as New Mexico’s first International Dark-Sky
+Park and supported ordinance efforts in Clayton and Union County,
+Rio Arriba County, Taos, and Taos County.
+
+In 2002, he founded Astronomy Adventures, a guided night sky tour
+business. Over the years, he has shared views of the wonderful and
+increasingly rare quality of New Mexico’s dark sky with thousands
+of people from across the country and around the world.  He wrote
+the weekly Night Skies column for the Santa Fe New Mexican 2007-2010.
+In 2016, Peter was honored by the Santa Fe Conservation Trust with
+the Stewart Udall award for his night sky activism.  His public
+engagement work with the NMHPA, NMSPD, New Mexico Legislature, local
+ordinance action, and interpretive education efforts has emphasized
+the broad-based importance of the nighttime environment. Its role
+as a natural and cultural resource and how it supports biodiversity,
+protects cultural heritage, conserves energy production, enhances
+our health and safety, bolsters economic benefits of scientific
+research and astro-tourism while fulfilling our need for wonder,
+awe, serenity, and a universal connectedness to inspire our creativity
+and imagination.
+
+In addition to his full-time work with New Mexico State Parks, Peter
+is a New Mexico regional team leader for the NASA Earth to Sky
+Program, serves as lead tech for Deep Sky West remote observatory
+in Rowe, NM, and hosts Sky Railway’s Stargazer train. He is delighted
+to have been a part of forming the New Mexico DarkSky chapter.
+
 
 **Jim Price**
 
