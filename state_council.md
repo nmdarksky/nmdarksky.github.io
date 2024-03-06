@@ -7,15 +7,16 @@ title : State Council
 ---
 
 The State Council is responsible for the management of the activities
-of the chapter. Current (February 2024) members were determined by participation
-in the founding of the chapter, but will be elected in subsequent
-years. 
+of the chapter, and are elected for two-year terms. Elections held 
+March 2024 result in the following Council:
 
-Initial/current council consists of : John Briggs, Trish Cutler, Jamey Eriksen,  Galen
-Gisler (treasurer), Mark Goodman, Michael Hensley, Jon Holtzman (chair),
-Joseph Karnes, Nick Knorr (secretary), Marisela La Grave, Peter Lipscomb (vice chair),
-Jim Price, Gary Starkweather, Sheila Sullivan, and Derek Wallentinsen.
+Terms expiring 2025:  John Briggs, Galen Gisler, Mark Goodman, Jon
+Holtzman, Marisela La Grave, Jim Price, Sheila Sullivan
 
+Terms expiring 2026: Trish Cutler, Jamey Eriksen, Michael Hensley,
+Nick Knorr, Peter Lipscomb, Gary Starkweather, Derek Wallentinsen.
+
+Council members can be re-elected for up to three terms.
 
 Michael Rymer represents Dark Sky International at our Council
 meetings.
@@ -145,8 +146,6 @@ As an outdoor enthusiast, he finds respite from looking at the dark nighttime
 sky, and wants to ensure that all people have the opportunity to do the same.
 
 [long bio](bios/bios#Holtzman)
-
-**Joseph Karnes**
 
 **Nick Knorr**
 
