@@ -98,6 +98,7 @@ people to get outdoors and enjoy the wonders of the night sky.
 [long bio](bios/bios#Gisler)
 
 **Mark Goodman**
+
 ![image](bios/goodman.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 Originally from Oklahoma, Mark has called many places home: South
 Carolina, Kentucky, Iowa, New York, Italy, Ohio, and New Mexico.

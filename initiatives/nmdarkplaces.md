@@ -8,11 +8,19 @@ layout: page
 
 #### Committee
 
-Marisela La Grave,  Michael Hensley, Jamey Eriksen, Derek Wallentinsen, Peter Lipscomb, John Briggs 
+Derek Wallentinsen, Peter Lipscomb,
 
 #### Goals 
 
+Establish more designated dark sky places in New Mexico!
+
 #### Actions 
+
+Dark sky sanctuary potentional: Magdelena Ridge / Langmuir research state
+
+Dark sky park potential : El Malpais Natl Mon, Pecos Natl Historic Park, City of Rock SP, Leasburg SP, Bottomless Lakes SP, Bluewater SP
+
+Dark sky community potential : Top of the Sky community (near Pietown NM)
 
 #### Resources 
 

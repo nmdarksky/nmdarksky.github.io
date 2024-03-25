@@ -17,6 +17,7 @@ layout: home
 
 ## Welcome to New Mexico DarkSky
 
+Vision:
 *New Mexico DarkSky seeks to restore and preserve New Mexico’s
 heritage of brilliant, star- filled skies and dark nighttime
 environments. We endeavor to eliminate light pollution throughout
@@ -39,11 +40,10 @@ Organization
 
 Initiatives
 - [December 2023 stakeholder meeting](meeting/meeting)
-- [New Mexico dark sky places](initiatives/nmdarkplaces)
 - [Ordinances and monitoring](initiatives/ordinances)
-- [Ecological impacts and mitigation](initiatives/ecological)
-- [Economic development and tourism](initiatives/economic)
 - [Education, outreach, and community engagement](initiatives/education)
+- [New Mexico dark sky places](initiatives/nmdarkplaces)
+- [Economic development and tourism](initiatives/economic)
 
 Press
 - [articles related to NM State Chapter](press/chapter)
@@ -55,4 +55,5 @@ Resources
 - [general information on dark skies](resources/info)
 - [information on ordinances](resources/ordinances)
 - [information on dark-sky friendly products](resources/products)
+- [images of night skies in New Mexico](images.md)
 

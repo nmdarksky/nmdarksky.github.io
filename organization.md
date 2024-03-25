@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title : Organization
+title : Organization resources
 ---
 
-Organization resources
+- [Google calendar for NM DarkSky](https://calendar.google.com/calendar/u/2?cid=bmV3bWV4aWNvQGRhcmtza3kub3Jn)
+- [Recording of March 5, 2024 general membership meeting](Mar2024MembershipMeeting.mp4)
 - [Generic business card](card.pdf)
 - [logos](logos/logos) (note you may have to click on some to see the white text!)
 - [Box drive file location (Box Drive restricted) ](https://app.box.com/folder/197128831422)
