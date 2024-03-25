@@ -55,5 +55,6 @@ Resources
 - [general information on dark skies](resources/info)
 - [information on ordinances](resources/ordinances)
 - [information on dark-sky friendly products](resources/products)
-- [images of night skies in New Mexico](images.md)
+- [images of night skies in New Mexico](images)
+- [NM presentations](presentations)
 
