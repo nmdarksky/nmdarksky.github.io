@@ -8,10 +8,13 @@ layout: page
 
 #### Committee
 
-Gary Starkweather, Galen Gisler, Michael Hensley, Jamey Eriksen, Nick Knorr, Derek Wallentinsen, Peter Lipscomb
-
+Gary Starkweather, Galen Gisler, Nick Knorr, Derek Wallentinsen, Peter Lipscomb, Michael Hensley, Jamey Eriksen
 
 #### Goals 
+
+Update the NM Night Sky Protection Act!
+
+Establish stronger local ordinances around the state
 
 #### Actions 
 

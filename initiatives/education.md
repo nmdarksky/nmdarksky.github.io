@@ -8,7 +8,7 @@ layout: page
 
 #### Committee
 
-Derek Wallentinsen, Galen Gisler, Marisela La Grave, Peter Lipscomb, John Briggs, Jon Holtzman, Jim Price
+Jim Price, Trish Cutler, Marisela La Grave, Jon Holtzman, ...
 
 #### Goals 
 
