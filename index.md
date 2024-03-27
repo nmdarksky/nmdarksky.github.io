@@ -12,7 +12,7 @@ layout: home
 ![logo](logo.png)
 
 <center>
-<img src="images/elmorro.jpeg" alt="elmorro" width="100%"/> 
+<img src="images/elmorro.caption.jpeg" alt="elmorro" width="100%"/> 
 </center>
 
 ## Welcome to New Mexico DarkSky
