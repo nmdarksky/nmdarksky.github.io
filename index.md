@@ -49,6 +49,7 @@ Initiatives
 - [Education, outreach, and community engagement](initiatives/education)
 - [New Mexico dark sky places](initiatives/nmdarkplaces)
 - [Economic development and tourism](initiatives/economic)
+- [Ecological impact ](initiatives/ecological)
 
 Press
 - [articles related to NM State Chapter](press/chapter)
