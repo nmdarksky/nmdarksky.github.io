@@ -4,7 +4,7 @@ layout: page
 
 ![logo](../logo.png)
 
-## Biological/ccological impact and mitigation
+## Biological/ecological impact and mitigation
 
 #### Committee
 
