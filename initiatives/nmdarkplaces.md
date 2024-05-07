@@ -24,6 +24,10 @@ Dark sky community potential : Top of the Sky community (near Pietown NM)
 
 #### Resources 
 
+[types of dark sky places](https://darksky.org/what-we-do/international-dark-sky-places/dark-sky-place-types/)
+
+[Application process](https://darksky.org/what-we-do/international-dark-sky-places/apply/)
+
 NM night sky brightness map c. 2015 (from [https://www.lightpollutionmap.info/](https://www.lightpollutionmap.info/))
 and Declared NM Dark Sky locations (courtesy Derek Wallentinsen):
 
