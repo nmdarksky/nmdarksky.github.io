@@ -66,4 +66,6 @@ Resources
 - [images of night skies in New Mexico](images)
 - [NM presentations](presentations)
 
+<br>
 [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
+<a href="material/NM Protect the night brochure (5-2024).pdf"> <img src="material/cover.png" width="10%"> </A>
