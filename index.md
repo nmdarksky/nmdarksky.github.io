@@ -37,6 +37,8 @@ Mission: <i>The Organization will strive to:
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
 <br>[<B>Donate</b>](https://act.darksky.org/newmexicodarksky) directly to the New Mexico chapter!
 <br>[<B>Email</b>](mailto:newmexico@darksky.org) us at <a href="mailto:newmexico@darksky.org"> newmexico@darksky.org
+<br><a href="material/NM Protect the night brochure (5-2024).pdf"> <img src="material/cover.png" width="10%"> </A>
+[Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
 
 Organization
 - [State Council](state_council) 
@@ -64,3 +66,4 @@ Resources
 - [images of night skies in New Mexico](images)
 - [NM presentations](presentations)
 
+[Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
