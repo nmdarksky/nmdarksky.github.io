@@ -8,11 +8,25 @@ layout: page
 
 #### Committee
 
-Jim Price, Trish Cutler, Marisela La Grave, Jon Holtzman, ...
+Jim Price, Trish Cutler, Sheila Sullivan, Marisela La Grave, Jon Holtzman, ...
 
 #### Goals 
 
+Develop, distribute, and present educational materials related to dark skies
+
 #### Actions 
+
+Tabling events
+
+Develop brochure
+
+Develop outreach material
+
+Develop presentations
+
+Develop public service announcements, letters, op-eds, etc.
+
+Develop website
 
 #### Resources
 
