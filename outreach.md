@@ -16,7 +16,7 @@ title : Outreach
 - Large images (e.g., Milky Way, dark and light views of sky)
 - Shade structure (as needed)
 - [Banner](material/banner_logo.pdf) for shade structure
-- sign up sheet for email addresses (and make sure to communicate these after the event!)
+- [sign up sheet for email addresses](emaillist.pdf) (and make sure to communicate these after the event!)
 
 
 ### Standard pitch / talking points
