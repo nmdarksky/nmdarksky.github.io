@@ -31,5 +31,6 @@ Develop website
 #### Resources
 
 [DarkSky International outreach materials](https://darksky.org/resources/public-outreach-materials/)
+[NM Chapter material/ideas](outreach)
 
 
