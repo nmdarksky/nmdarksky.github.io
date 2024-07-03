@@ -27,3 +27,9 @@ layout: page
 
 - [Dark Sky Consulting](https://www.darkskyconsulting.com/)
 
+
+Videos, etc:
+
+- [Colorado](https://www.youtube.com/watch?v=QyqykIFqNoY)
+
+- [LA County](https://www.youtube.com/watch?v=idStuAKJPZs)
