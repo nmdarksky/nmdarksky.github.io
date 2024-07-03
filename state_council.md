@@ -11,10 +11,10 @@ of the chapter, and are elected for two-year terms. Elections held
 March 2024 result in the following Council:
 
 Terms expiring 2025:  John Briggs, Galen Gisler, Mark Goodman, Jon
-Holtzman, Marisela La Grave, Jim Price, Sheila Sullivan
+Holtzman (chair), Marisela La Grave, Jim Price, Sheila Sullivan
 
 Terms expiring 2026: Trish Cutler, Jamey Eriksen, Michael Hensley,
-Nick Knorr, Peter Lipscomb, Gary Starkweather, Derek Wallentinsen.
+Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen.
 
 Council members can be re-elected for up to three terms.
 
