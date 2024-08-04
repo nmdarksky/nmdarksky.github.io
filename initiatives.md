@@ -7,7 +7,7 @@ title : Initiatives
 
 ### [Tourism/economic development](economicimpact/economic)
 
-### [Ordinances/monitoring](legislation/ordinances)
+### [Legislation/Ordinances/monitoring](legislation/ordinances)
 
 ### [Ecological impacts/mitigation](ecological/ecological)
 
