@@ -106,7 +106,7 @@ Glenwood, NM 88039\\
 
 ### Links
 - Sky Weather
-- Cosmic Campground Clear Sky Chart
+- [Cosmic Campground Clear Sky Chart](https://www.cleardarksky.com/c/CsmcCmpNMkey.html)
 - Historical Sky Weather
 - Cosmic Campground Clear Sky Chart History
 - Sky Viewing Celestial Events
