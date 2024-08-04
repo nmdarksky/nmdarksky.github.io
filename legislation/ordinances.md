@@ -6,17 +6,17 @@ layout: page
 
 ### Ordinances / monitoring
 
-#### Committee
-
-Gary Starkweather, Galen Gisler, Nick Knorr, Derek Wallentinsen, Peter Lipscomb, Michael Hensley, Jamey Eriksen
+Legislation and ordinances can be an important tool to help to preserve dark skies.
+New Mexico was a pioneer in passing the statewide Night Sky Protection Act (NSPA) in 1999. However,
+light pollution in New Mexico has continued to increase. New Mexico DarkSky is
+committed to trying to improve the NSPA, and to assist in efforts to establish
+stronger ordinances at more local levels.
 
 #### Goals 
 
 Update the NM Night Sky Protection Act!
 
 Establish stronger local ordinances around the state
-
-#### Actions 
 
 #### Resources
 
