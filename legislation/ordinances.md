@@ -4,7 +4,7 @@ layout: page
 
 ![logo](../logo.png)
 
-### Ordinances / monitoring
+### Legislation / Ordinances / Monitoring
 
 Legislation and ordinances can be an important tool to help to preserve dark skies.
 New Mexico was a pioneer in passing the statewide Night Sky Protection Act (NSPA) in 1999. However,
