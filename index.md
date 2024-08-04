@@ -50,6 +50,7 @@ Initiatives
 
 Resources
 - [DarkSky international](http://darksky.org)
+  - [DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
 - [Illuminating Engineering Society](https://www.ies.org/)
 - [Links to general information on dark skies](resources/info)
 - [Information on ordinances](resources/ordinances)
