@@ -105,6 +105,7 @@ Glenwood, NM 88039\\
 [p:575 539 2481]
 
 ### Links
+- [US Forest Service Cosmic Campground web site](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
 - Sky Weather
 - [Cosmic Campground Clear Sky Chart](https://www.cleardarksky.com/c/CsmcCmpNMkey.html)
 - Historical Sky Weather
