@@ -3,15 +3,15 @@ layout: page
 title : Initiatives
 ---
 
-### [Education/outreach/community engagement](initiatives/education)
+### [Education/outreach/community engagement](outreach/education)
 
-### [Tourism/economic development](initiatives/economic)
+### [Tourism/economic development](economicimpact/economic)
 
-### [Ordinances/monitoring](initiatives/ordinances)
+### [Ordinances/monitoring](legislation/ordinances)
 
-### [Ecological impacts/mitigation](initiatives/ecological)
+### [Ecological impacts/mitigation](ecological/ecological)
 
-### [Expansion/preservation of dark sky places](initiatives/nmdarkplaces)
+### [Expansion/preservation of dark sky places](darkskyplaces/nmdarkplaces)
 
 
 ![image](images/elmorro.jpeg)

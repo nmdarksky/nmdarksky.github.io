@@ -1,7 +1,11 @@
 ---
+
 layout: page
-title : Outreach
 ---
+
+
+![logo](../logo.png)
+
 
 ### Materials for outreach events
 

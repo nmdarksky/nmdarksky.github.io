@@ -40,31 +40,32 @@ Mission: <i>The Organization will strive to:
 <br><a href="material/NM Protect the night brochure (5-2024).pdf"> <img src="material/cover.png" width="10%"> </A>
 [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
 
+Initiatives
+- [Legislation, ordinances and monitoring](legislation/ordinances)
+- [Education, outreach, and community engagement](outreach/education)
+- [New Mexico dark sky places](darkskyplaces/nmdarkplaces)
+- [Economic impact and tourism](economicimpact/economic)
+- [Ecological/biological impact ](ecological/ecological)
+- [December 2023 stakeholder meeting](meeting/meeting)
+
+Resources
+- [DarkSky international](http://darksky.org)
+- [Illuminating Engineering Society](https://www.ies.org/)
+- [Links to general information on dark skies](resources/info)
+- [Information on ordinances](resources/ordinances)
+- [Information on dark-sky friendly products](resources/products)
+- [Images of night skies in New Mexico](images)
+- [NM presentations](presentations)
+
 Organization
 - [State Council](state_council) 
 - [Bylaws approved 1/24](By-Laws - Approved.pdf) 
 - [organizational resources](organization)
 
-Initiatives
-- [December 2023 stakeholder meeting](meeting/meeting)
-- [Ordinances and monitoring](initiatives/ordinances)
-- [Education, outreach, and community engagement](initiatives/education)
-- [New Mexico dark sky places](initiatives/nmdarkplaces)
-- [Economic development and tourism](initiatives/economic)
-- [Ecological/biological impact ](initiatives/ecological)
-
 Press
 - [articles related to NM State Chapter](press/chapter)
 - [articles related to dark skies in general](press/other)
 
-Resources
-- [DarkSky international](http://darksky.org)
-- [Illuminating Engineering Society](https://www.ies.org/)
-- [general information on dark skies](resources/info)
-- [information on ordinances](resources/ordinances)
-- [information on dark-sky friendly products](resources/products)
-- [images of night skies in New Mexico](images)
-- [NM presentations](presentations)
 
 <br>
 [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
