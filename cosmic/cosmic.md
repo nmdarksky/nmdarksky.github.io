@@ -5,6 +5,8 @@ layout: page
 
 ![logo](../logo.png)
 
+### Cosmic Campground International Dark Sky Sanctuary
+
 As of 2024, New Mexico DarkSky is taking on the reporting responsibility
 DarkSky Sancutary status for the Cosmic Campground.
 
