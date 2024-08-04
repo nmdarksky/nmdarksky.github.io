@@ -59,7 +59,6 @@ Resources
 
 Organization
 - [State Council](state_council) 
-- [Bylaws approved 1/24](By-Laws - Approved.pdf) 
 - [organizational resources](organization)
 
 Press

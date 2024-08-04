@@ -6,7 +6,8 @@ layout: page
 
 ## New Mexico dark sky places
 
-DarkSky Internation has a formal certification program for DarkSky Places. There
+DarkSky International has a formal certification program for 
+[DarkSky Places](https://darksky.org/what-we-do/international-dark-sky-places/). There
 are currently nine such certified locations in New Mexico:
 
 - Chaco Canyon National Historical Park
@@ -46,4 +47,6 @@ and Declared NM Dark Sky locations (courtesy Derek Wallentinsen):
 <img src="ADO-42.jpg" width="53%"> 
 
 [Interactive map at lighttrends.lightpollutionmap.info](https://lighttrends.lightpollutionmap.info/#zoom=5&lon=-104.56607&lat=34.07112)
+
+[Gateway to Astronaut Photography of Earth](https://eol.jsc.nasa.gov/)
 
