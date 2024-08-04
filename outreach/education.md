@@ -6,27 +6,22 @@ layout: page
 
 ## Education, outreach, and community engagement
 
-#### Committee
-
-Jim Price, Trish Cutler, Sheila Sullivan, Marisela La Grave, Jon Holtzman, ...
+Education on dark skies is a critical component of making progress. Many people
+are not aware of the multiple benefits of dark skies, some of the problems
+with poor lighting, and information about best practices in lighting. New Mexico
+DarkSky strives to improve understanding about the issues, problems, and solutions.
 
 #### Goals 
 
 Develop, distribute, and present educational materials related to dark skies
 
-#### Actions 
-
 Tabling events
 
-Develop brochure
+Presentations
 
-Develop outreach material
+Press
 
-Develop presentations
-
-Develop public service announcements, letters, op-eds, etc.
-
-Develop website
+Website
 
 #### Resources
 

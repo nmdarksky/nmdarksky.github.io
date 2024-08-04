@@ -6,15 +6,16 @@ layout: page
 
 ## Economic development and tourism
 
-#### Committee
-
-Michael Hensley, Jim Price, John Briggs, Jon Holtzman
+Dark skies can have a significant positive economic impact on New Mexico. 
+These include astrotourism, which brings people to the state, telescope
+hosting businesses, dark sky communities, University programs in
+astronomy, research observatories, Department of Defense facilities,
+and others. New Mexico DarkSky strives to document these economic
+impacts and inform others about them
 
 #### Goals 
 
 Collect information related to economic impact of dark skies and develop report
-
-#### Actions 
 
 Commission economic impact report of dark skies in New Mexico
 
