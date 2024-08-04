@@ -6,13 +6,16 @@ layout: page
 
 ## Biological/ecological impact and mitigation
 
-#### Committee
+Artificial light at night has adverse effects on many other species, and
+this in turn can lead to effects on humans. For example, many pollinators
+are adversly affected by light at night, which in turn has the potential
+to affect agriculture. 
 
-Trish Cutler, Derek Wallentinsen, Marisela La Grave, Peter Lipscomb, Jon Holtzman
+The bulk of bird migration occurs at night, and the adverse effect of
+excess lighting has been documented to disrupt this.
 
 #### Goals 
 
-#### Actions 
 
 #### Resources
 
