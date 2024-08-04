@@ -14,9 +14,9 @@ stronger ordinances at more local levels.
 
 #### Goals 
 
-Update the NM Night Sky Protection Act!
+- Update the NM Night Sky Protection Act!
 
-Establish stronger local ordinances around the state
+- Establish stronger local ordinances around the state
 
 #### Resources
 

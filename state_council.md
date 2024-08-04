@@ -10,7 +10,7 @@ The State Council is responsible for the management of the activities
 of the chapter, and are elected for two-year terms. Elections held 
 March 2024 result in the following Council:
 
-Terms expiring 2025:  John Briggs, Galen Gisler, Mark Goodman, Jon
+Terms expiring 2025:  John Briggs, Galen Gisler, Jon
 Holtzman (chair), Marisela La Grave, Jim Price, Sheila Sullivan
 
 Terms expiring 2026: Trish Cutler, Jamey Eriksen, Michael Hensley,
@@ -96,23 +96,6 @@ he has contributed to astronomy outreach and education, encouraging
 people to get outdoors and enjoy the wonders of the night sky.
 
 [long bio](bios/bios#Gisler)
-
-**Mark Goodman**
-
-![image](bios/goodman.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
-Originally from Oklahoma, Mark has called many places home: South
-Carolina, Kentucky, Iowa, New York, Italy, Ohio, and New Mexico.
-From age 12 onwards, he’s had an abiding passion for astronomy and
-a love for dark skies.  Sadly, over the years, each place he’s lived
-has experienced a deterioration of sky quality.  Having undergraduate
-and graduate degrees in Botany, Mark has an appreciation for how
-artificial light has a negative affect on the flowering sequence
-of plants, and thus the production of fruit and seed, initiating a
-cascade impact to pollinators and animals that rely upon plant
-productivity, including humans.  He is currently the President of
-The Albuquerque Astronomical Society (TAAS) and serves as the
-Education Outreach Coordinator for TAAS.
-
 
 **Michael Hensley**
 

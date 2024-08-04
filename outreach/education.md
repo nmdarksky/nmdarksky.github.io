@@ -13,15 +13,15 @@ DarkSky strives to improve understanding about the issues, problems, and solutio
 
 #### Goals 
 
-Develop, distribute, and present educational materials related to dark skies
+- Develop, distribute, and present educational materials related to dark skies
 
-Tabling events
+- Staff tabling events to provide information on dark skies
 
-Presentations
+- Make presentations on dark skies and supply material for others to do the same
 
-Press
+- Press: provide information for articles related to dark skies. Compose and submit op-eds, letters to the editor, etc
 
-Website
+- Website: provide useful information on dark skies on Chapter website
 
 #### Resources
 

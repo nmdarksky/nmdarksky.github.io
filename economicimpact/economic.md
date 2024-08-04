@@ -15,9 +15,9 @@ impacts and inform others about them
 
 #### Goals 
 
-Collect information related to economic impact of dark skies and develop report
+- Collect information related to economic impact of dark skies and develop report
 
-Commission economic impact report of dark skies in New Mexico
+- Commission economic impact report of dark skies in New Mexico
 
 #### Resources
 
@@ -34,5 +34,5 @@ Commission economic impact report of dark skies in New Mexico
 
 #### Resources
 
-[economic impact report for Colorado Plateau 2019](https://bearworks.missouristate.edu/articles-chpa/8/)
-[Colorado Plateau Dark Sky Cooperative sheet](https://brdarkskies.org/wp-content/uploads/2021/10/economicsofdarkskiesbrief_9-23-21.pdf)
+- [economic impact report for Colorado Plateau 2019](https://bearworks.missouristate.edu/articles-chpa/8/)
+- [Colorado Plateau Dark Sky Cooperative sheet](https://brdarkskies.org/wp-content/uploads/2021/10/economicsofdarkskiesbrief_9-23-21.pdf)
