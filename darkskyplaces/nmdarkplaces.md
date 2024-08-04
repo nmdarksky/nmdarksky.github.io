@@ -50,3 +50,5 @@ See [New Mexico True web site](https://www.newmexico.org/darkskies/)
 
 - [Gateway to Astronaut Photography of Earth](https://eol.jsc.nasa.gov/)
 
+- [Nighttime lights](https://www.earthdata.nasa.gov/learn/backgrounders/nighttime-lights)
+
