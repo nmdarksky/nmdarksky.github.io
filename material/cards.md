@@ -4,6 +4,7 @@ layout: page
 
 Some possibilities for a card series:
 
+- [Standard DarkSky International Five Principles + lighting fixtures](Five principle cards (2-2024).pdf)
 - [Enjoy and protect the night sky + Five Principles](Night sky + Five Principles.pdf)
 - [Be safer with responsible lighting + Five Principles](Safety + Five Principles.pdf)
 - [Be a good neighbor and don't let your light trespass + Five Principles](Neighbor + Five Principles.pdf)
