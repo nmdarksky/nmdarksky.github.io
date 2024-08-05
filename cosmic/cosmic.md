@@ -25,7 +25,10 @@ of the Cosmic Campground' signs.  Turn, cross the cattle guard and
 drive 1.3 m. Arrive at CCIDSS. Coordinates: 33°28'46.71"N 108°55'22.66"W,
 elevation 5360 feet.
 
-[US Forest Service web site](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
+
+[<font size=5>US Forest Service web site</font>](https://www.fs.usda.gov/recarea/gila/recarea/?82479)
+
+[<font size=5>DarkSky International web site</font>](https://darksky.org/places/cosmic-campground-dark-sky-place/)
 
 Current Status Includes:
 - Some of the Darkest Clear Skies on Planet Earth
@@ -116,34 +119,7 @@ Glenwood, NM 88039\\
 - Coming Attractions At The Cosmic Campground IDSS
 
 
-
-### International Dark Sky Association Application
-
-The Cosmic Campground is a 1.42 hectare (3.5 acre) site in the Gila
-National Forest of western New Mexico, U.S. Situated between the
-Gila Wilderness and the Blue Range Primitive Area, it is located
-on land managed by the United States Forest Service. The Campground
-is located in an exceptionally dark part of the lower 48 U.S. states,
-with the nearest significant source of artificial light more than
-65 kilometers away across the state line in Arizona. The Campground
-features a very basic infrastructure to support campers and offers
-a 360-degree, unobstructed, view of the night sky.  The Application
-for the Cosmic Campground to become an International Dark Sky
-Sanctuary is a 46 page description and evaluation of the site.
-
-The announcement that the Cosmic Campground has been designated as an International Dark Sky
-Sanctuary was announced at the meeting of the Catron County Commission January 14, 2016.
-
-[pictured right to left, Commissioner Bucky Allred, Patricia A. Grauer,
-Commissioner Glyn Griffin, Commissioner Anita Hand, Dr. Al Grauer]
-
-"The Cosmic Campground in Catron County brings visitors from around the United States and the
-world to enjoy New Mexico’s unmatched wild places,” said Senator Heinrich. "Outdoor recreation is a
-huge draw for the state and contributes to our economy as a whole. I was glad to support the Cosmic
-Campground’s effort in becoming an International Dark Sky Sanctuary, and I am pleased with their
-success. This designation will elevate the status of western New Mexico as a true destination for star
-gazers and dark sky enthusiasts all while boosting the economies of local communities."
-
-[Pictured Right to left Senator Martin Heinrich, Dr. Al Grauer,
-Patricia A. Grauer]
+<h3>
+<a href=history>History of the Cosmic Campground </a>
+</h3>
 
