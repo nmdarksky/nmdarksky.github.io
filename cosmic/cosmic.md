@@ -26,9 +26,9 @@ drive 1.3 m. Arrive at CCIDSS. Coordinates: 33°28'46.71"N 108°55'22.66"W,
 elevation 5360 feet.
 
 
-[<font size=5>US Forest Service web site</font>](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
+[<font size=5>US Forest Service web site for CCIDSS</font>](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
 
-[<font size=5>DarkSky International web site</font>](https://darksky.org/places/cosmic-campground-dark-sky-place/)
+[<font size=5>DarkSky International web site for CCIDSS</font>](https://darksky.org/places/cosmic-campground-dark-sky-place/)
 
 Current Status Includes:
 - Some of the Darkest Clear Skies on Planet Earth
