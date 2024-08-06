@@ -5,6 +5,8 @@ layout: page
 
 ![logo](../logo.png)
 
+<img src="799-1-Steven-MillerPix.com_0001-2mg.jpeg">
+
 ### Cosmic Campground International Dark Sky Sanctuary
 
 As of 2024, New Mexico DarkSky is taking on the reporting responsibility
@@ -111,7 +113,7 @@ Glenwood, NM 88039\\
 
 ### Links
 - [US Forest Service Cosmic Campground web site](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
-- Sky Weather
+- [Sky Weather](weather)
 - [Cosmic Campground Clear Sky Chart](https://www.cleardarksky.com/c/CsmcCmpNMkey.html)
 - Historical Sky Weather
 - Cosmic Campground Clear Sky Chart History
