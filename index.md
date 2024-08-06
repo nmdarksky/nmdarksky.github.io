@@ -33,10 +33,11 @@ through advocacy, outreach, education, and conservation.*
 - <i>develop professional credibility with government, industry, and the public as the authoritative voice for outstanding, protective, and safe outdoor lighting policies.</i>
 - <i>bring the experience, expertise, and resources of DarkSky International to enhance and enrich our State-wide work.</i>
 
-**Why?** <i>Appropriate lighting can be safer, save energy and
+**Why?** <i>Responsible lighting can be safer, save energy and
 money, be healthier, have less adverse effect on wildlife, and
 enable greater human appreciation and scientific study of the night
-sky. </i>
+sky. Dark skies can also have a positive economic impact through
+astrotourism and attracting people to live in New Mexico.</i>
 
 
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
