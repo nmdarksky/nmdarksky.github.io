@@ -21,17 +21,22 @@ Founded in June 2023, we are a state chapter of [DarkSky International](https://
 All members of DarkSky International in the state of New Mexico are chapter members. The
 activities of the chapter are managed by the State Council of the organization.
 
-Vision:
+**Vision**:
 *New Mexico DarkSky seeks to restore and preserve New Mexico’s
 ancestral heritage of majestic, star- filled skies and dark nighttime
 environments. We endeavor to eliminate light pollution throughout
 the State and protect all communities from its harmful effects,
 through advocacy, outreach, education, and conservation.*
 
-Mission: <i>The Organization will strive to:
+**Mission**: <i>The Organization will strive to:
 - <i>become the leading force for protecting New Mexico’s existing Dark Sky places and for eliminating light pollution throughout the State.</i>
 - <i>develop professional credibility with government, industry, and the public as the authoritative voice for outstanding, protective, and safe outdoor lighting policies.</i>
 - <i>bring the experience, expertise, and resources of DarkSky International to enhance and enrich our State-wide work.</i>
+
+**Why?** <i>Appropriate lighting can be safer, save energy and
+money, be healthier, have less adverse effect on wildlife, and
+enable greater human appreciation and scientific study of the night
+sky. </i>
 
 
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
@@ -40,7 +45,7 @@ Mission: <i>The Organization will strive to:
 <br><a href="material/NM Protect the night brochure (5-2024).pdf"> <img src="material/cover.png" width="10%"> </A>
 [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
 
-Initiatives
+### Initiatives
 - [Legislation, ordinances and monitoring](legislation/ordinances)
 - [Education, outreach, and community engagement](outreach/education)
 - [New Mexico dark sky places](darkskyplaces/nmdarkplaces)
@@ -48,7 +53,7 @@ Initiatives
 - [Ecological/biological impact ](ecological/ecological)
 - [December 2023 stakeholder meeting](meeting/meeting)
 
-Resources
+### Resources
 - [DarkSky international](http://darksky.org)
   - [DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
 - [Illuminating Engineering Society](https://www.ies.org/)
@@ -58,11 +63,11 @@ Resources
 - [Images of night skies in New Mexico](images)
 - [NM presentations](presentations)
 
-Organization
+### Organization
 - [State Council](state_council) 
 - [organizational resources](organization)
 
-Press
+### Press
 - [articles related to NM State Chapter](press/chapter)
 - [articles related to dark skies in general](press/other)
 
