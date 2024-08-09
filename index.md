@@ -33,11 +33,18 @@ through advocacy, outreach, education, and conservation.*
 - <i>develop professional credibility with government, industry, and the public as the authoritative voice for outstanding, protective, and safe outdoor lighting policies.</i>
 - <i>bring the experience, expertise, and resources of DarkSky International to enhance and enrich our State-wide work.</i>
 
+**How?** <i>Eliminating light pollution does not mean that we have to
+turn all of the lights off. It can be achieved through <b>responsible
+lighting</b> that follows some [basic principles](https://darksky.org/resources/guides-and-how-tos/lighting-principles/): use only as much
+light as is needed, direct it only to where it is needed, use it
+only when it is needed, and use redder light when possible. 
+
 **Why?** <i>Responsible lighting can be safer, save energy and
 money, be healthier, have less adverse effect on wildlife, and
 enable greater human appreciation and scientific study of the night
 sky. Dark skies can also have a positive economic impact through
-astrotourism and attracting people to live in New Mexico.</i>
+astrotourism and attracting people to live in New Mexico. There
+really is no down side!</i>
 
 
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
