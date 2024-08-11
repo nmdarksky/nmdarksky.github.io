@@ -1,6 +1,7 @@
 ---
 
 layout: page
+title: Cosmic
 ---
 
 ![logo](../logo.png)
@@ -9,15 +10,15 @@ layout: page
 
 ### Cosmic Campground International Dark Sky Sanctuary
 
-As of 2024, New Mexico DarkSky is taking on the reporting responsibility
-DarkSky Sancutary status for the Cosmic Campground.
-
 The Cosmic Campground International Dark Sky Sanctuary (CCIDSS) is located on
 the Gila National Forest and was selected by the International Dark Sky
-Association to be the first International Dark Sky Sanctuary in the
+Association (now [DarkSky International](darksky.org))to be the first International Dark Sky Sanctuary in the
 northern hemisphere.  It received this designation for being in one
 of the few locations in the lower 48 U.S. States which has a natural
 dark night sky.
+
+As of 2024, New Mexico DarkSky is taking on the reporting responsibility
+for the DarkSky Sanctuary status for the Cosmic Campground.
 
 **Location**: Cosmic Campground is located 
 8 miles north of Alma, NM off US 180.
@@ -28,9 +29,11 @@ drive 1.3 m. Arrive at CCIDSS. Coordinates: 33°28'46.71"N 108°55'22.66"W,
 elevation 5360 feet.
 
 
-[<font size=5>US Forest Service web site for CCIDSS</font>](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
+#### [US Forest Service web site for CCIDSS](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
 
-[<font size=5>DarkSky International web site for CCIDSS</font>](https://darksky.org/places/cosmic-campground-dark-sky-place/)
+#### [DarkSky International web site for CCIDSS](https://darksky.org/places/cosmic-campground-dark-sky-place/)
+
+#### [Places to Stay, Fuel,Eat, and More](business)
 
 Current Status Includes:
 - Some of the Darkest Clear Skies on Planet Earth
@@ -39,6 +42,7 @@ Current Status Includes:
 - Dry Camping. No water is available on site
 - No trash pickup. Pack it in. Pack it out.
 - New Toilet is Installed
+
 
 ### If you are planning to visit
 
@@ -86,13 +90,8 @@ the natural night sky for 20-30 minutes.
 - NO White flashlights
 - NO Drones
 
-### Places to Stay, Fuel,Eat, and More
-- Alma [ 8 miles south]
-- Glenwood [13 miles south]
-- Pleasanton [15 miles south]
-- Reserve [24 miles]
-- Natural Night Sky Country
-- Place To Shower In Glenwood: Double TT Homestead [13 miles south]
+### [Places to Stay, Fuel,Eat, and More](business)
+- [Businesses in the area](business)
 
 ### Your Input
 
@@ -119,9 +118,13 @@ Glenwood, NM 88039\\
 - Cosmic Campground Clear Sky Chart History
 - Sky Viewing Celestial Events
 - Coming Attractions At The Cosmic Campground IDSS
-
+- [YouTube video](https://www.youtube.com/watch?v=mzFkAv4Lahk&t=4s ) about the inception of CCIDSS which presents Bill McCabe & Bob Robinson?  
+- [NM True video on CCIDSS](https://www.youtube.com/watch?v=prc8CZUieiY&t=11s)
 
 <h3>
 <a href=history>History of the Cosmic Campground </a>
 </h3>
+
+### [Science at the Cosmic Campground](science)
+
 

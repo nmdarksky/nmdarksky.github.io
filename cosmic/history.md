@@ -97,7 +97,8 @@ his wife Ann became enthusiastically involved in establishing the
 campground.
 
 Further evaluations were conducted by the Silver city Astronomical
-Society. An in-depth evaluation of the nighttime sky was conducted
+Society. An [in-depth evaluation](Site Evaluation Report for The Proposed Astronomy-2.pdf)
+ of the nighttime sky was conducted
 by Gary Emerson, President of the Silver City Astronomical Society.
 This evaluation was extremely favorable. See the web page on this
 site.
@@ -174,3 +175,21 @@ application for the details.
 On January 14, 2016 The International Dark Sky Association Designated
 the Cosmic Campground as the first International Dark Sky Sanctuary
 in North America.
+
+### Further developments
+
+Over the years David Thornburg’s images taken at the Cosmic Campground
+have been published in a wide variety of places. These images proved
+instrumental in educating people about the night sky and in making the Cosmic
+Campground IDSS to be known worldwide for its exceptional high quality natural
+night sky.
+
+A simple, solar powered Sky Quality Meter (SQM) at the Cosmic Campground
+IDSS has produced two peer-reviewed scientific papers, Grauer, Grauer, Davies
+and  Davis (2019) and Grauer and Grauer (2021), providing unique
+documentation of the quality of night sky at Cosmic Campground CIDSS. These
+publications also show the value of data obtained under  a natural night sky in
+interpreting artificial light at night experiments (e.g., Barentine et al. 2020).
+Jim and Nancy Coates and others continue the Friends of the Cosmic
+Campground roadside cleanup and the resulting signs from the New Mexico
+Department of Transportation.
