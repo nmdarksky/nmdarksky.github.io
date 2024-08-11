@@ -122,7 +122,7 @@ Glenwood, NM 88039\\
 - Cosmic Campground Clear Sky Chart History
 - Sky Viewing Celestial Events
 - Coming Attractions At The Cosmic Campground IDSS
-- [YouTube video](https://www.youtube.com/watch?v=mzFkAv4Lahk&t=4s ) about the inception of CCIDSS which presents Bill McCabe & Bob Robinson?  
+- [YouTube video](https://www.youtube.com/watch?v=mzFkAv4Lahk&t=4s ) about the inception of CCIDSS which presents Bill McCabe & Bob Robinson
 - [NM True video on CCIDSS](https://www.youtube.com/watch?v=prc8CZUieiY&t=11s)
 
 
