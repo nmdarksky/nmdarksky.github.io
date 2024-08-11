@@ -57,6 +57,7 @@ really is no down side!</i>
 - [Legislation, ordinances and monitoring](legislation/ordinances)
 - [Education, outreach, and community engagement](outreach/education)
 - [New Mexico dark sky places](darkskyplaces/nmdarkplaces)
+  - [Cosmic Campground DarkSky Santuary](cosmic/cosmic)
 - [Economic impact and tourism](economicimpact/economic)
 - [Ecological/biological impact ](ecological/ecological)
 - [December 2023 stakeholder meeting](meeting/meeting)
