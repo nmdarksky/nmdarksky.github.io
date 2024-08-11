@@ -35,6 +35,10 @@ elevation 5360 feet.
 
 #### [Places to Stay, Fuel,Eat, and More](business)
 
+#### [History of the Cosmic Campground](history)
+
+#### [Science at the Cosmic Campground](science)
+
 Current Status Includes:
 - Some of the Darkest Clear Skies on Planet Earth
 - All weather Parking and Telescope Area
@@ -121,10 +125,5 @@ Glenwood, NM 88039\\
 - [YouTube video](https://www.youtube.com/watch?v=mzFkAv4Lahk&t=4s ) about the inception of CCIDSS which presents Bill McCabe & Bob Robinson?  
 - [NM True video on CCIDSS](https://www.youtube.com/watch?v=prc8CZUieiY&t=11s)
 
-<h3>
-<a href=history>History of the Cosmic Campground </a>
-</h3>
-
-### [Science at the Cosmic Campground](science)
 
 
