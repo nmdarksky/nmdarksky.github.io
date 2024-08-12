@@ -29,9 +29,9 @@ drive 1.3 m. Arrive at CCIDSS. Coordinates: 33°28'46.71"N 108°55'22.66"W,
 elevation 5360 feet.
 
 
-<a href="https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)> <font size=4>US Forest Service web site for CCIDSS</font></a>
+<a href="https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479"> <font size=4>US Forest Service web site for CCIDSS</font></a>
 
-<a href="https://darksky.org/places/cosmic-campground-dark-sky-place/"<font size=4>DarkSky International web site for CCIDSS </font></a>
+<a href="https://darksky.org/places/cosmic-campground-dark-sky-place/"> <font size=4>DarkSky International web site for CCIDSS </font></a>
 
 <a href="business"><font size=4>Places to Stay, Fuel,Eat, and Mor </font></a>
 
