@@ -124,7 +124,7 @@ Harvard University.
 **Jon Holtzman**
 
 ![image](bios/holtz.jpg){: style="float: left ; width: 20% ; padding: 15px"}
-Jon Holtzman is a professional astronomer and educator. He is currently a full 
+Jon Holtzman is a professional astronomer and educator. He is currently an Emeritus
 Professor of Astronomy at New Mexico State University, where he has worked
 since 1995. His research interests have led to significant involvement with 
 the Hubble Space Telescope and the Sloan Digital Sky Survey. As an educator,
@@ -152,6 +152,7 @@ pursuits, he remains fascinated by the scientific exploration of
 the universe through space and time.
 
 <br><br><br><br><br>
+<br><br><br><br><br>
 
 **Marisela La Grave**
 
@@ -178,6 +179,7 @@ collections and museums around the world. She is currently working
 on Dark Sky Land, a project related to Night Sky-Wildlife preservation
 in New Mexico.
 
+<br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
 
