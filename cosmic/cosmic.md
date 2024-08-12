@@ -33,7 +33,7 @@ elevation 5360 feet.
 
 <a href="https://darksky.org/places/cosmic-campground-dark-sky-place/"> <font size=4>DarkSky International web site for CCIDSS </font></a>
 
-<a href="business"><font size=4>Places to Stay, Fuel,Eat, and Mor </font></a>
+<a href="business"><font size=4>Places to Stay, Fuel, Eat, and More </font></a>
 
 <a href="history"><font size=4>History of the Cosmic Campground </font></a>
 
