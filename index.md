@@ -40,8 +40,8 @@ light as is needed, direct it only to where it is needed, use it
 only when it is needed, and use redder light when possible. 
 
 **Why?** <i>Responsible lighting can be safer, save energy and
-money, be healthier, have less adverse effect on wildlife, and
-enable greater human appreciation and scientific study of the night
+money, be healthier, have less adverse effect on wildlife, respect
+property rights, and enable greater human appreciation and scientific study of the night
 sky. Dark skies can also have a positive economic impact through
 astrotourism and attracting people to live in New Mexico. There
 really is no down side!</i>
