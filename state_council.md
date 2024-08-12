@@ -65,6 +65,7 @@ that we can have the lighting we need without causing unnecessary
 sky glow that impacts human health and safety, wildlife, and the
 view of our incredible New Mexico night sky.
 
+<br><br><br><br><br>
 
 **Jamey Eriksen**
 
@@ -78,6 +79,9 @@ When he is not at work, he and his family explore the US in their RV by visiting
 Monuments along with any roadside attraction that is discovered along the path.
 
 [long bio](bios/bios#Eriksen)
+
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 **Galen Gisler**
 
@@ -132,6 +136,8 @@ sky, and wants to ensure that all people have the opportunity to do the same.
 
 [long bio](bios/bios#Holtzman)
 
+<br><br><br><br><br>
+
 **Nick Knorr**
 
 ![image](bios/knorr.png){: style="float: left ; width: 20% ; padding: 15px"}
@@ -145,6 +151,7 @@ vastness of the universe.  Although he abandoned astronomy for other
 pursuits, he remains fascinated by the scientific exploration of
 the universe through space and time.
 
+<br><br><br><br><br>
 
 **Marisela La Grave**
 
@@ -170,6 +177,9 @@ presented, and published internationally and housed in private
 collections and museums around the world. She is currently working
 on Dark Sky Land, a project related to Night Sky-Wildlife preservation
 in New Mexico.
+
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 **Peter Lipscomb**
 
