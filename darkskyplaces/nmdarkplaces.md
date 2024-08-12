@@ -1,5 +1,7 @@
 ---
 layout: page
+title : Dark Sky Places
+id : Places
 ---
 
 ![logo](../logo.png)

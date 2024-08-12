@@ -1,5 +1,7 @@
 ---
 layout: page
+title : Biological/ecological impact and mitigation
+id : Ecological
 ---
 
 ![logo](../logo.png)

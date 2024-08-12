@@ -4,6 +4,7 @@
 
 layout: page
 title : Organization resources
+id : Organization
 ---
 
 - [Bylaws approved 1/24](By-Laws - Approved.pdf)

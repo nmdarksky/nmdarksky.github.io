@@ -1,6 +1,8 @@
 ---
 
 layout: page
+id: CCIDSS History
+title: CCIDSS History
 ---
 
 ![logo](../logo.png)

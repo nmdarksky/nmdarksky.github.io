@@ -1,5 +1,7 @@
 ---
 layout: page
+id: "CCIDSS Science"
+title: "CCIDSS Science"
 ---
 
 #### Scientific Publications resulting from Cosmic Campground IDSS data

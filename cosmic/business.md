@@ -1,6 +1,8 @@
 ---
 
 layout: page
+title : Nearby businesss
+id : Nearby businesses
 ---
 
 ![logo](../logo.png)

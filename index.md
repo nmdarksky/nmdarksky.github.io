@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #layout: home
-layout: home
+layout: default
+title : New Mexico DarkSky
+id : Home
 #classes : 
 #  - landing
 #  - dark-theme
@@ -11,9 +13,7 @@ layout: home
 
 ![logo](logo.png)
 
-<center>
-<img src="images/elmorro.caption.jpeg" alt="elmorro" width="100%"/> 
-</center>
+<img src="images/elmorro.caption.jpeg" alt="elmorro" width="75%"/> 
 
 ## Welcome to New Mexico DarkSky
 

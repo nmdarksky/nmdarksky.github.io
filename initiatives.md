@@ -1,16 +1,17 @@
 ---
 layout: page
 title : Initiatives
+id : Initiatives
 ---
 
-### [Legislation/Ordinances/monitoring](legislation/ordinances)
 
-### [Education/outreach/community engagement](outreach/education)
+<a href="legislation/ordinances"> <font size=5>Legislation/Ordinances/monitoring</font> </a>
 
-### [Expansion/preservation of dark sky places](darkskyplaces/nmdarkplaces)
+<a href="outreach/education"> <font size=5>Education/outreach/community engagement</font> </a>
 
-### [Tourism/economic development](economicimpact/economic)
+<a href="darkskyplaces/nmdarkplaces"> <font size=5>Expansion/preservation of dark sky places</font> </a>
 
-### [Ecological impacts/mitigation](ecological/ecological)
+<a href="economicimage/economic"> <font size=5>Tourism/economic development</font></a>
 
-![image](images/elmorro.jpeg)
+<a href="ecological/ecological"> <font size=5>Ecological impacts/mitigation</font></a>
+

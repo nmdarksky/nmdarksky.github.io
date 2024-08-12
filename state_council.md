@@ -4,6 +4,7 @@
 
 layout: page
 title : State Council
+id : State Council
 ---
 
 The State Council is responsible for the management of the activities

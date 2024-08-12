@@ -1,5 +1,7 @@
 ---
 layout: page
+title : Economic development and tourism
+id : Tourism
 ---
 
 ![logo](../logo.png)
@@ -16,7 +18,6 @@ impacts and inform others about them
 #### Goals 
 
 - Collect information related to economic impact of dark skies and develop report
-
 - Commission economic impact report of dark skies in New Mexico
 
 #### Resources
