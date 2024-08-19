@@ -39,6 +39,8 @@ elevation 5360 feet.
 
 <a href="science"><font size=4>Science at the Cosmic Campground </font></a>
 
+<a href="Photos"><font size=4>Photos of the Cosmic Campground </font></a>
+
 Current Status Includes:
 - Some of the Darkest Clear Skies on Planet Earth
 - All weather Parking and Telescope Area
