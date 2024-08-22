@@ -120,12 +120,9 @@ Glenwood, NM 88039\\
 - [US Forest Service Cosmic Campground web site](https://www.fs.usda.gov/recarea/gila/recarea/?recid=82479)
 - [Sky Weather](weather)
 - [Cosmic Campground Clear Sky Chart](https://www.cleardarksky.com/c/CsmcCmpNMkey.html)
-- Historical Sky Weather
-- Cosmic Campground Clear Sky Chart History
-- Sky Viewing Celestial Events
-- Coming Attractions At The Cosmic Campground IDSS
 - [YouTube video](https://www.youtube.com/watch?v=mzFkAv4Lahk&t=4s ) about the inception of CCIDSS which presents Bill McCabe & Bob Robinson
 - [NM True video on CCIDSS](https://www.youtube.com/watch?v=prc8CZUieiY&t=11s)
+- [DarkSky International annual reports](https://darksky.app.box.com/s/s3x0yy08ev443o3b17jw6w1iac1zn4jk)
 
 
 
