@@ -27,10 +27,12 @@ impacts and inform others about them
   - [Dark Sky New Mexico](https://darkskynewmexico.com/)
   - [NM Skies](https://nmskies.com/)
   - [Deep Sky West](https://nmskies.com/)
+  - [SkyPi Remote Observatory](https://skypionline.com/)
+  - [Howling Coyote Remote Observatories](https://hcronewmexico.com/)
 - Astronomical communities
-  - NM Astronomy Village
-  - NM Skies Astronomy Enclave
-  - Top of the World development
+  - [NM Astronomy Village](https://www.facebook.com/NewMexicoAstronomyVillage/)
+  - [NM Skies Astronomy Enclave](https://www.nmsouthernskies.com/)
+  - [Top of the World development](https://www.topoftheworldland.com/)
   - Arizona Sky Village (near NM border)
 
 #### Resources
