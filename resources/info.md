@@ -4,7 +4,7 @@ title : External resources
 id : resources
 ---
 
-Some useful resources :
+Organizational web sites with dark sky material:
 
 - [DarkSky International](https://darksky.org)
   - [Outreach materials from DarkSky International](https://darksky.org/resources/public-outreach-materials/)
