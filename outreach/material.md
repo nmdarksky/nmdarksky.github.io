@@ -7,6 +7,6 @@ title : Outreach material
 id : Organization
 ---
 
-- <a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> Brochure <img src="material/cover.png" width="10%"> </A>
-- [Cards + Five principles](outreach/material/cards.html)
+- <a href="material/NM Protect the night brochure (5-2024).pdf"> Brochure <img src="material/cover.png" width="10%"> </A>
+- [Cards + Five principles](material/cards)
 
