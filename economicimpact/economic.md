@@ -37,5 +37,5 @@ impacts and inform others about them
 
 #### Resources
 
-- [economic impact report for Colorado Plateau 2019](https://bearworks.missouristate.edu/articles-chpa/8/)
+- [economic impact report for Colorado Plateau 2019](ColoradoPlateauEconomicImpact.pdf)
 - [Colorado Plateau Dark Sky Cooperative sheet](https://brdarkskies.org/wp-content/uploads/2021/10/economicsofdarkskiesbrief_9-23-21.pdf)
