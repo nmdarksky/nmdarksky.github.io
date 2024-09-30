@@ -9,7 +9,7 @@ layout: page
 Links to various ordinances around the state, compiled by Galen Gisler
 
 - [Alamogordo](Alamogordo.pdf)
-- [Albuquerque](Albuquerque.pdf)
+- [Albuquerque 2024 revised](Albuquerque 2024.pdf)
 - [Angel Fire](Angel Fire.pdf)
 - [Belen](Belen.pdf)
 - [Bernalillo County](Bernalillo County.pdf)
