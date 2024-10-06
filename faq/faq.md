@@ -4,6 +4,10 @@ title : Frequently asked questions
 id : faq
 ---
 
+![logo](../logo.png)
+
+### Frequently asked questions
+
 **My neighbor has bright lights that bother me, what can I do?**
 
 This is a common question that doesn't always have a simple answer!
