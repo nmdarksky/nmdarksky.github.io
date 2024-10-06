@@ -12,7 +12,8 @@ get directly involved in specific individual lighting issues. DarkSky
 International does have a [web page](https://darksky.org/resources/what-is-light-pollution/light-pollution-solutions/lighting/my-neighbors-lighting/)
 about the issue with some ideas.
 Note there is a [video](https://www.youtube.com/watch?v=9EwvZvuvBNY&feature=youtu.be) there
-that discusses how one person approached the issue.
+that discusses how one person approached the issue. [GNAR](https://extension.usu.edu/gnar/) also has a
+["Good neighbor" toolkit](https://extension.usu.edu/gnar/tools/ds-tools/good_neighbor) that may be useful.
 
 Generally, being confrontational doesn't help to solve the situation,
 and sometimes it takes time to get the situation resolved. A good start

@@ -4,7 +4,7 @@
 
 layout: page
 title : Organization resources
-id : Organization
+id : Organizational
 ---
 
 - <a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> Brochure <img src="material/cover.png" width="10%"> </A>
