@@ -21,12 +21,13 @@ that discusses how one person approached the issue. [GNAR](https://extension.usu
 
 Generally, being confrontational doesn't help to solve the situation,
 and sometimes it takes time to get the situation resolved. A good start
-is to become well informed on the issue. Some things to consider:
-  - Make sure your property uses responsible lighting: [good lighting starts
+is to become well informed on the issue, and then move on to talking
+with your neighbors. Some things to consider:
+  - Make sure **your** property uses responsible lighting: [good lighting starts
 at home](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/home/)!
   - Learn about the concept of light trespass, which might be persuasive
-to some people: acknowledge their right to light their property as
-they see fit, but recognize that neighbors also have the right to have
+to some people: you can acknowledge their right to light their property as
+they see fit, but ask them to recognize that neighbors also have the right to have
 their property protected.
   - Learn about the benefits of responsible lighting so that you can 
 communicate them: responsible lighting not only makes for a good neighbor,
