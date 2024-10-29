@@ -12,7 +12,7 @@ id : faq
 - [There is a bright streetlight near my home that shines into my house/yard and bothers me, what can I do?](#streetlight)
 - [How can I get more information about research on responsible lighting and dark skies?](#literature)
 
-<A NAME=neighbor>
+<A NAME=neighbor></A>
 **My neighbor has bright lights that bother me, what can I do?**
 
 This is a common question that doesn't always have a simple answer!
@@ -60,7 +60,7 @@ not. If you email some photos of the situation to newmexico@darksky.org, we
 can see if anyone has any input and/or useful suggestions
 or information.
 
-<A NAME=streetlight>
+<A NAME=streetlight></A>
 **There is a bright streetlight near my home that shines into my house/yard and
 bothers me, what can I do?**
 
@@ -88,8 +88,9 @@ multiple residents tell them that this is not the case will the
 situation change!  You might be surprised that it doesn't take that
 many people who politely register their concerns to make a difference!
 
-<A NAME=literature>
+<A NAME=literature></A>
 ** How can I get more information about research on responsible lighting and dark skies? **
+
 DarkSky International releases an annual report on 
 [Artificial light at night: State of the Science](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
 and, along with the Loss of the Night Network, DarkSky maintains a comprehensive, searchable 
