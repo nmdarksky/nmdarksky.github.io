@@ -23,6 +23,10 @@ Organizational web sites with dark sky material:
 - [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/)
 - [Dark Sky Consulting](https://www.darkskyconsulting.com/)
 
+Literature on related issues:
+- [Scientific research on artificial light at night](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
+- [Artificial light at night database](https://www.zotero.org/groups/2913367/alan_db/)
+
 Videos, etc:
 
 - [Colorado](https://www.youtube.com/watch?v=QyqykIFqNoY)
