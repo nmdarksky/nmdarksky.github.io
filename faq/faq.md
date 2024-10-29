@@ -89,7 +89,7 @@ situation change!  You might be surprised that it doesn't take that
 many people who politely register their concerns to make a difference!
 
 <A NAME=literature></A>
-** How can I get more information about research on responsible lighting and dark skies? **
+**How can I get more information about research on responsible lighting and dark skies?**
 
 DarkSky International releases an annual report on 
 [Artificial light at night: State of the Science](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
