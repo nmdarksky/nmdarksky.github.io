@@ -7,7 +7,7 @@ title : Organization resources
 id : Organizational
 ---
 
-- <a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> Brochure <img src="material/cover.png" width="10%"> </A>
+- <a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> Brochure <img src="outreach/material/cover.png" width="10%"> </A>
 - [Cards + Five principles](outreach/material/cards.html)
 - [Bylaws approved 1/24](By-Laws - Approved.pdf)
 - [Google calendar for NM DarkSky](https://calendar.google.com/calendar/u/2?cid=bmV3bWV4aWNvQGRhcmtza3kub3Jn)

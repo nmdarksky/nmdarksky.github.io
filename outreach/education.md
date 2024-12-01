@@ -24,7 +24,7 @@ DarkSky strives to improve understanding about the issues, problems, and solutio
 #### Resources
 
 - [DarkSky International outreach materials](https://darksky.org/resources/public-outreach-materials/)
-- [NM Chapter material](material)
+- [NM Chapter material](nmmaterial)
 - [NM Chapter outreach event checklist](outreach)
 
 

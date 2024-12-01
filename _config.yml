@@ -59,7 +59,6 @@ plugins:
 
 sidebar:
   - Home
-  - State Council
   - label: Initiatives
     children:
       - Legislation
@@ -67,8 +66,9 @@ sidebar:
       - Places
       - Tourism
       - Ecological
-  - Organization 
-  - resources
+  - State Council
+  - Organizational
+  - External
   - label: Cosmic Campground
     children:
       - Information

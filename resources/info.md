@@ -1,7 +1,7 @@
 ---
 layout: page
 title : External resources
-id : resources
+id : External
 ---
 
 Organizational web sites with dark sky material:
