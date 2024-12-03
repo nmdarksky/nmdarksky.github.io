@@ -11,6 +11,7 @@ id : faq
 - [My neighbor has bright lights that bother me, what can I do?](#neighbor)
 - [There is a bright streetlight near my home that shines into my house/yard and bothers me, what can I do?](#streetlight)
 - [How can I get more information about research on responsible lighting and dark skies?](#literature)
+- [Is it more expensive to install responsible lighting at my house?](#cost)
 
 <A NAME=neighbor></A>
 **My neighbor has bright lights that bother me, what can I do?**
@@ -96,3 +97,42 @@ DarkSky International releases an annual report on
 and, along with the Loss of the Night Network, DarkSky maintains a comprehensive, searchable 
 [database of scientific publications on artificial light at night (ALAN)](https://www.zotero.org/groups/2913367/alan_db/library).
 These are great resources for getting data on various related issues!
+
+
+<A NAME=cost></A>
+**Is it more expensive to install responsible lighting at my house?**
+
+The costs to comply with the responsible lighting and night sky protection can be very
+nominal compared to other obligations such as mandatory automobile insurance or
+property taxes.
+Dark sky compliant light fixtures can be purchased starting around $16 based on an
+internet search. (Note that if you search for "dark lighting" you may also bring up many 
+“dark bronze” fixtures which should not be confused with dark sky compliant!)
+
+A dark sky fixture shields the light source to prevent glare and aims the light downward
+where it is needed. Light that shines up or to the side is wasted light. The light source is
+the element of the fixture that produces the light whether it be a tradition bulb or light
+emitting diodes (LED). An embedded light source prevents glare from the fixture and has
+a 90-degree cut off at the lowest part of the fixture. The light from this type of fixture aids
+night vision by putting the light where it is needed, reducing contrast and the blinding
+glare from non-dark sky lighting.
+
+Replacing incandescent, halogen or compact fluorescent bulbs with LED lighting has a
+quick return on investment on the electric bill and the useful life of the light source.
+
+You can search for DarkSky Approved lighting at the 
+[DarkSky International Approved Lighting page](https://darksky.org/what-we-do/darksky-approved/)
+
+Dusk to dawn fixtures should not be used. Motion sensor lighting is more effective
+for security purposes and also complies with principle of using light only when needed.
+Leaving lights on all night for security would only make sense if you were looking out of
+your windows all night. Motion sensors and cameras are more effective.
+
+Low-cost methods of responsible lighting:
+- Turn off lights when not in use.
+- Replace regular A-shape light bulbs reflector R or PAR style bulbs that shine down.
+- Avoid fixtures with clear lenses that leave the light source exposed. If you have existing
+fixtures like this, find creative ways to shield the light source such as stamped tin art,
+opaque glass or metallic hvac tape.
+- If you feel you must light a path to your home all night, use inexpensive solar lights close
+to the ground rather than flood lights mounted on your home.
