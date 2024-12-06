@@ -6,7 +6,7 @@ id : NSPA
 
 ![logo](../logo.png)
 
-## 2025 Revising to the NM Night Sky Protection Act
+## 2025 Revising the NM Night Sky Protection Act
 
 Resources:
 - [Executive summary](#exec)
