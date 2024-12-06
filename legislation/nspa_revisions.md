@@ -12,7 +12,7 @@ Resources:
 - [Executive summary](#exec)
 - [Frequently asked questions](#faq) : ([printable PDF](FAQ_NSPA_changes_for_2025.pdf))
 - [Values of responsible lighting](../Values_of_Responsible_Lighting.pdf)
-- [Find your legislator]("https://www.nmlegis.gov/members/find_my_legislator") // [Legislator list]("https://www.nmlegis.gov/members/Legislator_List")
+- [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample email](#sample)
 
 <A NAME=exec></A>
