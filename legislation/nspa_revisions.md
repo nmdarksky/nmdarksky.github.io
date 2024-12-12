@@ -10,10 +10,12 @@ id : NSPA
 
 Resources:
 - [Executive summary](#exec)
+- [Talking points](#points)
 - [Frequently asked questions](#faq) : ([printable PDF](FAQ_NSPA_changes_for_2025.pdf))
 - [Values of responsible lighting](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample email](#sample)
+- [Press release](#release)
 
 <A NAME=exec></A>
 ### Executive summary: 
@@ -33,6 +35,35 @@ We remove exemptions:
 These exemptions are removed because responsible lighting can still ensure both safety and effectiveness.
 
 **There are no requirements for modification of existing lights or their operation until they are replaced.**
+
+<A NAME=points></A>
+### Talking points
+
+1. Dark skies are an valuable resource in New Mexico: we have
+something that many places do not, and we need to protect them
+through responsible lighting practices. Responsible lighting can
+be safer, save energy and money, be healthier, have less adverse
+effect on wildlife, respect property rights, and enable greater
+human appreciation and scientific study of the night sky. Dark skies
+can also have a positive economic impact through astrotourism and
+attracting people to live in New Mexico. There really is no down
+side!
+
+2. Dark skies can be achieved through responsible lighting. Responsible
+lighting doesn't mean no lighting, it just means putting light only
+where and when it is needed.
+
+3. A combination of legislation, outreach, and changing attitudes
+will all be needed to address the issue. State legislation plays
+an important role in demonstrating a commitment on the part of our
+state and legislators.
+
+4. New Mexico was a pioneer in passing the Night Sky Protection Act
+in 1999, but there have been a lot of developments since then, and
+it is in need of updating. We are proposing to update it in a small,
+but impactful way: we require all new lighting to be shielded to a
+new standard, and we remove exceptions to this that are no longer
+justified.
 
 <A NAME=faq></A>
 ### Frequently Asked Questions
@@ -112,6 +143,9 @@ For new facilities, DarkSky International has a program that
 demonstrates that compliant lighting at recreational facilities is
 feasible at comparable cost.
 
-
 <A NAME=sample></A>
 ### Sample email
+
+<A NAME=release></A>
+### Press release
+
