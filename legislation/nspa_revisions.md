@@ -109,9 +109,9 @@ fully enforce the provisions of the Responsible Outdoor Lighting
 and Night Sky Protection Act.
 
 
-**Why are we removing the exemption for worker safety at farms, ranches, dairies, feedlots or industrial, mining or oil and gas facilities?**
+**Why are we removing the exemption for outdoor lighting at farms, ranches, dairies, feedlots or industrial, mining or oil and gas facilities?**
 
-First, note there the exemption for existing lighting stands; no
+First, note that the exemption for existing lighting stands; no
 modifications to existing lighting or hours of operation for these
 facilities are required.
 
@@ -139,7 +139,8 @@ planning or construction do not need to be changed.
 
 As above, existing lighting is grandfathered in, and no modifications are required.
 
-For new facilities, DarkSky International has a program that
+For new facilities, DarkSky International has an
+[outdoor sports lighting program](https://darksky.org/what-we-do/darksky-approved/outdoor-sports-lighting/) that
 demonstrates that compliant lighting at recreational facilities is
 feasible at comparable cost.
 
