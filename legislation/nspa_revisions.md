@@ -21,18 +21,19 @@ Resources:
 ### Talking points
 
 1. Dark skies are an valuable resource in New Mexico: we have
-something that many places do not, and we need to protect them
-through responsible lighting practices. Responsible lighting can
-be safer, save energy and money, be healthier, have less adverse
-effect on wildlife, respect property rights, and enable greater
-human appreciation and scientific study of the night sky. Dark skies
-can also have a positive economic impact through astrotourism and
-attracting people to live in New Mexico. There really is no down
-side!
+something that many places do not, and we need to protect them.
+Preserving our natural skies is important culturally, for human
+appreciation and scientific study, and for health of human and other
+species.  Dark skies can also have a positive economic impact through
+astrotourism and attracting people to live in New Mexico. 
 
 2. Dark skies can be achieved through responsible lighting. Responsible
 lighting doesn't mean no lighting, it just means putting light only
-where and when it is needed.
+where and when it is needed.  Responsible lighting can
+be safer, save energy and money, be healthier, have less adverse
+effect on wildlife, respect property rights, and enable greater
+human appreciation and scientific study of the night sky. There is
+no down side!
 
 3. A combination of legislation, outreach, and changing attitudes
 will all be needed to address the issue. State legislation plays
