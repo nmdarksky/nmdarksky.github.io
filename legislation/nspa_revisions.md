@@ -10,13 +10,14 @@ id : NSPA
 
 Resources:
 - [Talking points](#points)
-- [Executive summary of proposed updates to Night Sky Protection Act](#exec)  ([PDF summary](Summary_Night_Sky_Protection_Act_Revisions.pdf))
+- [Executive summary of proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary_Night_Sky_Protection_Act_Revisions.pdf))
 - [Frequently asked questions](#faq) : ([printable PDF](FAQ_NSPA_changes_for_2025.pdf))
 - [Values of responsible lighting (PDF)](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample email](#sample)
 - [Press release](#release)
 
+***************
 <A NAME=points></A>
 ### Talking points
 
@@ -47,10 +48,12 @@ but impactful way: we require all new lighting to be shielded to a
 new standard, and we remove exceptions to this that are no longer
 justified.
 
+***************
 <A NAME=exec></A>
 ### Executive summary: 
 
-[Summary as PDF](Summary_Night_Sky_Protection_Act_Revisions.pdf))
+
+[Summary as PDF](Summary_Night_Sky_Protection_Act_Revisions.pdf)
 
 We propose to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
 - we establish a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky.
@@ -68,6 +71,7 @@ These exemptions are removed because responsible lighting can still ensure both 
 
 **There are no requirements for modification of existing lights or their operation until they are replaced.**
 
+***************
 <A NAME=faq></A>
 ### Frequently Asked Questions
 
@@ -147,9 +151,21 @@ For new facilities, DarkSky International has an
 demonstrates that compliant lighting at recreational facilities is
 feasible at comparable cost.
 
+**Why are we removing the exemption for highway advertising?**
+
+Highway advertising signs can contribute significantly to light
+pollution especially in some of the more rural areas in the state.
+Many advertising signs are lit from below, which can lead to increased
+light pollution. Fortunately, these signs can be equally well lit
+from above with shielded lighting, so it is possible to both have
+highway advertising and protect our skies at the same time!
+
+
+***************
 <A NAME=sample></A>
 ### Sample email
 
+***************
 <A NAME=release></A>
 ### Press release
 
