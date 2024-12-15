@@ -78,8 +78,8 @@ sidebar:
   - faq
   - label: Meetings
     children:
-      - Stakeholder 2023
-      - Stakeholder 2024 / NSPA
+      - stakeholder2023
+      - stakeholder2024
   - About
 
 version: false
