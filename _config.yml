@@ -80,6 +80,7 @@ sidebar:
     children:
       - stakeholder2023
       - stakeholder2024
+  - Press
   - About
 
 version: false
