@@ -9,4 +9,5 @@ Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/op
 
 [El Defensor Chieftain article on 2023 stakeholder workshop](https://dchieftain.com/briggs-significant-economic-value-to-our-dark-skies/)
 
+Santa Fe New Mexican [Advocates for dark skies urge updates to law in new age of light pollution](https://enewmexican.pressreader.com/article/281719800116775)
 

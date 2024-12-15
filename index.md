@@ -60,7 +60,6 @@ really is no down side!</i>
   - [Cosmic Campground DarkSky Sanctuary](cosmic/cosmic)
 - [Economic impact and tourism](economicimpact/economic)
 - [Ecological/biological impact ](ecological/ecological)
-- [December 2023 stakeholder meeting](meeting/meeting)
 
 ### Resources
 - [DarkSky international](http://darksky.org)
@@ -77,8 +76,8 @@ really is no down side!</i>
 - [organizational resources](organization)
 
 ### Press
-- [articles related to NM State Chapter](press/chapter)
-- [articles related to dark skies in general](press/other)
+- [articles related to NM State Chapter](press/press#chapter)
+- [articles related to dark skies in general](press/press#other)
 
 
 <br>

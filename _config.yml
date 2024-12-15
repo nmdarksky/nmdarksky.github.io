@@ -76,6 +76,10 @@ sidebar:
       - CCIDSS History
       - CCIDSS Science
   - faq
+  - label: Meetings
+    children:
+      - Stakeholder 2023
+      - Stakeholder 2024 / NSPA
   - About
 
 version: false
