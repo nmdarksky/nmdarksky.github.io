@@ -13,3 +13,4 @@ Senator Liz Stefanics, who addressed the group.
   - [Meeting presentation](Responsible lighting and protecting the night sky__updating the NM Night Sky Protection Act.pdf)
   - [Zoom recording](https://drive.google.com/file/d/1KALMrLeVR_KNdGIxqbgqInWN_BDJGS9v/view?usp=sharing)
   - [Zoom recording](https://drive.google.com/file/d/1KALMrLeVR_KNdGIxqbgqInWN_BDJGS9v/view?usp=sharing) and [chat](https://drive.google.com/file/d/12azwaOZZ2nxKGdDNn-SbDgPDanAQS7Yb/view?usp=sharing)
+  - [Spreadsheet with suggestions/commitments](https://docs.google.com/spreadsheets/d/1slQb6xnOVx9_JKSzhmAA3iG9dt4IHU-lXKtgbmpGeI0)
