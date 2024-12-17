@@ -16,6 +16,7 @@ Resources:
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample email](#sample)
 - [Press release](#release)
+- [12/13 draft of legislation](228608.3.pdf)
 
 ***************
 <A NAME=points></A>
