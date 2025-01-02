@@ -176,8 +176,6 @@ highway advertising and protect our skies at the same time!
 <A NAME=sample></A>
 ### Sample email
 
-*********************
-
 Dear Senator XX,
 
 I'm contacting you to provide some information on a bill we hope to pass in the 2025 legislative session to update the existing Night Sky Protection Act and to ask for your support.
@@ -197,7 +195,6 @@ I'll be happy to follow-up by phone if I don't hear from you, and would be even 
 
 Executive summary:
 
-
 We propose to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
 
   - we establish a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky
@@ -206,7 +203,6 @@ We propose to modify the existing Night Sky Protection Act in a small, but impac
   - we maintain an exemption for highway lighting signs
   - we add a total exemption for temporary lighting associated with film or television production, construction, or emergency services.
   - we add an exemption for digital electronic billboards
-
 
 We remove exemptions:
 
