@@ -14,9 +14,11 @@ Resources:
 - [Frequently asked questions](#faq) : ([printable PDF](FAQ_NSPA_changes_for_2025.pdf))
 - [Values of responsible lighting (PDF)](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
+- [Sample op-eds](#oped)
 - [Sample email](#sample)
 - [Press release](#release)
 - [12/13 draft of legislation](228608.3.pdf)
+- [Information packet](NSPARevisionsPackage.pdf)
 
 ***************
 <A NAME=points></A>
@@ -163,10 +165,18 @@ highway advertising and protect our skies at the same time!
 
 
 ***************
+<A NAME=oped></A>
+### Sample op-eds
+
+- [Nature Notes (Galen Gisler)](Nature Notes on NSPA revision.pdf)
+- [Guest column (Derek Wallentinsen)](GUEST-COLUMN-ROLNSPA.pdf)
+
+***************
 <A NAME=sample></A>
 ### Sample email
 
 ***************
 <A NAME=release></A>
 ### Press release
+
 
