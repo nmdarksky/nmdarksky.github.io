@@ -18,7 +18,7 @@ Resources:
 - [Sample email](#sample)
 - [Press release](#release)
 - [Press related to dark skies](../press/press)
-- [1/2 draft of legislation](228608.4.pdf)
+- [1/2/25 draft of legislation](228608.4.pdf)
 - [Information packet](NSPARevisionsPackage.pdf)
 
 ***************
