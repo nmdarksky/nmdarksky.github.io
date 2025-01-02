@@ -201,24 +201,17 @@ Executive summary:
 We propose to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
 
   - we establish a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky
-
   - we establish an exception for fainter lights near the ground
-
   - we establish an exception for strings of small lights and temporary holiday lighting.
-
   - we maintain an exemption for highway lighting signs
-
   - we add a total exemption for temporary lighting associated with film or television production, construction, or emergency services.
-
   - we add an exemption for digital electronic billboards
 
 
 We remove exemptions:
 
   - for new noncompliant lights that are turned off after 11:00.
-
   - for new traditionally-lit advertising signs
-
   - for new lights at farms, ranches, dairies, feedlots or industrial, mining or oil and gas facilities, but delay the implementation of the shielding requirement for these facilities until 2027, to allow implementations currently in progress to proceed without modification.
 
 These exemptions are removed because responsible lighting can still ensure both safety and effectiveness.
