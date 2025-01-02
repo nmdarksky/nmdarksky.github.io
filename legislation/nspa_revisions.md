@@ -19,7 +19,7 @@ Resources:
 - [Press release](#release)
 - [Press related to dark skies](../press/press)
 - [1/2/25 draft of legislation](228608.4.pdf)
-- [Information packet](NSPARevisionsPackage.pdf)
+- [Information packet in single PDF](NSPARevisionsPackage.pdf)
 
 ***************
 <A NAME=points></A>
