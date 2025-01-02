@@ -17,7 +17,7 @@ Resources:
 - [Sample op-eds](#oped)
 - [Sample email](#sample)
 - [Press release](#release)
-- [12/13 draft of legislation](228608.3.pdf)
+- [1/2 draft of legislation](228608.4.pdf)
 - [Information packet](NSPARevisionsPackage.pdf)
 
 ***************
