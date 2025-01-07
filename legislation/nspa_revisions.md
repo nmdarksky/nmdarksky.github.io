@@ -1,6 +1,6 @@
 ---
 layout: page
-title : NM Night Sky Protection Act
+title : NSPA revisions
 id : NSPA
 ---
 
