@@ -4,7 +4,7 @@
 
 layout: page
 title : Press
-label : Press
+id : Press
 ---
 
 <A HREF=chapter>
