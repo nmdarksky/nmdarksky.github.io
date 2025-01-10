@@ -68,7 +68,6 @@ sidebar:
       - Tourism
       - Ecological
   - State Council
-  - Organizational
   - External
   - label: Cosmic Campground
     children:
@@ -81,6 +80,7 @@ sidebar:
     children:
       - stakeholder2023
       - stakeholder2024
+  - Organizational
   - Press
   - About
 
