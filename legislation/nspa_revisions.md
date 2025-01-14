@@ -30,7 +30,7 @@ something that many places do not, and we need to protect them.
 Preserving our natural skies is important culturally, for human
 appreciation and scientific study, and for health of human and other
 species.  Dark skies can also have a positive economic impact through
-astrotourism and attracting people to live in New Mexico. 
+[astrotourism](../press/NM Mag Night Skies electronic.pdf) and attracting people to live in New Mexico. 
 
 2. Dark skies can be achieved through responsible lighting. Responsible
 lighting doesn't mean no lighting, it just means putting light only
@@ -155,14 +155,19 @@ For new facilities, DarkSky International has an
 demonstrates that compliant lighting at recreational facilities is
 feasible at comparable cost.
 
-**Why are we removing the exemption for highway advertising?**
+**Why are we removing the exemption for traditional highway billboard advertising?**
 
 Highway advertising signs can contribute significantly to light
 pollution especially in some of the more rural areas in the state.
 Many advertising signs are lit from below, which can lead to increased
 light pollution. Fortunately, these signs can be equally well lit
 from above with shielded lighting, so it is possible to both have
-highway advertising and protect our skies at the same time!
+highway advertising and protect our skies at the same time!  We
+maintain an exemption for electronic digital billboards which
+currently probably cannot meet the shielding requirement; the
+operation of these is regulated at some level by existing state
+code.
+
 
 
 ***************

@@ -23,6 +23,8 @@ impacts and inform others about them
 #### Resources
 
 - Tourism [New Mexico True web site](https://www.newmexico.org/darkskies/)
+  - [New Mexico magazine 8/23](../press/NM Mag Night Skies electronic.pdf) 
+
 - Telescope hosting sites:
   - [Dark Sky New Mexico](https://darkskynewmexico.com/)
   - [NM Skies](https://nmskies.com/)

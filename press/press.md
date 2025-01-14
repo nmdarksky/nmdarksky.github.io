@@ -20,6 +20,7 @@ Chapter related press:
 
 Other dark sky related press:
 
+- [New Mexico magazine 8/23](NM Mag Night Skies electronic.pdf) 
 - Washington Post article on [dark skies](https://wapo.st/3Brdqkr)
 - DarkSky International [State of the Science 2024](https://darksky.org/app/uploads/2024/06/ALAN-State-of-the-Science-2024-EN-1.pdf)
 - [Science article on increasing light pollution](https://www.science.org/content/article/light-pollution-drowning-starry-night-sky-faster-thought)
