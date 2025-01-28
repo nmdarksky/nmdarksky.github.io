@@ -157,27 +157,20 @@ the universe through space and time.
 **Marisela La Grave**
 
 ![image](bios/marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
-Marisela La Grave (b. Caracas) New York - New Mexico based Intermedia
-environmental artist, director, producer, film maker, photographer
-and creator of collaborative projects that explore the nature of
-perception, phenomenology, consciousness and temporality. Her
-multidisciplinary oeuvre includes film, video, sound design,
-photography, installation & performance art, environmental night
-sky advocacy, drawing, writing. She produces experimental films,
-essay style documentaries and time based works for camera that
-explore the space in between concept, action, archive, reality and
-fiction. Her cinematic art performance art works, photographs,
-multidisciplinary site-specific events, sound track design, scripts,
-works on paper are the core of her existential deracinated ongoing
-investigations.  M. La Grave  is a  Co-founder and the Artistic
-director at Magnetic Laboratorium™ (2001) a New York - Paris  based
-multimedia art lab.  Her original site-specific collaborative
-performances for camera with Magnetic Laboratorium associated artists
-as well as other media-artworks have been screened, exhibited,
-presented, and published internationally and housed in private
-collections and museums around the world. She is currently working
-on Dark Sky Land, a project related to Night Sky-Wildlife preservation
-in New Mexico.
+
+Marisela La Grave,  is the founder of [Dark Sky Land, Inc](www.darkskyland.us), an
+interdisciplinary night-ecology-wildlife conservation organization,
+with the mission to preserve a 600-mile astro-wildlife corridor in
+western New Mexico.  She is a New York and New Mexico based Intermedia artist, director,
+producer, filmmaker, photographer and creator of a collaborative
+multilayered spectrum of interdisciplinary projects.
+Her works include the creation and production of experimental films,
+site-specific installations, essay style documentaries, and time
+based works for camera, that have been screened, exhibited, presented,
+installed, and published internationally and housed in private
+collections and museums around the world. She is the  co-founder
+and the Artistic Director at Magnetic Laboratorium™ (2001-2025) a
+New York - Paris - New Mexico  based transdisciplinary studio.
 
 <br><br><br><br><br>
 <br><br><br><br><br>
