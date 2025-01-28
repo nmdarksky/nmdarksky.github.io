@@ -158,7 +158,7 @@ the universe through space and time.
 
 ![image](bios/marisela.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
 
-Marisela La Grave,  is the founder of [Dark Sky Land, Inc](www.darkskyland.us), an
+Marisela La Grave,  is the founder of [Dark Sky Land, Inc](http://www.darkskyland.us), an
 interdisciplinary night-ecology-wildlife conservation organization,
 with the mission to preserve a 600-mile astro-wildlife corridor in
 western New Mexico.  She is a New York and New Mexico based Intermedia artist, director,
