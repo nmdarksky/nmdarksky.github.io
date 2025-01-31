@@ -1,3 +1,6 @@
+Some possible samples, always good to use your own words, but feel free to borrow whatever you want!
+
+******
 Dear Senator (or Representative)  XX,
 
 I'm contacting you as a constituent to express my strong support for bill in the the 2025 legislative session that will update the existing Night Sky Protection Act and to ask you to support it.
