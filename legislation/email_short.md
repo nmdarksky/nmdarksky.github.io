@@ -3,7 +3,7 @@ Some possible samples, always good to use your own words, but feel free to borro
 ******
 Dear Senator (or Representative)  XX,
 
-I'm contacting you as a constituent to express my strong support for bill in the the 2025 legislative session that will update the existing Night Sky Protection Act and to ask you to support it.
+I'm contacting you as a constituent to express my strong support for SB 34 in the the 2025 legislative session that will update the existing Night Sky Protection Act and to ask you to support it.
 
 New Mexico has a valuable resource in its dark skies: they attract visitors and new residents, are part of our cultural heritage, and are important for human health and wildlife. The state recognized this in 1999 and passed the Night Sky Protection Act. However, much has changed in the last 25 years, and light pollution has continued to increase.  Fortunately, new technology and increased awareness has led us to recognize that we can implement responsible lighting that meets or exceeds needs including safety and security while at the same time protecting our skies and the values that they offer.
 
