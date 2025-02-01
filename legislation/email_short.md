@@ -31,4 +31,18 @@ This Bill protects New Mexico’s dark natural resources. As a voter and taxpaye
 
 
 
+*********
 
+Senate Bill 34 would have a positive impact not only on the economy of New Mexico, but the health of its citizens, the migratory birds and pollinators and biodiversity of our state, and the welfare and benefit of the observatories vital to our national defense.
+
+The night sky does not belong to any individual or individual entity. It exists for everyone who lives in New Mexico and those who come to visit our state to observe it. It is a resource for all of us, owned by none of us. Just as rivers and streams should not be polluted, just as the land and air should not be polluted, the night sky should not be polluted with light.
+
+ While some will tout economic statistics based on supposition as opposed to verifiable facts, a fact is you cannot put a price on being able to see the stars at night. You cannot put a price on migratory birds being able to navigate at night by the starts and not be confused by “stars” shining from the ground.  You cannot put a price on the disappearance of bees and other pollinating creatures. You cannot put a price on the barrenness of vegetation that would be created if pollinators are destroyed by artificial light at night.
+
+ What price can we put on our national defense if an observatory that tracks missile launches, satellites launched by adversarial nations such as North Korea, or measures meteors and asteroids that may enter our atmosphere cannot turn its telescope north over Albuquerque because the light pollution essentially blinds it?
+
+ The financial cost of this bill is no more impactful on anyone or any industry than when we changed from leaded to unleaded gasoline fully in 1996. To say the Night Sky Protection Act from that time is sufficient is tantamount to complaining we shouldn’t have to drive unleaded gasoline or catalytic converter equipped vehicles. 
+
+ The light that causes light pollution is essentially wasted light. By controlling light as this bill puts forth, less light and electricity is wasted.
+
+As a voter and taxpayer of New Mexico, I and New Mexico need you to support SB34.
