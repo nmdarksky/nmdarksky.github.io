@@ -15,7 +15,7 @@ Resources:
 - [Values of responsible lighting (PDF)](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample op-eds](#oped)
-- [Sample email](#sample)
+- [Sample email/call](#sample)
 - [Press release](#release)
 - [Press related to dark skies](../press/press)
 - [1/2/25 draft of legislation](228608.4.pdf)
@@ -179,12 +179,12 @@ code.
 
 ***************
 <A NAME=sample></A>
-### Sample email
+### Sample message
 
 Always best to use your own words, but some possible examples:
 
-- [Short email in support of legislation](email_short.md)
-- [longer email asking for support](email_long.md)
+- [Short text in support of legislation](email_short.md)
+- [longer text asking for support](email_long.md)
 
 
 ***************

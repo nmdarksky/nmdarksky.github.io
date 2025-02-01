@@ -1,6 +1,12 @@
 Some possible samples, always good to use your own words, but feel free to borrow whatever you want!
 
 ******
+Dear Senator XX,
+
+I'm contacting you to express my strong support for SB34, a bill to update the Night Sky Protection Act, that will be heard in the Senate
+Conservation Committee this week. Presering our ancestral skies is important to me (because ....) and I urge you to support the bill. Thank you!
+
+******
 Dear Senator (or Representative)  XX,
 
 I'm contacting you as a constituent to express my strong support for SB 34 in the the 2025 legislative session that will update the existing Night Sky Protection Act and to ask you to support it.
