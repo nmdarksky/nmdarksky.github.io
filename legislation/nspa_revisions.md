@@ -10,8 +10,8 @@ id : NSPA
 
 Resources:
 - [Talking points](#points)
-- [Executive summary of proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary_Night_Sky_Protection_Act_Revisions.pdf))
-- [Frequently asked questions](#faq) : ([printable PDF](FAQ_NSPA_changes_for_2025.pdf))
+- [Executive summary of proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary Night Sky Protection Act Revisions.pdf))
+- [Frequently asked questions](#faq) : ([printable PDF](FAQ_ NSPA changes for 2025.pdf))
 - [Values of responsible lighting (PDF)](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
 - [Sample op-eds](#oped)
@@ -30,9 +30,7 @@ something that many places do not, and we need to protect them.
 Preserving our natural skies is important culturally, for human
 appreciation and scientific study, and for health of human and other
 species.  Dark skies can also have a positive economic impact through
-[astrotourism](../press/NM Mag Night Skies electronic.pdf) and attracting people to live in New Mexico. 
-
-2. Dark skies can be achieved through responsible lighting. Responsible
+[astrotourism](../press/NM Mag Night Skies electronic.pdf) and attracting people to live in New Mexico.  2. Dark skies can be achieved through responsible lighting. Responsible
 lighting doesn't mean no lighting, it just means putting light only
 where and when it is needed.  Responsible lighting can
 be safer, save energy and money, be healthier, have less adverse
@@ -57,7 +55,7 @@ justified.
 ### Executive summary: 
 
 
-[Summary as PDF](Summary_Night_Sky_Protection_Act_Revisions.pdf)
+[Summary as PDF](Summary Night Sky Protection Act Revisions.pdf)
 
 We propose to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
 - we establish a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky.
@@ -79,7 +77,7 @@ These exemptions are removed because responsible lighting can still ensure both 
 <A NAME=faq></A>
 ### Frequently Asked Questions
 
-[FAQ as PDF](FAQ_NSPA_change_for_2025.pdf)
+[FAQ as PDF](FAQ_ NSPA change for 2025.pdf)
 
 **We already have the Night Sky Protection Act that requires shielding. Why do we need a revision?**
 
