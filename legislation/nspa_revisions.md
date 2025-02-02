@@ -77,7 +77,7 @@ These exemptions are removed because responsible lighting can still ensure both 
 <A NAME=faq></A>
 ### Frequently Asked Questions
 
-[FAQ as PDF](FAQ_ NSPA change for 2025.pdf)
+[FAQ as PDF](FAQ_ NSPA changes for 2025.pdf)
 
 **We already have the Night Sky Protection Act that requires shielding. Why do we need a revision?**
 
