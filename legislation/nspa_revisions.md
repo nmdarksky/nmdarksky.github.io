@@ -10,7 +10,7 @@ id : NSPA
 
 Resources:
 - [Talking points](#points)
-- [Executive summary of proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary Night Sky Protection Act Revisions.pdf))
+- [Executive summary of SB34 : proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary Night Sky Protection Act Revisions.pdf))
 - [Frequently asked questions](#faq) : ([printable PDF](FAQ_ NSPA changes for 2025.pdf))
 - [Values of responsible lighting (PDF)](../Values_of_Responsible_Lighting.pdf)
 - [Find your legislator](https://www.nmlegis.gov/members/find_my_legislator) // [Legislator list](https://www.nmlegis.gov/members/Legislator_List)
@@ -52,8 +52,7 @@ justified.
 
 ***************
 <A NAME=exec></A>
-### Executive summary: 
-
+### Executive summary of SB34: 
 
 [Summary as PDF](Summary Night Sky Protection Act Revisions.pdf)
 
