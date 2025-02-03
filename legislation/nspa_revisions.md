@@ -187,3 +187,5 @@ Always best to use your own words, but some possible examples:
 ### Press release
 
 TO BE WRITTEN!
+
+![ad](ad.png)
