@@ -45,7 +45,7 @@ state and legislators.
 
 4. New Mexico was a pioneer in passing the Night Sky Protection Act
 in 1999, but there have been a lot of developments since then, and
-it is in need of updating. We are proposing to update it in a small,
+it is in need of updating. SB34 proposes to update it in a small,
 but impactful way: we require all new lighting to be shielded to a
 new standard, and we remove exceptions to this that are no longer
 justified.
@@ -57,14 +57,14 @@ justified.
 
 [Summary as PDF](Summary Night Sky Protection Act Revisions.pdf)
 
-We propose to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
-- we establish a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky.
-- we establish an exception for fainter lights near the ground.
-- we establish an exception for strings of small lights and temporary holiday lighting.
-- we maintain an exemption for highway lighting signs.
-- we add a total exemption for temporary lighting associated with film or television production, construction, or emergency services.
+SB34 proposes to modify the existing Night Sky Protection Act in a small, but impactful, way: we will require all new lighting to be shielded to the current standard recommended by DarkSky International (at least 95% of the total light from a luminaire to be directed below an angle of 10 degrees from a horizontal plane), with a few common sense exceptions:
+- it establishes a partial exception for brighter lights near the ground that are illuminating upward: these must be directed at something and not at the sky.
+- it establishes an exception for fainter lights near the ground.
+- it establishes an exception for strings of small lights and temporary holiday lighting.
+- it maintains an exemption for highway lighting signs.
+- it adds a total exemption for temporary lighting associated with film or television production, construction, or emergency services.
 
-We remove exemptions:
+SB34 removes exemptions:
 - for new noncompliant lights that are turned off after 11:00. 
 - for new advertising signs.
 - for new lights at farms, ranches, dairies, feedlots or industrial, mining or oil and gas facilities, but delay the implementation of the shielding requirement for these facilities until 2027, to allow implementations currently in progress to proceed without modification. 
@@ -81,27 +81,26 @@ These exemptions are removed because responsible lighting can still ensure both 
 
 **We already have the Night Sky Protection Act that requires shielding. Why do we need a revision?**
 
-Shielding that prevents light from directly going skywards is
-literally only half the problem. Artificial light at night below
+Artificial light at night below
 horizontal can still cause glare and light trespass, not addressed
 in the 1999 law. Glare interferes with human safety and night vision,
-light trespass is a nuisance.  The revision restricts light to be
+light trespass is a nuisance.  SB34 restricts light to be
 directed within 80 degrees of straight down (nadir) instead of 90.
 
 Furthermore, the original NSPA allowed for unshielded lighting for
 low wattage lights, but since the technology has changed to LEDs,
 low wattage now can still be very bright! Lumens is the appropriate
-unit to specify brightness, so we have incorporated that and been
+unit to specify brightness, so SB34 incorporates that and been
 more specific about what is allowed.
 
 Finally, it is now recognized that responsible lighting can be as
 safe as lighting that allows light up into the sky where it is not
-needed, so we are proposing to remove exceptions that were previously
+needed, so SB34 proposes to remove exceptions that were previously
 included because of safety concerns.
 
 **Will anyone be required to change existing lighting at any time?**
 
-No. Only new lighting is subject to the revised NSPA. We hope that people will choose to replace existing lighting because it makes sense to do so from the perspective of cost and better lighting, but we do not require it.
+No. Only new lighting is subject to the revised NSPA. We hope that people will choose to replace existing lighting because it makes sense to do so from the perspective of cost and better lighting, but SB34 does not require it.
 
 **If existing lighting is not required to change, how are we improving anything?**
 
@@ -134,12 +133,13 @@ is higher in that they feel safer.
 
 The largest growth of light pollution in New Mexico has occurred
 in the NW and SE portions of the state as a result of wasteful
-lighting at oil and gas facilities. Moving forward, this growth can
+lighting at oil and gas facilities. Moving forward, the increase in
+light pollution can
 and should be stopped; removing the exemption only means that new
 lighting needs to be compliant. Note that facilities on BLM land
 are already required to install shielded lighting.
 
-For new lighting, we extend the start date of the new shielding
+For new lighting, SB34 extends the start date of the new shielding
 requirement to January 1, 2027 so that any facilities currently in
 planning or construction do not need to be changed.
 
@@ -160,13 +160,11 @@ pollution especially in some of the more rural areas in the state.
 Many advertising signs are lit from below, which can lead to increased
 light pollution. Fortunately, these signs can be equally well lit
 from above with shielded lighting, so it is possible to both have
-highway advertising and protect our skies at the same time!  We
-maintain an exemption for electronic digital billboards which
+highway advertising and protect our skies at the same time!  SB3SB34
+maintains an exemption for electronic digital billboards which
 currently probably cannot meet the shielding requirement; the
 operation of these is regulated at some level by existing state
 code.
-
-
 
 ***************
 <A NAME=oped></A>
@@ -177,7 +175,7 @@ code.
 
 ***************
 <A NAME=sample></A>
-### Sample message
+### Sample messages
 
 Always best to use your own words, but some possible examples:
 
