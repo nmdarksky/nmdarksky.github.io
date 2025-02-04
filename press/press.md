@@ -14,6 +14,7 @@ Chapter related press:
 - Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/opinion/commentary/more-work-ahead-to-protect-new-mexico-night-skies/article_c5460402-b57f-11ee-9719-77f823589fea.html)
 - [El Defensor Chieftain article on 2023 stakeholder workshop](https://dchieftain.com/briggs-significant-economic-value-to-our-dark-skies/)
 - Santa Fe New Mexican [Advocates for dark skies urge updates to law in new age of light pollution](https://enewmexican.pressreader.com/article/281719800116775)
+- [Albuquerque journal article on oil and gas facility](abq_oil_and_gas.pdf)
 - Source NM [Oil and gas company recognized for reducing light pollution](https://sourcenm.com/briefs/oil-and-gas-company-recognized-for-reducing-light-pollution/)
  - KANW [Stargazers' delight: Efforts to cut unwanted light pollution in New Mexico win praise](https://www.kanw.com/new-mexico-news/2025-01-09/stargazers-delight-efforts-to-cut-unwanted-light-pollution-in-new-mexico-win-praise), [APNews](https://apnews.com/article/dark-starry-skies-light-pollution-oil-industry-42a740ac52d1b307aede9560764f9bb2)
 
