@@ -14,7 +14,7 @@ March 2024 result in the following Council:
 Terms expiring 2025:  John Briggs, Galen Gisler, Jon
 Holtzman (chair), Marisela La Grave, Jim Price, Sheila Sullivan
 
-Terms expiring 2026: Trish Cutler, Jamey Eriksen, Michael Hensley,
+Terms expiring 2026: Trish Cutler (resigned 1/25), Jamey Eriksen (resigned 1/25), Michael Hensley,
 Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen.
 
 Council members can be re-elected for up to three terms.
