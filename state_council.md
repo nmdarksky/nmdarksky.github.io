@@ -48,44 +48,6 @@ as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
 
-**Trish Cutler**
-
-![image](bios/cutler.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
-Trish Cutler is a professional wildlife biologist who has worked
-in New Mexico (White Sands Missile Range) since 2003. She has a
-B.S. degree in Wildlife Science from Oregon State University, and
-an M.S. in Wildlife and Fisheries from The University of Arizona.
-She has been investigating the impacts of artificial light at night
-(ALAN) on nocturnal migrant birds for 10 years. Trish co-chairs the
-DoD Partners in Flight Energy and Infrastructure Working Group which
-works to address issues like uncontrolled ALAN on military
-installations.
-
-Trish has worked to carry out lighting surveys and mitigate
-uncontrolled lighting, and through this work she has learned about
-the technical aspects of outdoor lighting and lighting codes. She
-feels it is critical for the public and public officials to understand
-basic lighting concepts such as uplight, backlight, shielding,
-glare, and spectrum. With this information it's apparent to most
-that we can have the lighting we need without causing unnecessary
-sky glow that impacts human health and safety, wildlife, and the
-view of our incredible New Mexico night sky.
-
-<br><br><br><br><br>
-
-**Jamey Eriksen**
-
-![image](bios/eriksen.png){: style="float: left ; width: 20% ; padding: 15px"}
-Jamey Eriksen is currently working full time as the Director of Operations at Apache Point
-Observatory in Sunspot, NM. He has been at APO since 2020, he was previously at Palomar
-Observatory in Southern California working for CalTech. At APO he has started to build
-connections and meet others working on Astronomy in New Mexico, be it to preserve the great
-dark skies we have, or find people to help further public education about work done at APO.
-When he is not at work, he and his family explore the US in their RV by visiting National Parks or
-Monuments along with any roadside attraction that is discovered along the path.
-
-[long bio](bios/bios#Eriksen)
-
 <br><br><br><br><br>
 <br><br><br><br><br>
 
