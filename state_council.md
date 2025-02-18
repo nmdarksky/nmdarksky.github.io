@@ -137,6 +137,7 @@ and the Artistic Director at Magnetic Laboratorium™ (2001-2025) a
 New York - Paris - New Mexico  based transdisciplinary studio.
 
 <br><br><br><br><br>
+<br><br><br><br><br>
 
 **Peter Lipscomb**
 
