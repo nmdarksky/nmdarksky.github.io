@@ -8,6 +8,30 @@ id : NSPA
 
 ## 2025 Revising the NM Night Sky Protection Act
 
+**Update**
+
+Senate Bill 34 was introduced on January 27 and was assigned to the
+Senate Conservation Committee, where it was heard on February 4.
+The bill was tabled by that committee by a 7-2 vote, which means
+that it does not move on in the Senate through the legislative
+process unless reheard and passed through the committee. 
+
+Several things likely contributed to the failure to get the bill out of committee:
+
+- Concerns were expressed by legislators about limiting lighting, e.g., for communities that desire it and for small businesses. We probably did not do a sufficient job of clearly pointing out that the proposed legislation does not limit the installation of lighting, it just requires that new lighting be shielded to prevent light from going up in the sky, where it helps no one, and has multiple detrimental effects
+
+- We were not sufficiently savvy about the legislative process. We heard issues from committee members that we had hoped to get support from. It seems likely that visits and conversations with committee members in advance is required to be able to anticipate and address concerns, as it is very hard to do this in real-time during committee hearing. Advance emails and calls are good and necessary (thank you if you called and/or emailed!), but probably not sufficient. We need to establish relationships and support beforehand. Hiring a lobbyist to facilitate conversations would likely help, but is an expensive proposition. Finding time for proponents to meet with legislators is also a challenge. But we need to figure out how to do this.
+
+- Multiple organized groups spoke in opposition to the bill : the NM Outdoor Advertising Association (plus two of its members, Lamar Advertising and Clear Channel Outdoor), the NM Chamber of Commerce, the NM Hospitality Association, a group representing Community Real Estate Developers, and the NM Auto Dealers Association. In several cases, this opposition clearly misstated what was in the bill. The people speaking in opposition outnumbered people who spoke in support of the bill, which included several members of NM DarkSky as well as the Sierra Club.  We need to do a better job of bringing out supporters to speak in support of legislation, and perhaps need to have discussions with opponents to see if we can find any common ground. Of course, the common ground that some (e.g. advertising industry) would like to see is for their industry to be exempt, which doesn't help the cause!
+
+- several content points may need clarification or perhaps revisiting: the clause that says that existing lighting does not need to be changed until "fixtures" need to be replaced was perhaps unclear and was a major cause of objection ("millions of dollars to replace"), and a lack of specific exemption or specification for flag lighting was also called out. 
+
+- much opposition revolved around talk of safety and security, despite the fact that the legislation did not impose ANY limits on the amount or time that light can be directed downward. Raising the suggestion that more light is not necessarily safer did not go over well, and perhaps it would have been better not to try to argue this, but just to reiterate that the bill did not call for any limits on lighting directed downwards!
+
+We need to learn from the experience and try again. Given the structure/schedule of the NM legislature, this likely means waiting until the 2027 legislative session. It is clear that there is much work to be done in the interim period!
+
+***************
+
 Resources:
 - [Talking points](#points)
 - [Executive summary of SB34 : proposed updates to Night Sky Protection Act](#exec)  (summary [PDF](Summary Night Sky Protection Act Revisions.pdf))
