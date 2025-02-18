@@ -247,6 +247,4 @@ Always best to use your own words, but some possible examples:
 <A NAME=release></A>
 ### Press release
 
-TO BE WRITTEN!
-
 ![ad](ad.png)
