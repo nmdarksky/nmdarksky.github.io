@@ -117,7 +117,6 @@ pursuits, he remains fascinated by the scientific exploration of
 the universe through space and time.
 
 <br><br><br><br><br>
-<br><br><br><br><br>
 
 **Marisela La Grave**
 
@@ -137,8 +136,6 @@ collections and museums around the world. She is the  co-founder
 and the Artistic Director at Magnetic Laboratorium™ (2001-2025) a
 New York - Paris - New Mexico  based transdisciplinary studio.
 
-<br><br><br><br><br>
-<br><br><br><br><br>
 <br><br><br><br><br>
 
 **Peter Lipscomb**
