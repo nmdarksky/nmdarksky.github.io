@@ -78,6 +78,7 @@ sidebar:
   - faq
   - label: Meetings
     children:
+      - council
       - stakeholder2023
       - stakeholder2024
   - Organizational

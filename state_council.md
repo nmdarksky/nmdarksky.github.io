@@ -7,6 +7,12 @@ title : State Council
 id : State Council
 ---
 
+** The State Council meets monthly on the first non-holiday Monday
+of the month. State Council meetings are open to all members of the
+NM chapter. Meeting reminders are generally sent out only shortly
+before the meetings and include connection information, but the
+regular first Monday schedule is established in advance. **
+
 The State Council is responsible for the management of the activities
 of the chapter, and are elected for two-year terms. Elections held 
 March 2024 result in the following Council:
