@@ -7,11 +7,11 @@ title : State Council
 id : State Council
 ---
 
-** The State Council meets monthly on the first non-holiday Monday
+**The State Council meets monthly on the first non-holiday Monday
 of the month. State Council meetings are open to all members of the
 NM chapter. Meeting reminders are generally sent out only shortly
 before the meetings and include connection information, but the
-regular first Monday schedule is established in advance. **
+regular first Monday schedule is established in advance.**
 
 The State Council is responsible for the management of the activities
 of the chapter, and are elected for two-year terms. Elections held 
@@ -47,9 +47,6 @@ devoted to historical astronomy and its preservation, and his role
 as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
-
-<br><br><br><br><br>
-<br><br><br><br><br>
 
 **Galen Gisler**
 
