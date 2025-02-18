@@ -10,7 +10,7 @@ id : NSPA
 
 **Update**
 
-Senate Bill 34 was introduced on January 27 and was assigned to the
+Senate Bill 34 was introduced in the 2025 NM legislature on January 27 and was assigned to the
 Senate Conservation Committee, where it was heard on February 4.
 The bill was tabled by that committee by a 7-2 vote, which means
 that it does not move on in the Senate through the legislative
