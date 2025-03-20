@@ -25,6 +25,8 @@ Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather
 
 Council members can be re-elected for up to three terms.
 
+Nominations for 2025 election can be found [here](nominations).
+
 Michael Rymer represents Dark Sky International at our Council
 meetings.
 
