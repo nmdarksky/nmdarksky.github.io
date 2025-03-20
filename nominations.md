@@ -28,6 +28,9 @@ as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
 
+John has been a member of the State Council and is standing for re-election
+to a second term.
+
 **Jon Holtzman**
 
 Jon Holtzman is a professional astronomer and educator. He is currently an Emeritus
@@ -39,6 +42,9 @@ outreach efforts, he has run a series of virtual open houses from the
 Tortugas Mountain Observatory outside of Las Cruces.  
 As an outdoor enthusiast, he finds respite from looking at the dark nighttime
 sky, and wants to ensure that all people have the opportunity to do the same.
+
+Jon has been the Chair of the State Council for the last year, and is standing for re-election
+to a second term on the Council.
 
 **Marisela La Grave**
 
@@ -55,6 +61,9 @@ installed, and published internationally and housed in private
 collections and museums around the world. She is the  co-founder
 and the Artistic Director at Magnetic Laboratorium™ (2001-2025) a
 New York - Paris - New Mexico  based transdisciplinary studio.
+
+Marisela has been a member of the State Council and is standing for re-election
+to a second term.
 
 **Sarah McIntyre**
 
@@ -96,6 +105,9 @@ a less is more philosophy with lighting. For example, less glare
 means more visual acuity. Less stark contrast means more awareness
 of surroundings. He truly believes that taking the “less” approach
 leads to “more” satisfying results.
+
+Jim has been a member of the State Council and is standing for re-election
+to a second term.
 
 **Didier Saumon**
 
