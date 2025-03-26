@@ -18,5 +18,5 @@ You can also additionally donate specifically to the NM chapter through DarkSky 
 ### Get information
 
 For questions, additional information:
-<br>[Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
+<br>[<b>Contact us</b>](mailto:newmexico@darksky.org) for additional information!
 
