@@ -59,6 +59,7 @@ plugins:
 
 sidebar:
   - Home
+  - Join/Donate
   - label: Initiatives
     children:
       - NSPA
