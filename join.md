@@ -6,6 +6,9 @@ id : join
 ![logo](logo.png)
 
 ### [Join](https://darksky.org/ways-to-give/) 
+
+<h3> <a href=https://darksky.org/ways-to-give> Join </a></h3>
+
 You can join the New Mexico DarkSky chapter by joining DarkSky International: all DarkSky International members with NM addresses are automatically 
 members of the NM chapter. An annual DarkSky International membership starts at $35/year.
 <br>[<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
