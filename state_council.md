@@ -306,3 +306,20 @@ his home base in Albuquerque, New Mexico.
 beyond astronomy to biology, human health and cultural impacts.”
 
 
+
+### Officers
+
+**Chair** : sets agenda and runs monthly State Council meeting and annual membership
+meeting. Sends email reminders for all meetings. Coordinates State Council
+elections. Submits annual report to DarkSky International. Receives monthly
+membership reports from DarkSky International and updates nm-darksky-members google
+group mailing list accordingly. Attempts to coordinate
+committees and ensure productivity. Monitors newmexico@darksky.org email accounts
+and responds/forwards as needed. Maintains and updates web site. Maintains and
+updates newmexico@darksky.org Google Drive.
+
+**Vice-Chair**: fills in for chair as needed
+
+**Secretary/treasurer** : takes and distributes notes of State Council meetings. 
+Receives financial reports from DarkSky International. Updates Council on
+financial issues and approves disbursement of funds.
