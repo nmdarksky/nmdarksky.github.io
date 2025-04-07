@@ -15,17 +15,15 @@ regular first Monday schedule is established in advance.**
 
 The State Council is responsible for the management of the activities
 of the chapter, and are elected for two-year terms. Elections held 
-March 2024 result in the following Council:
+March 2024 and 2025 result in the following Council:
 
-Terms expiring 2025:  John Briggs, Galen Gisler, Jon
-Holtzman (chair), Marisela La Grave, Jim Price, Sheila Sullivan
-
-Terms expiring 2026: Trish Cutler (resigned 1/25), Jamey Eriksen (resigned 1/25), Michael Hensley,
+Terms expiring 2026:  Michael Hensley,
 Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen.
 
-Council members can be re-elected for up to three terms.
+Terms expiring 2027:  John Briggs (2nd term), Jon Holtzman (chair, 2nd term), Marisela La Grave (2nd term), 
+Sarah McIntyre, Colin Nicholls, Jim Price (2nd term), Didier Saumon
 
-Nominations for 2025 election can be found [here](nominations).
+Council members can be re-elected for up to three terms.
 
 Michael Rymer represents Dark Sky International at our Council
 meetings.
@@ -49,25 +47,6 @@ devoted to historical astronomy and its preservation, and his role
 as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
-
-**Galen Gisler**
-
-Galen Gisler was born under the starry skies of eastern New Mexico
-and discovered a passion for astronomy. With a Bachelor’s degree
-in physics and astronomy from Yale University and a Ph.D. in
-astrophysics from the University of Cambridge, Galen went on to
-postdoctoral positions at the Leiden University Observatory and
-Kitt Peak National Observatory. He spent two years at the National
-Radio Astronomy Observatory, then worked for 25-years at the Los
-Alamos National Laboratory and 7 years at the University of Oslo
-in Norway, returning to Los Alamos to retire. Galen’s scientific
-research has included extragalactic jets, particle beams, plasmas,
-astronomical transients, adaptive processing, and hydrocode simulations
-of impact processes, tsunamis, and explosive volcanism. In retirement,
-he has contributed to astronomy outreach and education, encouraging
-people to get outdoors and enjoy the wonders of the night sky.
-
-[long bio](bios/bios#Gisler)
 
 **Michael Hensley**
 
@@ -189,6 +168,30 @@ Program, serves as lead tech for Deep Sky West remote observatory
 in Rowe, NM, and hosts Sky Railway’s Stargazer train. He is delighted
 to have been a part of forming the New Mexico DarkSky chapter.
 
+**Sarah McIntyre**
+
+I'm a scientist and photographer/astrophotographer in Albuquerque.
+I am a lifelong New Mexican, and have spent my entire life appreciating
+New Mexico's dark skies. As my longstanding interest in astronomy
+has expanded into astrophotography (and that has expanded from
+nightscapes to deep space imagery) in recent years, the importance
+of taking action to protect our dark skies has become increasingly
+important to me. I'm excited to be a member of NM DarkSky and look
+forward to being involved with efforts to educate the public and
+raise awareness of dark skies as a vital natural resource.
+
+**Colin Nichols**
+
+Colin Nicholls is a PhD Physicist who spent the first 20 years of
+his career developing advanced instrumentation for industrial process
+control in Hi Tech research institutions in the US and the UK.  For
+the last 23 years he has worked in education in Taos county, first
+at Taos High School and now at UNM Taos, where he is currently
+Science Department Chair.  A long time visual astronomer, Nicholls
+is on the board of the El Valle Astronomers and is working with
+that club,  UNM Taos and the Taos County planners to update the
+county’s Dark Sky ordinances.
+
 
 **Jim Price**
 
@@ -206,6 +209,21 @@ means more visual acuity. Less stark contrast means more awareness
 of surroundings. He truly believes that taking the “less” approach
 leads to “more” satisfying results.
 
+**Didier Saumon**
+
+Didier Saumon has been an amateur astronomer for nearly 50 years
+and has a fondness for visual observations of the deep sky and
+exotic objects. He enjoys sharing his passion for the night sky
+with the public at star parties in the surrounding area. Until his
+recent retirement, he was an astrophysicist  studying white dwarfs,
+brown dwarfs, exoplanets, and the properties of matter under the
+extreme conditions found in these objects. He's had an interest in
+outdoor lighting and light pollution for three decades and contributed
+to the development and adoption of a modern lighting ordinance in
+the county of Los Alamos. He's witnessed the steady erosion of the
+night sky over the past 20 years and wants to see it stopped. On
+good days, he dreams of seeing it reversed to a reasonable level
+for the benefit of all. May the stars be with you.
 
 **Gary Starkweather**
 
@@ -238,49 +256,6 @@ Retirement shouldn’t be about spending time protecting retirement investments 
 destruction by others, yet, here we are. That is why I have joined the New Mexico
 DarkSky team, in hopes that this alliance, along with other like minded, people will be
 able to make a difference in protecting naturally dark skies.
-
-**Sheila Sullivan**
-
-![image](bios/sullivan.jpeg){: style="float: left ; width: 20% ; padding: 15px"}
-Sheila Sullivan, artist, activist, documentarian. Born and raised
-in New Jersey where (oddly enough), nighttime star-gazing was a
-family pastime, led by a scientist/uncle who encouraged interest
-in all aspects of the natural world.
-
-After a family move to the mid-west, I studied art at Indiana
-University and John Heron School of Art, then relocated to San
-Francisco and art studies at University of California. Tumultuous
-times in San Francisco drew me into activism, first as a SNCC
-(Student Nonviolent Coordinating Committee) worker, then as community
-activist and documentarian, working to counter societal inequities,
-while filming social/civic breakdown/confrontation/upheaval. Following
-a move to the mid-west, documentary filming gave way to expression
-through “Protest Art”, and more activism.
-
-A move to the Colorado mountains and brilliant dark skies, then
-finally to New Mexico, brought me home to Santa Fe and the arts
-community. With fellow artists, we were founding members of the
-Orchestra of Santa Fe, (forerunner of the Santa Fe Symphony), and
-Advocates for Contemporary Arts - promoting and supporting contemporary
-art, and celebrating the arts with creation of the annual Beaux
-Arts Ball. I was a recipient of “A Gift of Time”, the Donald Anderson
-“Roswell Artist-in-Residence”, grant program. My works are in
-private, public, corporate collections and museums. I returned to
-documentary film work with several years on the “Honoring Our Elders”
-film project of the Picuris/Peñasco Community Coalition.
-
-In early years, as assistant director of the city’s first contemporary
-art gallery, and over the decades, I began to notice our beautiful,
-small-town, dark night sky atmosphere gradually giving way to
-over-lighting and the eventual loss of connection to place that a
-dark night sky brings. After lobbying for, and passage of, The New
-Mexico Night Sky Protection Act”, I created and established “The
-New Mexico Night Sky Office” dedicated to bringing awareness,
-education, ordinance development and preservation of New Mexico’s
-night sky. My program ran for a number of years, which brings me
-to the present and the first year of our work establishing the New
-Mexico Chapter of DarkSky International.
-
 
 **Derek Wallentinsen**  
 
@@ -323,3 +298,6 @@ updates newmexico@darksky.org Google Drive.
 **Secretary/treasurer** : takes and distributes notes of State Council meetings. 
 Receives financial reports from DarkSky International. Updates Council on
 financial issues and approves disbursement of funds.
+
+
+
