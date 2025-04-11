@@ -211,6 +211,7 @@ leads to “more” satisfying results.
 
 **Didier Saumon**
 
+![image](bios/Saumon.jpg){: style="float: left ; width: 20% ; padding: 15px"}
 Didier Saumon has been an amateur astronomer for nearly 50 years
 and has a fondness for visual observations of the deep sky and
 exotic objects. He enjoys sharing his passion for the night sky
