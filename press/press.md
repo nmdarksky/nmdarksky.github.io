@@ -10,6 +10,14 @@ id : Press
 <A HREF=chapter>
 Chapter related press:
 
+- 2025 proclamations for International Dark Sky Wee
+  - [State of NM](../proclamations/2025/NewMexico.pdf)
+  - [Santa Fe](../proclamations/2025/SantaFe.pdf)
+  - [Las Cruces](../proclamations/2025/LasCruces.pdf)
+  - [Dona Ana County]
+  - [Los Alamos County](../proclamations/2025/LosAlamos.md)
+  - [Angel Fire]
+
 - [Santa Fe New Mexican editorial](https://www.santafenewmexican.com/opinion/editorials/protect-new-mexicos-dark-skies-for-health-viewing/article_239f9bde-d75e-11ef-9bad-3b7fd8e12270.html)
 - Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/opinion/commentary/more-work-ahead-to-protect-new-mexico-night-skies/article_c5460402-b57f-11ee-9719-77f823589fea.html)
 - [El Defensor Chieftain article on 2023 stakeholder workshop](https://dchieftain.com/briggs-significant-economic-value-to-our-dark-skies/)
