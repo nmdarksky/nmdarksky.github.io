@@ -44,7 +44,7 @@ money, be healthier, have less adverse effect on wildlife, respect
 property rights, and enable greater human appreciation and scientific study of the night
 sky. Dark skies can also have a positive economic impact through
 astrotourism and attracting people to live in New Mexico. There
-really is no down side! See [values of responsible lighting (PDF)](Values_of_Responsible_Lighting.pdf)</i>
+really is no down side! See our handout on [values of responsible lighting](Values_of_Responsible_Lighting.pdf)</i>
 
 
 [<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
