@@ -9,6 +9,7 @@ Organizational web sites with dark sky material:
 - [DarkSky International](https://darksky.org)
   - [Outreach materials from DarkSky International](https://darksky.org/resources/public-outreach-materials/)
   - [DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
+  - [How to do a home lighting assessment](https://darksky.org/get-involved/home-lighting-assessment/)
 - [Illuminating Engineering Society](https://www.ies.org/)
 - [Recommended lighting practices, A Collaborative Effort by the Permian Basin Petroleum Association, the Texas Oil and Gas Association, and the McDonald Observatory](https://www.txoga.org/wp-content/uploads/2018/02/PBPA_TXOGA_MCD_recommended_lighting_practices_rev180215a.pdf)
 - [Colorado Plateau Dark Sky Cooperative](https://extension.usu.edu/iort/cp-darkskies/)
@@ -24,8 +25,10 @@ Organizational web sites with dark sky material:
 - [Dark Sky Consulting](https://www.darkskyconsulting.com/)
 
 Product information:
+- [DarkSky International DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
 - [web site with photometric files and graphs](https://photometriceditor.com)
   - [how to read an IES file](https://www.linkedin.com/pulse/how-read-ies-report-daniel-han/)
+- [Simple light shield for outdoor lights](https://www.progresslightingexperts.com/lighting/4-92-136-0-495869/Progress_Nightsaver---Outdoor-Light-in-Traditional-style---3.25-Inches-wide-by-6.31-Inches-high-P8400-31.htm)
 
 Literature on related issues:
 - [Scientific research on artificial light at night](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
@@ -36,3 +39,6 @@ Videos, etc:
 - [Colorado](https://www.youtube.com/watch?v=QyqykIFqNoY)
 - [LA County](https://www.youtube.com/watch?v=idStuAKJPZs)
 - [DarkSky Land -- Santa Fe Railyards](https://www.youtube.com/watch?v=JV2aY-NLOk8&t=308s)
+
+
+
