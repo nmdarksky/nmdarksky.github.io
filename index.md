@@ -52,34 +52,3 @@ really is no down side! See our handout on [values of responsible lighting](Valu
 <br>[<B>Email</b>](mailto:newmexico@darksky.org) us at <a href="mailto:newmexico@darksky.org"> newmexico@darksky.org
 <br><a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> <img src="outreach/material/cover.png" width="10%"> Click to see full brochure!</A>
 <br> [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
-
-### Initiatives
-- [Legislation, ordinances and monitoring](legislation/ordinances)
-- [Education, outreach, and community engagement](outreach/education)
-- [New Mexico dark sky places](darkskyplaces/nmdarkplaces)
-  - [Cosmic Campground DarkSky Sanctuary](cosmic/cosmic)
-- [Economic impact and tourism](economicimpact/economic)
-- [Ecological/biological impact ](ecological/ecological)
-
-### Resources
-- [DarkSky international](http://darksky.org)
-  - [DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
-- [Illuminating Engineering Society](https://www.ies.org/)
-- [More external links to information on dark skies](resources/info)
-- [Information on ordinances](resources/ordinances)
-- [Information on dark-sky friendly products](resources/products)
-- [Images of night skies in New Mexico](images)
-- [NM presentations](presentations)
-
-### Organization
-- [State Council](state_council) 
-- [organizational resources](organization)
-
-### Press
-- [articles related to NM State Chapter](press/press#chapter)
-- [articles related to dark skies in general](press/press#other)
-
-
-<br>
-[Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
-<a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> <img src="outreach/material/cover.png" width="10%"> </A>
