@@ -12,8 +12,8 @@ PURPOSE: To provide New Mexico DarkSky Chapter members and
 others information on locally available retail night sky friendly
 lighting (NSFL) for residential use. 
 
-To start, take a look at DarkSky’s Home Outdoor Lighting Assessment.
-Always remember the Five Principles when shopping and be sure your
+To start, take a look at [DarkSky’s Home Outdoor Lighting Assessment](https://darksky.org/get-involved/home-lighting-assessment/).
+Always remember the [Five Principles](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/home/) when shopping and be sure your
 purchases will conform to them.
 
 Manufacturers and retailers are aware that there is a demand for
@@ -31,11 +31,13 @@ state.)
 DarkSky International has information on manufacturers of NSFL.
 This includes the categories residential, commercial, pedestrian
 comfort and sea turtle sensitive. DarkSky Approved Products.  However,
-retailers selling NSFL have only two companies listed there. Volt
-(online) And only one with a physical store in New Mexico - Home
-Depot. DarkSky International DarkSky Approved NSFL Home Depot
-Fixtures Page Or the older International Dark Sky Association logo.
-The above fixtures are packaged with the DarkSky Approved logo.
+retailers selling NSFL have only two companies listed there: [Volt
+(online)](https://www.voltlighting.com/shop/landscape-lighting/dark-sky-approved) 
+And only one with a physical store in New Mexico - Home
+Depot: [DarkSky International DarkSky Approved NSFL Home Depot
+Fixtures Page](https://darksky.org/what-we-do/darksky-approved/darksky-approved-luminaires-program/luminaires/#!/Home-Depot/c/19294005) 
+These fixtures are packaged with the DarkSky Approved logo
+or the older International Dark Sky Association logo.
 
 There are NSFL products available from other local retailers that
 do not have the DarkSky seal. Below we present selected examples
@@ -68,7 +70,7 @@ The following sections provide some links to Night Sky Friendly
 Lighting at a few retailers that have stores in New Mexico. These links
 were compiled in June 2025, so these fixtures may or may not be currently
 available, and there may be other fixtures that have become available (feel
-free to contact us at newmexico@darksky.org if you have updated information,
+free to contact us at [newmexico@darksky.org](mailto:newmexico@darksky.org) if you have updated information,
 so that we can keep this page up-to-date).
 But, in any case, if any of these links are still working, they can give
 you some visuals of what type of fixtures are good.
@@ -91,4 +93,4 @@ you some visuals of what type of fixtures are good.
 - [Westinghouse Winslett Textured Black Switch LED Light Fixture ](https://www.acehardware.com/departments/lighting-and-electrical/outdoor-lighting/wall-mounted-lighting/3005835)
 - [NEBO Low Voltage 2.5 W LED Wall/Pillar Light 1 pk](https://www.acehardware.com/departments/lighting-and-electrical/outdoor-lighting/landscape-and-deck-lighting/3010372)
 
-Contact New Mexico DarkSky if you have any questions, comments or need advice.
+[Contact New Mexico DarkSky](mailto:newmexico@darksky.org) if you have any questions, comments or need advice.
