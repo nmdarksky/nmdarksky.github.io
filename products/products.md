@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Products
+title : Night Sky Friendly Products
 id : Products
 ---
 

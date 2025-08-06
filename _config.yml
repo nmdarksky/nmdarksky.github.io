@@ -69,7 +69,6 @@ sidebar:
       - Tourism
       - Ecological
   - State Council
-  - External
   - label: Cosmic Campground
     children:
       - Information
@@ -77,6 +76,8 @@ sidebar:
       - CCIDSS History
       - CCIDSS Science
   - faq
+  - Products
+  - External
   - label: Meetings
     children:
       - council
