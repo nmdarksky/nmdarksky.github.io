@@ -11,6 +11,7 @@ id : faq
 - [My neighbor has bright lights that bother me, what can I do?](#neighbor)
 - [There is a bright streetlight near my home that shines into my house/yard and bothers me, what can I do?](#streetlight)
 - [How can I get more information about research on responsible lighting and dark skies?](#literature)
+- [Where can I purchase night sky friendly lighting?](#nsfl)
 - [Is it more expensive to install responsible lighting at my house?](#cost)
 
 <A NAME=neighbor></A>
@@ -98,6 +99,11 @@ and, along with the Loss of the Night Network, DarkSky maintains a comprehensive
 [database of scientific publications on artificial light at night (ALAN)](https://www.zotero.org/groups/2913367/alan_db/library).
 These are great resources for getting data on various related issues!
 
+
+<A NAME=nsfl></A>
+**Where can I purchase night sky friendly lighting?**
+
+[See our web page on Night Sky Friendly Lighting Retailing in New Mexico](../products/products)
 
 <A NAME=cost></A>
 **Is it more expensive to install responsible lighting at my house?**
