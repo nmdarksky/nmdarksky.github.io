@@ -11,3 +11,4 @@ Santa Fe New Mexican [Galen Gisler article](https://www.santafenewmexican.com/op
 
 Santa Fe New Mexican [Advocates for dark skies urge updates to law in new age of light pollution](https://enewmexican.pressreader.com/article/281719800116775)
 
+8/25 : [KUNM Inteview and article on dark skies](https://www.kunm.org/local-news/2025-08-18/group-seeks-to-preserve-restore-the-dark-skies-of-new-mexico)
