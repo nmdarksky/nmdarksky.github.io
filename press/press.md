@@ -25,6 +25,7 @@ Chapter related press:
 - [Albuquerque journal article on oil and gas facility](abq_oil_and_gas.pdf)
 - Source NM [Oil and gas company recognized for reducing light pollution](https://sourcenm.com/briefs/oil-and-gas-company-recognized-for-reducing-light-pollution/)
  - KANW [Stargazers' delight: Efforts to cut unwanted light pollution in New Mexico win praise](https://www.kanw.com/new-mexico-news/2025-01-09/stargazers-delight-efforts-to-cut-unwanted-light-pollution-in-new-mexico-win-praise), [APNews](https://apnews.com/article/dark-starry-skies-light-pollution-oil-industry-42a740ac52d1b307aede9560764f9bb2)
+ - 8/25 : [KUNM Inteview and article on dark skies](https://www.kunm.org/local-news/2025-08-18/group-seeks-to-preserve-restore-the-dark-skies-of-new-mexico)
 
 <A HREF=other> 
 
