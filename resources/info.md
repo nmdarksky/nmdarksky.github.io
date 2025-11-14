@@ -15,7 +15,6 @@ Organizational web sites with dark sky material:
 - [Colorado Plateau Dark Sky Cooperative](https://extension.usu.edu/iort/cp-darkskies/)
 - [Santa Fe Conservation Trust](https://sfct.org/dark-skies/)
 - [Pajarito Environmental Education Cebnter](https://peecnature.org/learn/dark-skies/)
-- [Night Sky Santa Fe](https://nightskysantafe.org/)
 - [Dark Sky Land](https://www.darkskyland.us/)
 - [Dark Skies of the Wet Mountain Valley](https://www.darkskiescolorado.org/)
 - [Dark Sky Colorado](https://darkskycolorado.org/)
