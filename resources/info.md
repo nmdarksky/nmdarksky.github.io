@@ -35,6 +35,7 @@ Literature on related issues:
 
 Videos, etc:
 
+- [Presentation: Protecting Night Skies and Economic Benefits: Incorporating Dark Sky Programming in Land Use](https://www.youtube.com/watch?v=WxFDD3WsM4A), American Indiginous Tourism Assocation ([powerpoint]()](AITA-11.2025 Webinar_BLM NM and So OR Tourism.pptx)
 - [Colorado](https://www.youtube.com/watch?v=QyqykIFqNoY)
 - [LA County](https://www.youtube.com/watch?v=idStuAKJPZs)
 - [DarkSky Land -- Santa Fe Railyards](https://www.youtube.com/watch?v=JV2aY-NLOk8&t=308s)
