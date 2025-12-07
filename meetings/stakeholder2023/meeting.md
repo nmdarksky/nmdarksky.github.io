@@ -20,10 +20,19 @@ some post-meeting feedback from attendees.
 </center>
 
 
-#### [Attendees](attendees.html)
 
-#### [Agenda](agenda.html)
+#### Agenda
+
+[Meeting agenda](agenda.html)
 
 #### Presentations
   - [Morning](Morning.pdf)
   - [Afternoon](Afternoon.pdf)
+
+#### Summary
+
+[Post-meeting summary](Summary.pdf)
+
+#### Attendees
+
+[Meeting attendees](attendees.html)
