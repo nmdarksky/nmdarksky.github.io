@@ -12,7 +12,7 @@ effect change on the issue.
 
 About 60 people attended, mostly in-person, with a few online. 
 
-A [summary of the meeting](Summary.pdf) was subsequently assembled including
+A [summary of the meeting](Summary.html) was subsequently assembled including
 some post-meeting feedback from attendees.
 
 <center>
