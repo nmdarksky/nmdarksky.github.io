@@ -31,7 +31,9 @@ some post-meeting feedback from attendees.
 
 #### Summary
 
-[Post-meeting summary](Summary.pdf)
+[Post-meeting summary](summary.html)
+
+[Summary as PDF](Summary.pdf)
 
 #### Attendees
 
