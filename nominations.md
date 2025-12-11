@@ -77,7 +77,7 @@ important to me. I'm excited to be a member of NM DarkSky and look
 forward to being involved with efforts to educate the public and
 raise awareness of dark skies as a vital natural resource.
 
-**Colin Nichols**
+**Colin Nicholls**
 
 Colin Nicholls is a PhD Physicist who spent the first 20 years of
 his career developing advanced instrumentation for industrial process
