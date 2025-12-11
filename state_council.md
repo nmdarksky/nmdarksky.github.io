@@ -30,6 +30,7 @@ meetings.
 
 **John Briggs**
 
+![image](bios/JWB.jpg){: style="float: left ; width: 20% ; padding: 15px"}
 John W. Briggs has lived and worked at far-ranging observatories
 in various technical capacities, including Mount Wilson, Yerkes,
 National Solar, Maria Mitchell, Venezuelan National, Chamberlin,
