@@ -4,30 +4,30 @@ title : Photos
 id : Photos
 ---
 
-<img src=images/eyes-in-the-dark-NMDStable.jpg width=75%>
+![City-of-Rocks-Kids.jpg](City-of-Rocks-Kids.jpg)
 
-<img src=images/City-of-Rocks-Kids.jpg width=75%>
+![Cooks-Pk-SS.jpg](Cooks-Pk-SS.jpg)
 
-<img src=images/Cooks-Pk-SS.jpg width=75%>
+![GICL.jpg](GICL.jpg)
 
-<img src=images/GICL.jpg width=75%>
+![GinaPearson-10-25-RGdN.jpg](GinaPearson-10-25-RGdN.jpg)
 
-<img src=images/GinaPearson-10-25-RGdN.jpg width=75%>
+![Jal-NMOGA-NMDS-MDOHummel.jpg](Jal-NMOGA-NMDS-MDOHummel.jpg)
 
-<img src=images/Jal-NMOGA-NMDS-MDOHummel.jpg width=75%>
+![NG2.jpg](NG2.jpg)
 
-<img src=images/NG2.jpg width=75%>
+![cos-campground-cleanup-2023.jpg](cos-campground-cleanup-2023.jpg)
 
-<img src=images/cos-campground-cleanup-2023.jpg width=75%>
+![cos-carn-display-1.jpg](cos-carn-display-1.jpg)
 
-<img src=images/cos-carn-display-1.jpg width=75%>
+![coscarn-1.jpg](coscarn-1.jpg)
 
-<img src=images/coscarn-1.jpg width=75%>
+![coscarn-2.jpg](coscarn-2.jpg)
 
-<img src=images/coscarn-2.jpg width=75%>
+![coscarn-3.jpg](coscarn-3.jpg)
 
-<img src=images/coscarn-3.jpg width=75%>
+![coscarn-table2025.jpg](coscarn-table2025.jpg)
 
-<img src=images/coscarn-table2025.jpg width=75%>
+![coscarn2025-peter-modules.jpg](coscarn2025-peter-modules.jpg)
 
-<img src=images/coscarn2025-peter-modules.jpg width=75%>
+![eyes-in-the-dark-NMDStable.jpg](eyes-in-the-dark-NMDStable.jpg)
