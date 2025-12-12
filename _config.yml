@@ -62,7 +62,6 @@ sidebar:
   - join
   - label: Initiatives
     children:
-      - NSPA
       - Legislation
       - Education
       - Places
