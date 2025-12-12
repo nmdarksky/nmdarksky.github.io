@@ -37,41 +37,40 @@ Outreach events
 <img src="eyes-in-the-dark-NMDStable.jpg" width="100%">
 </a>
 <TD>
-</table>
 
-Rio Grande del Norte
-
-<table>
 <TR>
-<TD><a href="GinaPearson-10-25-RGdN.jpg">
+<TD>Rio Grande del Norte
+<a href="GinaPearson-10-25-RGdN.jpg">
 <img src="GinaPearson-10-25-RGdN.jpg" width="100%">
 </a>
-</table>
+<TD>
+<TD>
 
-Inspection of oil and gas facilities in SE New Mexico
-
-<table>
 <TR>
-<TD><a href="Jal-NMOGA-NMDS-MDOHummel.jpg">
+<TD>Inspection of oil and gas facilities in SE New Mexico
+<a href="Jal-NMOGA-NMDS-MDOHummel.jpg">
 <img src="Jal-NMOGA-NMDS-MDOHummel.jpg" width="100%">
 </a>
-</table>
+<TD>
+<TD>
 
-Cleanup work at Cosmic Campground
-
-<table>
 <TR>
-<TD><a href="GICL.jpg.jpg">
+<TD>Cleanup work at Cosmic Campground
+<a href="GICL.jpg.jpg">
 <img src="GICL.jpg" width="100%">
 </a>
 <TD><a href="cos-campground-cleanup-2023.jpg">
 <img src="cos-campground-cleanup-2023.jpg" width="100%">
 </a>
-</table>
+<TD>
 
+<TR>
+<TD>
 Cooke's Peak sunset
-
 <a href="Cooks-Pk-SS.jpg">
 <img src="Cooks-Pk-SS.jpg" width="100%">
 </a>
+<TD>
+<TD>
+</table
 
