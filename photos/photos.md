@@ -8,28 +8,32 @@ id : Photos
 
 Outreach events
 
-<a href="NG2.jpg">
+<Table> 
+<TR>
+<TD><a href="NG2.jpg">
 <img src="NG2.jpg" width="25%">
 </a>
-<a href="cos-carn-display-1.jpg">
+<TD><a href="cos-carn-display-1.jpg">
 <img src="cos-carn-display-1.jpg" width="25%">
 </a>
-<a href="coscarn-1.jpg">
+<TD><a href="coscarn-1.jpg">
 <img src="coscarn-1.jpg" width="25%">
 </a>
-<a href="coscarn-2.jpg">
+<TR>
+<TD><a href="coscarn-2.jpg">
 <img src="coscarn-2.jpg" width="25%">
 </a>
-<a href="coscarn-3.jpg">
+<TD><a href="coscarn-3.jpg">
 <img src="coscarn-3.jpg" width="25%">
 </a>
-<a href="coscarn-table2025.jpg">
+<TD><a href="coscarn-table2025.jpg">
 <img src="coscarn-table2025.jpg" width="25%">
 </a>
-<a href="coscarn2025-peter-modules.jpg">
+<TR>
+<TD><a href="coscarn2025-peter-modules.jpg">
 <img src="coscarn2025-peter-modules.jpg" width="25%">
 </a>
-<a href="eyes-in-the-dark-NMDStable.jpg">
+<TD><a href="eyes-in-the-dark-NMDStable.jpg">
 <img src="eyes-in-the-dark-NMDStable.jpg" width="25%">
 </a>
 
