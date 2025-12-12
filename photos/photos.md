@@ -4,6 +4,8 @@ title : Photos
 id : Photos
 ---
 
+<img src="City-of_Rocks-Kids.jpg" alt="cityofrocks" width="75%"/> 
+
 ![City-of-Rocks-Kids.jpg](City-of-Rocks-Kids.jpg)
 
 ![Cooks-Pk-SS.jpg](Cooks-Pk-SS.jpg)
