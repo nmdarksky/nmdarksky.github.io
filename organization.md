@@ -13,8 +13,9 @@ id : Organizational
 - [Google calendar for NM DarkSky](https://calendar.google.com/calendar/u/0?cid=bmV3bWV4aWNvQGRhcmtza3kub3Jn)
 - [Generic business card](card.pdf)
 - [logos](logos/logos) (note you may have to click on some to see the white text!)
-- [Tabling materials](outreach/outreach)
+- [Tabling materials/checklist](outreach/outreach)
 - [Presentations](outreach/nmpresentations)
+- [Demos](outreach/material/ROLAN-demos.pdf)
 
 Restricted files for State Council:
 
