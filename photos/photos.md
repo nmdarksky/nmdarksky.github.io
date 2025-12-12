@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Photos
-id : photos
+id : Photos
 ---
 
 <img src=images/eyes-in-the-dark-NMDStable.jpg width=75%/>
