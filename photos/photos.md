@@ -8,7 +8,7 @@ id : Photos
 
 Outreach events
 
-<Table> 
+<table> 
 <TR>
 <TD><a href="NG2.jpg">
 <img src="NG2.jpg" width="100%">
@@ -36,6 +36,7 @@ Outreach events
 <TD><a href="eyes-in-the-dark-NMDStable.jpg">
 <img src="eyes-in-the-dark-NMDStable.jpg" width="100%">
 </a>
+<TD>
 </table>
 
 Rio Grande del Norte
@@ -49,7 +50,7 @@ Rio Grande del Norte
 
 Inspection of oil and gas facilities in SE New Mexico
 
-<Table>
+<table>
 <TR>
 <TD><a href="Jal-NMOGA-NMDS-MDOHummel.jpg">
 <img src="Jal-NMOGA-NMDS-MDOHummel.jpg" width="100%">
