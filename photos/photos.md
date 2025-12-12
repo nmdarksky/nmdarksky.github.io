@@ -72,5 +72,5 @@ Cooke's Peak sunset
 </a>
 <TD>
 <TD>
-</table
+
 
