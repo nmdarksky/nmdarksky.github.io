@@ -13,7 +13,8 @@ Outreach events
 <TD><a href="NG2.jpg">
 <img src="NG2.jpg" width="100%">
 </a>
-<TD><a href="cos-carn-display-1.jpg">
+<TD>Lighting demos!
+<a href="cos-carn-display-1.jpg">
 <img src="cos-carn-display-1.jpg" width="100%">
 </a>
 <TD><a href="coscarn-1.jpg">
