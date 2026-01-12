@@ -32,6 +32,7 @@ Product information:
 Literature on related issues:
 - [Scientific research on artificial light at night](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
 - [Artificial light at night database](https://www.zotero.org/groups/2913367/alan_db/)
+- [Impact of artificial lighting on bird migration from US Fish and Wildlife](/www.fws.gov/story/threats-birds-collisions-nighttime-lighting)
 
 Videos, etc:
 
