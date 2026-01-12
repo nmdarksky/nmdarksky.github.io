@@ -10,7 +10,7 @@ id : Press
 <A HREF=chapter>
 Chapter related press:
 
-- 2025 proclamations for International Dark Sky Wee
+- 2025 proclamations for International Dark Sky Week
   - [State of NM](../proclamations/2025/NewMexico.pdf)
   - [Santa Fe](../proclamations/2025/SantaFe.pdf)
   - [Las Cruces](../proclamations/2025/LasCruces.pdf)
