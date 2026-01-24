@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-Terms expiring 2026, standing for re-election:   Michael Hensley, Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen: for brief bios, see our [State Council page](statecouncil.md)
+Terms expiring 2026, standing for re-election:   Michael Hensley, Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen: for brief bios, see our [State Council page](state_council)
 
 New nominees 2026:  Gina Pearson, Suzanne Eisenberg. Brief bios:
 
