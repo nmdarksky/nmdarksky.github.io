@@ -8,7 +8,7 @@ layout: page
 
 Terms expiring 2026, standing for re-election:   Michael Hensley, Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen: for brief bios, see our [State Council page](state_council)
 
-New nominees 2026:  Gina Pearson, Suzanne Eisenberg. Brief bios:
+New nominees 2026:  Gina Pearson, Suzanne Eisenberg, Rachael Bechtel. Brief bios:
 
 
 **Suzanne Eisenberg**
@@ -39,3 +39,8 @@ Night Explorer booklet, updating the public facing NPS Night Skies
 website, coordinating the events for the August 21, 2017 total solar
 eclipse at the BLM Challis Field Office, ID, and serving as the NPS
 point of contact for the Colorado Plateau Dark Sky Cooperative.
+
+**Rachael Bechtel**
+
+Currently a graduate student at UNM, Rachael is an astrophotographer
+who wants to get more involved in the NM chapter of DarkSky.
