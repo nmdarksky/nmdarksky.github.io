@@ -42,5 +42,7 @@ point of contact for the Colorado Plateau Dark Sky Cooperative.
 
 **Rachael Bechtel**
 
-Currently a graduate student at UNM, Rachael is an astrophotographer
-who wants to get more involved in the NM chapter of DarkSky.
+Rachael is a photographer and astrophotographer, originally from
+the Houston area. After moving to New Mexico, she quickly came to
+appreciate the state’s dark skies, and the importance of protecting
+them for generations to come.
