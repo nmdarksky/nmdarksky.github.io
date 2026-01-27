@@ -17,6 +17,7 @@ Organizational web sites with dark sky material:
 - [Pajarito Environmental Education Cebnter](https://peecnature.org/learn/dark-skies/)
 - [Dark Sky Land](https://www.darkskyland.us/)
 - [Dark Skies of the Wet Mountain Valley](https://www.darkskiescolorado.org/)
+- [Continental Divide Trail Coalition DarkSkies](https://cdtcoalition.org/dark-skies/)
 - [Dark Sky Colorado](https://darkskycolorado.org/)
 - [Dark Sky Texas](https://darkskytexas.org/)
 - [Arizona Astronomy Consortium](https://azastronomy.org/dark-skies-initiatives/)
