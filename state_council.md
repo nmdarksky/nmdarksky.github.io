@@ -28,6 +28,13 @@ Council members can be re-elected for up to three terms.
 Michael Rymer represents Dark Sky International at our Council
 meetings.
 
+**Rachael Bechtel**
+
+Rachael is a photographer and astrophotographer, originally from
+the Houston area. After moving to New Mexico, she quickly came to
+appreciate the state’s dark skies, and the importance of protecting
+them for generations to come.
+
 **John Briggs**
 
 ![image](bios/JWB.jpg){: style="float: left ; width: 20% ; padding: 15px"}
@@ -48,6 +55,16 @@ devoted to historical astronomy and its preservation, and his role
 as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
+
+**Suzanne Eisenberg**
+
+I recently graduated with a bachelor's of physics with an astronomy
+concentration from the New Mexico Institute of Mining and Technology.
+I have a passion for science communication and would like to use
+my background to help with astronomy public outreach in New Mexico,
+so that it can be enjoyed by all! I believe that I can do this
+through being elected to the state council of NM DarkSky
+and look forward to working with you all!
 
 **Michael Hensley**
 
@@ -192,6 +209,23 @@ Science Department Chair.  A long time visual astronomer, Nicholls
 is on the board of the El Valle Astronomers and is working with
 that club,  UNM Taos and the Taos County planners to update the
 county’s Dark Sky ordinances.
+
+**Gina Pearson**
+
+Gina recently retired as a federal public servant, after 35+ years,
+primarily working for the National Park Service throughout the west.
+She has years of experience protecting naturally dark night skies
+with a particular interest in preserving indigenous and other
+cultural perspectives. Some of her dark sky work includes developing
+dark sky park application packets for Bryce Canyon National Park
+and the Rio Grande del Norte National Monument, collaborating with
+National Park Units across the nation on mitigating light pollution
+impacts, collaborating with the American Indigenous Tourism Association
+on night sky education, translating into Spanish the NPS Jr. Ranger
+Night Explorer booklet, updating the public facing NPS Night Skies
+website, coordinating the events for the August 21, 2017 total solar
+eclipse at the BLM Challis Field Office, ID, and serving as the NPS
+point of contact for the Colorado Plateau Dark Sky Cooperative.
 
 
 **Jim Price**
