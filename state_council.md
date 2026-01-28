@@ -261,6 +261,8 @@ night sky over the past 20 years and wants to see it stopped. On
 good days, he dreams of seeing it reversed to a reasonable level
 for the benefit of all. May the stars be with you.
 
+<br><br><br><br><br>
+
 **Gary Starkweather**
 
 ![image](bios/starkweather.jpg){: style="float: left ; width: 20% ; padding: 15px"}
