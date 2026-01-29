@@ -100,8 +100,6 @@ Tortugas Mountain Observatory outside of Las Cruces.
 As an outdoor enthusiast, he finds respite from looking at the dark nighttime
 sky, and wants to ensure that all people have the opportunity to do the same.
 
-[long bio](bios/bios#Holtzman)
-
 <div style="clear: both;"></div>
 
 **Nick Knorr**
