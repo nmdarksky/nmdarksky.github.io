@@ -136,7 +136,7 @@ and the Artistic Director at Magnetic Laboratorium™ (2001-2025) a
 New York - Paris - New Mexico  based transdisciplinary studio.
 
 <br><br><br><br><br>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 **Peter Lipscomb**
 
@@ -228,6 +228,7 @@ website, coordinating the events for the August 21, 2017 total solar
 eclipse at the BLM Challis Field Office, ID, and serving as the NPS
 point of contact for the Colorado Plateau Dark Sky Cooperative.
 
+<br><br><br><br><br><br><br><br><br>
 
 **Jim Price**
 
