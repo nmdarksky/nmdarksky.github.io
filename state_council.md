@@ -56,6 +56,8 @@ as secretary of the new Alliance of Historic Observatories.  He is
 an adjunct in Physics at NMT in Socorro, and he has participated
 in IDA meetings as early as the 1990s.
 
+<div style="clear: both;"></div>
+
 **Suzanne Eisenberg**
 
 I recently graduated with a bachelor's of physics with an astronomy
@@ -100,7 +102,7 @@ sky, and wants to ensure that all people have the opportunity to do the same.
 
 [long bio](bios/bios#Holtzman)
 
-<br><br><br><br><br>
+<div style="clear: both;"></div>
 
 **Nick Knorr**
 
@@ -115,7 +117,7 @@ vastness of the universe.  Although he abandoned astronomy for other
 pursuits, he remains fascinated by the scientific exploration of
 the universe through space and time.
 
-<br><br><br><br><br>
+<div style="clear: both;"></div>
 
 **Marisela La Grave**
 
@@ -185,6 +187,8 @@ Program, serves as lead tech for Deep Sky West remote observatory
 in Rowe, NM, and hosts Sky Railway’s Stargazer train. He is delighted
 to have been a part of forming the New Mexico DarkSky chapter.
 
+<div style="clear: both;"></div>
+
 **Sarah McIntyre**
 
 I'm a scientist and photographer/astrophotographer in Albuquerque.
@@ -227,7 +231,7 @@ website, coordinating the events for the August 21, 2017 total solar
 eclipse at the BLM Challis Field Office, ID, and serving as the NPS
 point of contact for the Colorado Plateau Dark Sky Cooperative.
 
-<br><br><br><br><br><br><br><br><br>
+<div style="clear: both;"></div>
 
 **Jim Price**
 
@@ -262,7 +266,7 @@ night sky over the past 20 years and wants to see it stopped. On
 good days, he dreams of seeing it reversed to a reasonable level
 for the benefit of all. May the stars be with you.
 
-<br><br><br><br><br>
+<div style="clear: both;"></div>
 
 **Gary Starkweather**
 
@@ -296,6 +300,8 @@ destruction by others, yet, here we are. That is why I have joined the New Mexic
 DarkSky team, in hopes that this alliance, along with other like minded, people will be
 able to make a difference in protecting naturally dark skies.
 
+<div style="clear: both;"></div>
+
 **Derek Wallentinsen**  
 
 ![image](bios/wallentinsen.jpg){: style="float: left ; width: 20% ; padding: 15px"}
@@ -319,6 +325,7 @@ his home base in Albuquerque, New Mexico.
 “I want to see New Mexico’s Dark Sky International chapter broaden out to reach
 beyond astronomy to biology, human health and cultural impacts.”
 
+<div style="clear: both;"></div>
 
 
 ### Officers
