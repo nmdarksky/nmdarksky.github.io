@@ -212,6 +212,7 @@ county’s Dark Sky ordinances.
 
 **Gina Pearson**
 
+![image](bios/Gina_Pearson.jpg){: style="float: left ; width: 20% ; padding: 15px"}
 Gina recently retired as a federal public servant, after 35+ years,
 primarily working for the National Park Service throughout the west.
 She has years of experience protecting naturally dark night skies
