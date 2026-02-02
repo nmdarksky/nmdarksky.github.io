@@ -10,6 +10,7 @@ Organizational web sites with dark sky material:
   - [Outreach materials from DarkSky International](https://darksky.org/resources/public-outreach-materials/)
   - [DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
   - [How to do a home lighting assessment](https://darksky.org/get-involved/home-lighting-assessment/)
+- DarkSky International [State of the Science 2025](https://darksky.org/news/state-of-the-science-2025/)
 - [Illuminating Engineering Society](https://www.ies.org/)
 - [Recommended lighting practices, A Collaborative Effort by the Permian Basin Petroleum Association, the Texas Oil and Gas Association, and the McDonald Observatory](https://www.txoga.org/wp-content/uploads/2018/02/PBPA_TXOGA_MCD_recommended_lighting_practices_rev180215a.pdf)
 - [Colorado Plateau Dark Sky Cooperative](https://extension.usu.edu/iort/cp-darkskies/)
@@ -31,16 +32,22 @@ Product information:
 - [Simple light shield for outdoor lights](https://www.progresslightingexperts.com/lighting/4-92-136-0-495869/Progress_Nightsaver---Outdoor-Light-in-Traditional-style---3.25-Inches-wide-by-6.31-Inches-high-P8400-31.htm)
 
 Literature on related issues:
+- DarkSky International [State of the Science 2025](https://darksky.org/news/state-of-the-science-2025/)
 - [Scientific research on artificial light at night](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
 - [Artificial light at night database](https://www.zotero.org/groups/2913367/alan_db/)
 - [Impact of artificial lighting on bird migration from US Fish and Wildlife](/www.fws.gov/story/threats-birds-collisions-nighttime-lighting)
 
 Videos, etc:
 
-- [Presentation: Protecting Night Skies and Economic Benefits: Incorporating Dark Sky Programming in Land Use](https://www.youtube.com/watch?v=WxFDD3WsM4A), American Indiginous Tourism Assocation ([powerpoint]()](AITA-11.2025 Webinar_BLM NM and So OR Tourism.pptx)
+- [Presentation: Protecting Night Skies and Economic Benefits: Incorporating Dark Sky Programming in Land Use](https://www.youtube.com/watch?v=WxFDD3WsM4A), American Indiginous Tourism Assocation ([powerpoint](AITA-11.2025 Webinar_BLM NM and So OR Tourism.pptx))
 - [Colorado](https://www.youtube.com/watch?v=QyqykIFqNoY)
 - [LA County](https://www.youtube.com/watch?v=idStuAKJPZs)
 - [DarkSky Land -- Santa Fe Railyards](https://www.youtube.com/watch?v=JV2aY-NLOk8&t=308s)
+- [True Kids (Taos nonprofit) video on ancestral skies](https://www.youtube.com/watch?v=J8Gzg8xV9Ew)
+
+Books related to dark skies:
+- [Book list from DarkSky International](https://darksky.org/news/dark-sky-books/)
+- Craig Childs, "The wild dark: Finding the night sky in the age of light"
 
 
 
