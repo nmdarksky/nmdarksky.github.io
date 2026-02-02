@@ -31,9 +31,9 @@ Chapter related press:
 
 Other dark sky related press (an incomplete list!):
 
-- 12/24 : Washington Post article on [dark skies](https://wapo.st/3Brdqkr)
+- 12/24 : [Washington Post article on dark skies](https://wapo.st/3Brdqkr)
 - 1/24 : [Science article on increasing light pollution](https://www.science.org/content/article/light-pollution-drowning-starry-night-sky-faster-thought)
 - 10/23 : [El Defensor Chieftain article on Mario Motta talk on human health impact](https://www.dchieftain.com/features/light-pollution-has-direct-link-to-cancer/article_ff810977-6211-57c4-9b05-8c3c4b2303a9.html)
 - 8/23 : [New Mexico magazine](NM Mag Night Skies electronic.pdf) 
 - 9/22 : [LA Times article on LEDs and light pollution](https://www.latimes.com/science/story/2022-09-20/how-an-effort-to-reduce-fossil-fuel-use-led-to-another-environmental-problem-light-pollution)
-- 2/19 : NM Muncipal League [Municipal Reporter](https://issuu.com/nmmlmunicipalreporter/docs/19febfinal)
+- 2/19 : [NM Muncipal League Municipal Reporter](https://nm-nmml.civicplus.com/DocumentCenter/View/428/The-Municipal-Reporter---February-2019-PDF)
