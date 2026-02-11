@@ -14,6 +14,7 @@ members of the NM chapter. An annual DarkSky International membership starts at 
 
 You can also additionally donate specifically to the NM chapter through DarkSky International:
 <br>[<B>Donate</b>](https://act.darksky.org/newmexicodarksky) directly to the New Mexico chapter!
+(see [here](donate_mail) if you prefer not to donate on-line) 
 
 ### Get information
 
