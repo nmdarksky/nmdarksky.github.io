@@ -10,6 +10,11 @@ id : Press
 <A HREF=chapter>
 Chapter related press:
 
+- 2026 proclamations for International Dark Sky Week
+  - [State of NM](../proclamations/2025/NM.pdf)
+  - [Taos](../proclamations/2025/Taos.pdf)
+  - [Angel Fire](../proclamations/2025/AngelFire.pdf)
+
 - 2025 proclamations for International Dark Sky Week
   - [State of NM](../proclamations/2025/NewMexico.pdf)
   - [Santa Fe](../proclamations/2025/SantaFe.pdf)
