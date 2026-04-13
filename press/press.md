@@ -14,7 +14,7 @@ Chapter related press:
   - [State of NM](../proclamations/2026/NM.pdf)
   - [Taos](../proclamations/2026/Taos.pdf)
   - [Angel Fire](../proclamations/2026/AngelFire.pdf)
-  - [Los Alamos](../proclamations/2026/LosAlamos.pdf)
+  - [Los Alamos](../proclamations/2026/LosAlamos.jpg)
 
 - 2025 proclamations for International Dark Sky Week
   - [State of NM](../proclamations/2025/NewMexico.pdf)
