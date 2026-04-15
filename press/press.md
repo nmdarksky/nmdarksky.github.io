@@ -25,6 +25,8 @@ Chapter related press:
   - [Los Alamos County](../proclamations/2025/LosAlamos.md)
   - [Angel Fire]
 
+ - 4/26 : [KRQE Interview and article](https://www.krqe.com/always-on/international-dark-sky-week-programs-in-new-mexico/)
+ - 4/26 : [Santa Fe County Article on IDSW](https://www.santafecountynm.gov/news/detail/santa-fe-county-celebrates-international-dark-sky-week)
  - 8/25 : [KUNM Inteview and article on dark skies](https://www.kunm.org/local-news/2025-08-18/group-seeks-to-preserve-restore-the-dark-skies-of-new-mexico)
  - 1/25 : KANW [Stargazers' delight: Efforts to cut unwanted light pollution in New Mexico win praise](https://www.kanw.com/new-mexico-news/2025-01-09/stargazers-delight-efforts-to-cut-unwanted-light-pollution-in-new-mexico-win-praise), [APNews](https://apnews.com/article/dark-starry-skies-light-pollution-oil-industry-42a740ac52d1b307aede9560764f9bb2)
 - 1/25 : [Santa Fe New Mexican editorial](https://www.santafenewmexican.com/opinion/editorials/protect-new-mexicos-dark-skies-for-health-viewing/article_239f9bde-d75e-11ef-9bad-3b7fd8e12270.html)
