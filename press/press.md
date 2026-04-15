@@ -12,6 +12,7 @@ Chapter related press:
 
 - 2026 proclamations for International Dark Sky Week
   - [State of NM](../proclamations/2026/NM.pdf)
+  - [Santa Fe County](../proclamations/2026/SantaFe.pdf)
   - [Taos](../proclamations/2026/Taos.pdf)
   - [Angel Fire](../proclamations/2026/AngelFire.pdf)
   - [Los Alamos](../proclamations/2026/LosAlamos.jpg)
