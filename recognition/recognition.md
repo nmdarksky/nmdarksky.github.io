@@ -1,0 +1,52 @@
+![logo](../logo.png)
+
+# The New Mexico Dark Sky Ancestral Sky Ally Program
+
+### Become an Ancestral Skies Ally by showing that your business realizes the benefits of natural night skies.
+
+### WHAT IS IT?
+
+The NM DarkSky Ancestral Skies Ally program is a New Mexico-based public recognition program supporting businesses that adopt lighting practices that reduce light pollution and protect dark skies. It is sponsored by New Mexico DarkSky, a chapter of DarkSky International. 
+
+The goal of the program is to recognize businesses that have demonstrated appreciation and implementation of the five principles of responsible lighting. Qualified businesses do not need to be located in locations with dark skies, they just need have lighting that does not add to light pollution.
+
+### WHY IS IT IMPORTANT?
+
+Light pollution has negative effects on human and environmental health, public safety, the natural environment, and modern and historic cultures. New Mexico is fortunate to have many locations with dark skies, and these are increasingly important for drawing visitors to our state!
+
+### WHAT’S IN IT FOR MY BUSINESS AND MY COMMUNITY?
+
+Being an Ancestral Skies Ally distinguishes your business as a responsible member of the community, thereby attracting customers and building loyalty. Certified businesses will get a [window cling](NMDS-BRP-cling.jpeg), a [certificate](NMDS-BRP-cert.pdf), be advertised on our web site, and lists of certified businesses will be provided to astrotourism operators to communicate to their clientele.
+
+Preserving New Mexico’s ancestral skies encourages dark sky tourism that generates higher local spending and creates jobs. Responsible outdoor lighting reduces electrical usage and saves money. Responsible lighting can also increase safety and security.
+
+### HOW DOES MY BUSINESS QUALIFY AS NEW MEXICO NIGHT SKY FRIENDLY?
+
+Lights at qualified businesses will adhere to the five principles of responsible lighting:
+1. Use light only if it is needed
+2. Direct light so it falls only where it is needed
+3. Light should be no brighter than necessary
+4. Use light only when it is needed. 
+5. Use warmer colored lights when it is possible
+
+Businesses will achieve certification by completing a spreadsheet [(see example)](https://docs.google.com/spreadsheets/d/1jAXvQ7rLTrUGoanGXf5lOUgpBB6cLq4cAWVKBW7Gdl0) that lists each of your outdoor lights and provides a checklist to determine if they adhere to the five principles. Your submitted spreadsheet will include photos of each light fixture. Special considerations can be submitted. The completed spreadsheet will then be reviewed by New Mexico DarkSky and certification will be granted if the principles have been followed! NM DarkSky will follow up on a roughly annual basis for you to confirm that your business continues to comply with the principles.
+
+
+### HOW DO I START?
+
+Email newmexico@darksky.org to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
+
+### IF MY BUSINESS QUALIFIES, WHAT DO I GET?
+
+A framed [Ancestral Skies Ally Award Certificate](NMDS-BRP-cert.pdf) appropriate for display inside your business and a [window cling](NMDS-BRP-cling.jpeg) to announce to customers your certification as a Dark Sky Friendly business. See samples on the following page. You will have the right to use the Dark Sky Friendly Business logo in your business advertising and communications.
+
+We will also list your business on the New Mexico DarkSky website nmdarksky.org as an Ancestral Skies Ally and Dark Sky Friendly Business.
+
+### WHAT ELSE DO I NEED TO KNOW?
+By accepting the Ancestral Skies Ally Award Certificate, your business or organization agrees to the following:
+*Any future outdoor lighting installed or activated on your premises will be Dark Sky Friendly.
+*Your business agrees to practice responsible outdoor lighting management.
+*Agree to periodic recertification by New Mexico DarkSky.
+
+For More Information: newmexico@darksky.org, nmdarksky.org
+
