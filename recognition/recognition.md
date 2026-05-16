@@ -4,19 +4,19 @@
 
 ### Become an Ancestral Skies Ally by showing that your business realizes the benefits of natural night skies.
 
-### WHAT IS IT?
+### WHAT IS THE PROGRAM??
 
 The NM DarkSky Ancestral Skies Ally program is a New Mexico-based public recognition program supporting businesses that adopt lighting practices that reduce light pollution and protect dark skies. It is sponsored by New Mexico DarkSky, a chapter of DarkSky International. 
 
 The goal of the program is to recognize businesses that have demonstrated appreciation and implementation of the five principles of responsible lighting. Qualified businesses do not need to be located in locations with dark skies, they just need have lighting that does not add to light pollution.
 
-### WHY IS IT IMPORTANT?
+### WHY IS RESPONSIBLE LIGHTING IMPORTANT?
 
 Light pollution has negative effects on human and environmental health, public safety, the natural environment, and modern and historic cultures. New Mexico is fortunate to have many locations with dark skies, and these are increasingly important for drawing visitors to our state!
 
 ### WHAT’S IN IT FOR MY BUSINESS AND MY COMMUNITY?
 
-Being an Ancestral Skies Ally distinguishes your business as a responsible member of the community, thereby attracting customers and building loyalty. Certified businesses will get a [window cling](NMDS-BRP-cling.jpeg), a [certificate](NMDS-BRP-cert.pdf), be advertised on our web site, and lists of certified businesses will be provided to astrotourism operators to communicate to their clientele.
+Being an Ancestral Skies Ally distinguishes your business as a responsible member of the community, thereby attracting customers and building loyalty. Certified businesses will get a [window cling](NMDS-BRP-cling.jpeg), a [certificate](NMDS-BRP-cert.pdf), be [advertised on our web site](recognized), and lists of certified businesses will be provided to astrotourism operators to communicate to their clientele.
 
 Preserving New Mexico’s ancestral skies encourages dark sky tourism that generates higher local spending and creates jobs. Responsible outdoor lighting reduces electrical usage and saves money. Responsible lighting can also increase safety and security.
 
@@ -40,7 +40,7 @@ Email newmexico@darksky.org to request an application spreadsheet for your speci
 
 A framed [Ancestral Skies Ally Award Certificate](NMDS-BRP-cert.pdf) appropriate for display inside your business and a [window cling](NMDS-BRP-cling.jpeg) to announce to customers your certification as a Dark Sky Friendly business. See samples on the following page. You will have the right to use the Dark Sky Friendly Business logo in your business advertising and communications.
 
-We will also list your business on the New Mexico DarkSky website nmdarksky.org as an Ancestral Skies Ally and Dark Sky Friendly Business.
+We will also [list your business](recognized) on the New Mexico DarkSky website nmdarksky.org as an Ancestral Skies Ally and Dark Sky Friendly Business.
 
 ### WHAT ELSE DO I NEED TO KNOW?
 By accepting the Ancestral Skies Ally Award Certificate, your business or organization agrees to the following:
