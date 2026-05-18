@@ -33,6 +33,8 @@ Lights at qualified businesses will adhere to the five principles of responsible
 
 Businesses will achieve certification by completing a spreadsheet [(see example)](https://docs.google.com/spreadsheets/d/1jAXvQ7rLTrUGoanGXf5lOUgpBB6cLq4cAWVKBW7Gdl0) that lists each of your outdoor lights and provides a checklist to determine if they adhere to the five principles. Your submitted spreadsheet will include photos of each light fixture. Special considerations can be submitted. The completed spreadsheet will then be reviewed by New Mexico DarkSky and certification will be granted if the principles have been followed! If your business has a large number of individual compliant lights, making completion of the spreadhsheet impractical, consult with us to determine if we can find an efficient way to grant the certification.
 
+For more information on the five principles and how to apply them, see [DarkSky International's page on responsible lighting](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/home/).
+
 NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your business continues to comply with the principles.
 
 
