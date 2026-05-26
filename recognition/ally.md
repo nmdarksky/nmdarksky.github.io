@@ -1,6 +1,6 @@
 ![logo](../logo.png)
 
-# The New Mexico Dark Sky Ancestral Sky Ally Program
+# The New Mexico DarkSky Ancestral Sky Ally Program
 
 ([PDF flyer with this information](NM DarkSky Ancestral Sky Ally Program.pdf))
 
@@ -31,7 +31,7 @@ Lights at qualified businesses will adhere to the five principles of responsible
 4. Use light only when it is needed. 
 5. Use warmer colored lights when it is possible
 
-Businesses will achieve certification by completing a spreadsheet [(see example)](https://docs.google.com/spreadsheets/d/1jAXvQ7rLTrUGoanGXf5lOUgpBB6cLq4cAWVKBW7Gdl0) that lists each of your outdoor lights and provides a checklist to determine if they adhere to the five principles. Your submitted spreadsheet will include photos of each light fixture. Special considerations can be submitted. The completed spreadsheet will then be reviewed by New Mexico DarkSky and certification will be granted if the principles have been followed! If your business has a large number of individual compliant lights, making completion of the spreadhsheet impractical, consult with us to determine if we can find an efficient way to grant the certification.
+Businesses will achieve certification by completing a [spreadsheet (see example)](https://docs.google.com/spreadsheets/d/1jAXvQ7rLTrUGoanGXf5lOUgpBB6cLq4cAWVKBW7Gdl0) that lists each of your outdoor lights and provides a checklist to determine if they adhere to the five principles. Your submitted spreadsheet will include photos of each light fixture. Special considerations can be submitted. The completed spreadsheet will then be reviewed by New Mexico DarkSky and certification will be granted if the principles have been followed! If your business has a large number of individual compliant lights, making completion of the spreadhsheet impractical, consult with us to determine if we can find an efficient way to grant the certification.
 
 For more information on the five principles and how to apply them, see [DarkSky International's page on responsible lighting](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/home/).
 
@@ -40,7 +40,7 @@ NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your busin
 
 ### HOW DO I START?
 
-Email newmexico@darksky.org to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
+Email [newmexico@darksky.org](mailto:newmexico@darksky.org] to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
 
 ### IF MY BUSINESS QUALIFIES, WHAT DO I GET?
 
@@ -50,9 +50,9 @@ We will also [list your business](recognized) on the New Mexico DarkSky website 
 
 ### WHAT ELSE DO I NEED TO KNOW?
 By accepting the Ancestral Skies Ally Award Certificate, your business or organization agrees to the following:
-*Any future outdoor lighting installed or activated on your premises will be Dark Sky Friendly.
-*Your business agrees to practice responsible outdoor lighting management.
-*Agree to periodic recertification by New Mexico DarkSky.
+ * Any future outdoor lighting installed or activated on your premises will be Dark Sky Friendly.
+ * Your business agrees to practice responsible outdoor lighting management.
+ * Agree to periodic recertification by New Mexico DarkSky.
 
 For More Information: newmexico@darksky.org, nmdarksky.org
 
