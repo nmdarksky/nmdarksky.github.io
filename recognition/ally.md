@@ -40,7 +40,7 @@ NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your busin
 
 ### HOW DO I START?
 
-Email [newmexico@darksky.org](mailto:newmexico@darksky.org] to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
+Email [newmexico@darksky.org](mailto:newmexico@darksky.org) to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
 
 ### IF MY BUSINESS QUALIFIES, WHAT DO I GET?
 
@@ -54,5 +54,5 @@ By accepting the Ancestral Skies Ally Award Certificate, your business or organi
  * Your business agrees to practice responsible outdoor lighting management.
  * Agree to periodic recertification by New Mexico DarkSky.
 
-For More Information: newmexico@darksky.org, nmdarksky.org
+For More Information: [newmexico@darksky.org](mailto:newmexico@darksky.org), [nmdarksky.org](http://nmdarksky.org)
 
