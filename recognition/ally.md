@@ -42,9 +42,16 @@ NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your busin
 
 Email [newmexico@darksky.org](mailto:newmexico@darksky.org) to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
 
+A nominal application fee is required to cover chapter expenses for the program, you can choose from:
+ - $10 Application Fee: Non-refundable fee to ONLY get the static cling window sticker.
+ - $25 Application Fee: Non-refundable fee to get a framed certificate and static cling window sticker.
+ - $50 Application Fee: Non-refundable fee to get a metal sign and static cling window sticker.
+
+The fee will be paid to the NM chapter through a [DarkSky International link](https://act.darksky.org/newmexicodarksky) 
+
 ### IF MY BUSINESS QUALIFIES, WHAT DO I GET?
 
-A framed [Ancestral Skies Ally Award Certificate](NMDS-BRP-cert.pdf) appropriate for display inside your business and a [window cling](NMDS-BRP-cling.jpeg) to announce to customers your certification as a Dark Sky Friendly business. See samples on the following page. You will have the right to use the Dark Sky Friendly Business logo in your business advertising and communications.
+You will receive a [window cling](NMDS-BRP-cling.jpeg) to announce to customers your certification as a Dark Sky Friendly business, and, for an increased application fee, a framed or metal [Ancestral Skies Ally Award Certificate](NMDS-BRP-cert.pdf) appropriate for display inside your business. You will have the right to use the Dark Sky Friendly Business logo in your business advertising and communications.
 
 We will also [list your business](recognized) on the New Mexico DarkSky website nmdarksky.org as an Ancestral Skies Ally and Dark Sky Friendly Business.
 
