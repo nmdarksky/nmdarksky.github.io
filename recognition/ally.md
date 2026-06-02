@@ -42,9 +42,9 @@ NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your busin
 Email [newmexico@darksky.org](mailto:newmexico@darksky.org) to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
 
 A nominal application fee is required to cover chapter expenses for the program, you can choose from:
- - $10 Application Fee: Non-refundable fee to ONLY get the static cling window sticker.
- - $25 Application Fee: Non-refundable fee to get a framed certificate and static cling window sticker.
- - $50 Application Fee: Non-refundable fee to get a metal sign and static cling window sticker.
+ - $10 Application Fee: Non-refundable fee to ONLY get the static cling window sticker and a paper certificate
+ - $25 Application Fee: Non-refundable fee to get a framed certificate and static cling window sticker
+ - $50 Application Fee: Non-refundable fee to get a metal sign and static cling window sticker
 
 The fee will be paid to the NM chapter through a [DarkSky International link](https://act.darksky.org/newmexicodarksky) 
 
