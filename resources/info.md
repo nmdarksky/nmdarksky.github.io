@@ -24,6 +24,7 @@ Organizational web sites with dark sky material:
 - [Arizona Astronomy Consortium](https://azastronomy.org/dark-skies-initiatives/)
 - [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/)
 - [Dark Sky Consulting](https://www.darkskyconsulting.com/)
+- [International Asstronomical Union (IAU) center for the protection of dark and quiet sky](https://cps.iau.org/)
 
 Product information:
 - [DarkSky International DarkSky approved lighting](https://darksky.org/what-we-do/darksky-approved/)
