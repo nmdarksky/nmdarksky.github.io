@@ -12,7 +12,7 @@ The NM DarkSky Ancestral Skies Ally program is a New Mexico-based public recogni
 
 The goal of the program is to recognize businesses that have demonstrated appreciation and implementation of the five principles of responsible lighting. Qualified businesses do not need to be located in locations with dark skies, but they do need to have lighting that does not add to light pollution.
 
-**Please note that this program is separate from ordinances that may exist in your community, which could be more stringent that what is required to qualify here. Please be aware of any such ordinances and ensure that you are in compliance. **
+**Please note that this program is separate from ordinances that may exist in your community, which could be more stringent that what is required to qualify here. Please be aware of any such ordinances and ensure that you are in compliance.**
 
 ### WHY IS RESPONSIBLE LIGHTING IMPORTANT?
 
@@ -38,7 +38,7 @@ For more information on the five principles and how to apply them, see [DarkSky 
 
 NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your business continues to comply with the principles.
 
-**Please note that this program is separate from ordinances that may exist in your community, which could be more stringent that what is required to qualify here. Please be aware of any such ordinances and ensure that you are in compliance. **
+**Please note that this program is separate from ordinances that may exist in your community, which could be more stringent that what is required to qualify here. Please be aware of any such ordinances and ensure that you are in compliance.**
 
 ### HOW DO I START?
 
