@@ -27,7 +27,7 @@ Being an Ancestral Skies Ally distinguishes your business as a responsible membe
 
 Lights at qualified businesses will adhere to the five principles of responsible lighting:
 1. Use light only if it is needed
-2. Use shileded fixtures so light falls only where it is needed, with no light going upwards
+2. Use shielded fixtures with no light going upward, ensuring that light falls only where it is needed
 3. Light should be no brighter than necessary
 4. Use light only when it is needed. 
 5. Use warmer colored lights when it is possible
