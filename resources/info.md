@@ -1,7 +1,7 @@
 ---
 layout: page
-title : External resources
-id : External
+title : Resources
+id : Resources
 ---
 
 Organizational web sites with dark sky material:
@@ -33,7 +33,7 @@ Product information:
 - [Simple light shield for outdoor lights](https://www.progresslightingexperts.com/lighting/4-92-136-0-495869/Progress_Nightsaver---Outdoor-Light-in-Traditional-style---3.25-Inches-wide-by-6.31-Inches-high-P8400-31.htm)
 
 Literature on related issues:
-- DarkSky International [State of the Science 2025](https://darksky.org/news/state-of-the-science-2025/)
+- DarkSky International [State of the Science 2025](https://darksky.org/news/state-of-the-science-2026/)
 - [Scientific research on artificial light at night](https://darksky.org/what-we-do/advancing-responsible-outdoor-lighting/research/)
 - [Artificial light at night database](https://www.zotero.org/groups/2913367/alan_db/)
 - [Impact of artificial lighting on bird migration from US Fish and Wildlife](/www.fws.gov/story/threats-birds-collisions-nighttime-lighting)
