@@ -46,4 +46,5 @@ Coronado Historical Site, Jemez Historical Site
 - [Interactive map at lighttrends.lightpollutionmap.info](https://lighttrends.lightpollutionmap.info/#zoom=5&lon=-104.56607&lat=34.07112)
 - [Gateway to Astronaut Photography of Earth](https://eol.jsc.nasa.gov/)
 - [Nighttime lights](https://www.earthdata.nasa.gov/learn/backgrounders/nighttime-lights)
-
+- [Using SQM meters to measure night sky brightness](SQM-White-Paper.pdf)
+  - [Field sheet for recording SQM measurements](SQM-fieldsheet.pdf)

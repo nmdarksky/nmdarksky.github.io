@@ -50,5 +50,8 @@ Books related to dark skies:
 - [Book list from DarkSky International](https://darksky.org/news/dark-sky-books/)
 - Craig Childs, "The wild dark: Finding the night sky in the age of light"
 
+Measuring night sky brightness with Sky Quality Meters (SQM) :
+- [Using SQM meters to measure night sky brightness](../darkskyplaces/SQM-White-Paper.pdf)
+- [Field sheet for recording SQM measurements](../darkskyplaces/SQM-fieldsheet.pdf)
 
 
