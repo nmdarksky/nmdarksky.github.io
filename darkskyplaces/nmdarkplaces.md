@@ -48,3 +48,4 @@ Coronado Historical Site, Jemez Historical Site
 - [Nighttime lights](https://www.earthdata.nasa.gov/learn/backgrounders/nighttime-lights)
 - [Using SQM meters to measure night sky brightness](SQM-White-Paper.pdf)
   - [Field sheet for recording SQM measurements](SQM-fieldsheet.pdf)
+  - [Excel spreadsheet for measurements and calculations](SQM-datasheet-white-paper.xlsx)
