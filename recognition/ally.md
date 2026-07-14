@@ -49,7 +49,7 @@ A one-time application fee is required to cover chapter expenses for the program
  - $25 Application Fee: Non-refundable fee to get a framed certificate and static cling window sticker
  - $10 Application Fee: Non-refundable fee to ONLY get the static cling window sticker and a paper certificate
 
-The fee will be paid to the NM chapter through a [DarkSky International link](https://act.darksky.org/newmexicodarksky) 
+The fee will be paid to the NM chapter through a [DarkSky International link](https://secure.darksky.org/a/newmexico) 
 
 ### IF MY BUSINESS QUALIFIES, WHAT DO I GET?
 

@@ -333,9 +333,9 @@ meeting. Sends email reminders for all meetings. Coordinates State Council
 elections. Submits annual report to DarkSky International. Receives monthly
 membership reports from DarkSky International and updates nm-darksky-members google
 group mailing list accordingly. Attempts to coordinate
-committees and ensure productivity. Monitors newmexico@darksky.org email accounts
+committees and ensure productivity. Monitors info@nmdarksky.org email accounts
 and responds/forwards as needed. Maintains and updates web site. Maintains and
-updates newmexico@darksky.org Google Drive.
+updates info@nmdarksky.org Google Drive.
 
 **Vice-Chair**: fills in for chair as needed
 

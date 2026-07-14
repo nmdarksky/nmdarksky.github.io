@@ -70,7 +70,7 @@ The following sections provide some links to Night Sky Friendly
 Lighting at a few retailers that have stores in New Mexico. These links
 were compiled in June 2025, so these fixtures may or may not be currently
 available, and there may be other fixtures that have become available (feel
-free to contact us at [newmexico@darksky.org](mailto:newmexico@darksky.org) if you have updated information,
+free to contact us at [info@nmdarksky.org](mailto:info@nmdarksky.org) if you have updated information,
 so that we can keep this page up-to-date).
 But, in any case, if any of these links are still working, they can give
 you some visuals of what type of fixtures are good.
@@ -93,4 +93,4 @@ you some visuals of what type of fixtures are good.
 - [Westinghouse Winslett Textured Black Switch LED Light Fixture ](https://www.acehardware.com/departments/lighting-and-electrical/outdoor-lighting/wall-mounted-lighting/3005835)
 - [NEBO Low Voltage 2.5 W LED Wall/Pillar Light 1 pk](https://www.acehardware.com/departments/lighting-and-electrical/outdoor-lighting/landscape-and-deck-lighting/3010372)
 
-[Contact New Mexico DarkSky](mailto:newmexico@darksky.org) if you have any questions, comments or need advice.
+[Contact New Mexico DarkSky](mailto:info@nmdarksky.org) if you have any questions, comments or need advice.
