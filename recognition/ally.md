@@ -42,7 +42,7 @@ NM DarkSky will follow up on a 1-3 year cycle for you to confirm that your busin
 
 ### HOW DO I START?
 
-Email [newmexico@darksky.org](mailto:newmexico@darksky.org) to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
+Email [info@nmdarksky.org](mailto:info@nmdarksky.org) to request an application spreadsheet for your specific business. We can provide a link to a Google spreadsheet or send an Excel spreadsheet for you to complete and submit.
 
 A one-time application fee is required to cover chapter expenses for the program, you can choose from:
  - $50 Application Fee: Non-refundable fee to get a metal sign and static cling window sticker
@@ -65,5 +65,5 @@ remove all certificates from display.
  * Any future outdoor lighting installed or activated on your premises will be Dark Sky Friendly by following the five principles of responsible outdoor lighting.
  * Agree to respond to inquiries from NM DarkSky if any questions come up about the qualification of your lighting
 
-For More Information: [newmexico@darksky.org](mailto:newmexico@darksky.org), [nmdarksky.org](http://nmdarksky.org)
+For More Information: [info@nmdarksky.org](mailto:info@nmdarksky.org), [nmdarksky.org](http://nmdarksky.org)
 
