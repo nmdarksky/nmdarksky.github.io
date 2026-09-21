@@ -31,6 +31,7 @@ Product information:
 - [web site with photometric files and graphs](https://photometriceditor.com)
   - [how to read an IES file](https://www.linkedin.com/pulse/how-read-ies-report-daniel-han/)
 - [Simple light shield for outdoor lights](https://www.progresslightingexperts.com/lighting/4-92-136-0-495869/Progress_Nightsaver---Outdoor-Light-in-Traditional-style---3.25-Inches-wide-by-6.31-Inches-high-P8400-31.htm)
+- [Commercial 3D printed light shields](https://yozora.store/)
 
 Literature on related issues:
 - DarkSky International [State of the Science 2026](https://darksky.org/news/state-of-the-science-2026/)
