@@ -6,6 +6,25 @@ layout: page
 
 ![logo](../logo.png)
 
+### Standard pitch / talking points for outreach events
+
+- get their concerns
+- get them to sign signup sheet with email address (make sure to communicate this sheet after the event!)
+- get them to join DarkSky International
+- critical importance of talking to others about the issue, even if just to say it's important to you
+  - friends and neighbors
+  - retailers
+  - local and state politicians
+- key points 
+  - don't need to turn out lihgts, just need to put light where and when it is needed
+  - five principles
+- useful terminology for talking with people
+  - glare
+  - light trespass
+
+### Frequently asked questions and appropriate responses
+
+- see [FAQ page](https://www.nmdarksky.org/faq/faq.html)
 
 ### Materials for outreach events
 
@@ -23,26 +42,3 @@ layout: page
 - [sign up sheet for email addresses](material/emaillist.pdf) (and make sure to communicate these after the event!)
 
 
-### Standard pitch / talking points
-
-- get their concerns
-- get them to sign signup sheet with email address (make sure to communicate this sheet after the event!)
-- get them to join DarkSky International
-- critical importance of talking to others about the issue, even if just to say it's important to you
-  - friends and neighbors
-  - retailers
-  - local and state politicians
-- key points 
-  - don't need to turn out lihgts, just need to put light where and when it is needed
-  - five principles
-- useful terminology for talking with people
-  - glare
-  - light trespass
-
-
-
-### Frequently asked questions and appropriate responses
-
-- My neighbor has bright lights that bug me:
-
-- There are city lights near my home that bug me:
