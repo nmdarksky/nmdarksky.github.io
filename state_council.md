@@ -15,13 +15,14 @@ regular first Monday schedule is established in advance.**
 
 The State Council is responsible for the management of the activities
 of the chapter, and are elected for two-year terms. Elections held 
-March 2024 and 2025 result in the following Council:
+2025 and 2026 result in the following Council:
 
-Terms expiring 2026:  Michael Hensley,
-Nick Knorr (secretary/treasurer), Peter Lipscomb (vice chair), Gary Starkweather, Derek Wallentinsen.
 
 Terms expiring 2027:  John Briggs (2nd term), Jon Holtzman (chair, 2nd term), Marisela La Grave (2nd term), 
 Sarah McIntyre, Colin Nicholls, Jim Price (2nd term), Didier Saumon
+
+Terms expiring 2028:  Rachael Bechtel, Suzanne Eisenberg, Michael Hensley, Nick Knorr (secretary/treasurer), 
+Peter Lipscomb (vice chair), Gina Pearson, Gary Starkweather, Derek Wallentinsen.
 
 Council members can be re-elected for up to three terms.
 
