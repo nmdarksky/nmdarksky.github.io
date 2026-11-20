@@ -49,3 +49,4 @@ Coronado Historical Site, Jemez Historical Site
 - [Using SQM meters to measure night sky brightness](SQM-White-Paper.pdf)
   - [Field sheet for recording SQM measurements](SQM-fieldsheet.pdf)
   - [Excel spreadsheet for measurements and calculations](SQM-datasheet-white-paper.xlsx)
+  - [SQM-LU-DL White Paper](SQM-LU-DL-White-Paper.pdf)
