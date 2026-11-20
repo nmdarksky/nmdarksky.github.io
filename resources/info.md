@@ -52,8 +52,8 @@ Books related to dark skies:
 - Craig Childs, "The wild dark: Finding the night sky in the age of light"
 
 Measuring night sky brightness with Sky Quality Meters (SQM) :
-- [Using SQM meters to measure night sky brightness](../darkskyplaces/SQM-White-Paper.pdf)
-- [SQM-LU-DL white paper](../darkskyplaces/SQM-LU-DL-White-Paper.pdf)
+- [Using SQM handheld meters to measure night sky brightness](../darkskyplaces/SQM-White-Paper.pdf)
+- [Using SQM-LU-DL meters](../darkskyplaces/SQM-LU-DL-White-Paper.pdf)
 - [Field sheet for recording SQM measurements](../darkskyplaces/SQM-fieldsheet.pdf)
 - [Excel spreadsheet for measurements and calculations](SQM-datasheet-white-paper.xlsx)
 
