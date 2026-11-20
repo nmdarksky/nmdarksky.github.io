@@ -53,6 +53,7 @@ Books related to dark skies:
 
 Measuring night sky brightness with Sky Quality Meters (SQM) :
 - [Using SQM meters to measure night sky brightness](../darkskyplaces/SQM-White-Paper.pdf)
+- [SQM-LU-DL white paper](../darkskyplaces/SQM-LU-DL-White-Paper.pdf)
 - [Field sheet for recording SQM measurements](../darkskyplaces/SQM-fieldsheet.pdf)
 - [Excel spreadsheet for measurements and calculations](SQM-datasheet-white-paper.xlsx)
 
