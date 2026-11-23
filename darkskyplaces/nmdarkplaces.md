@@ -10,7 +10,7 @@ id : Places
 
 DarkSky International has a formal certification program for 
 [DarkSky Places](https://darksky.org/what-we-do/international-dark-sky-places/). There
-are currently nine such certified locations in New Mexico:
+are currently ten such certified locations in New Mexico:
 
 - Chaco Canyon National Historical Park
 - Clayton Lake State Park (DarkSky Park)
@@ -21,6 +21,7 @@ are currently nine such certified locations in New Mexico:
 - Salinas Pueblo Missions National Monument (DarkSky Park)
 - Valle de Oro Nation Wildlife Refuge (DarkSky Urban Place)
 - Valles Caldera National Preserve (DarkSky Park)
+- Rio Grande del Norte National Monument (DarkSky Park) 
 
 See [New Mexico True web site](https://www.newmexico.org/darkskies/) for more information and links
 
