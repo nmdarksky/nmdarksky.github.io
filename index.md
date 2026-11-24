@@ -51,4 +51,4 @@ really is no down side! See our handout on [values of responsible lighting](Valu
 <br>[<B>Donate</b>](https://secure.darksky.org/a/newmexico) directly to the New Mexico chapter!
 <br>[<B>Email</b>](mailto:info@nmdarksky.org) us at <a href="mailto:info@nmdarksky.org"> info@nmdarksky.org
 <br> [Contact us](mailto:info@nmdarksky.org) to request our Protect the New Mexico DarkSky brochure!
-<br><a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> <img src="outreach/material/cover.png" width="10%"> Click to see full brochure!</A>
+<br><a href="outreach/material/NM Protect the night brochure (12-2026).pdf"> <img src="outreach/material/cover.png" width="10%"> Click to see full brochure!</A>

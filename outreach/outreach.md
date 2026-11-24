@@ -31,7 +31,7 @@ layout: page
 - Table
 - [Banner](material/banner_logo.pdf) for table
 - Chairs
-- Protect the New Mexico Night Sky [brochures](material/NM Protect the night brochure (5-2024).pdf)
+- Protect the New Mexico Night Sky [brochures](material/NM Protect the night brochure (12-2026).pdf)
 - [Fact sheets](https://darksky.org/resources/public-outreach-materials/) for taping to table
 - Sheet for DarkSky approved fixtures and link
 - Sheet showing good and bad fixtures
